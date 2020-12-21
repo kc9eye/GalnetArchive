@@ -20,6 +20,7 @@ namespace GalnetArchiver
             Console.WriteLine("Galnet Archiver v0.12");
             Console.WriteLine("Loading archive...");
             archive.Load(Path.Combine(Directory.GetCurrentDirectory(),"GalnetArchive.xml"));
+
             XmlNode root = archive.DocumentElement;
             XmlNode last = root.LastChild;
             XmlNode lastDate = last.SelectSingleNode("date");
