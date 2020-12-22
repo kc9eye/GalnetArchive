@@ -8,11 +8,11 @@ using System.Collections.Generic;
 
 namespace GalnetArchiver
 {
-    class Archiver
-    {
+    class Archiver { 
+ 
         static void Main(string[] args)
         {
-            String baseUrl = "https://community.elitedangerous.com/en/galnet";
+            string baseUrl = "https://community.elitedangerous.com/en/galnet";
 
             Archiver app = new Archiver();
             XmlDocument archive = new XmlDocument();
@@ -77,7 +77,7 @@ namespace GalnetArchiver
 
                             newArticles.Add(article);
                             
-                            Console.WriteLine(" archived!");
+                            //Console.WriteLine(" archived!");
                             
                         }
 
