@@ -6271,7 +6271,13 @@ Jones confirmed that the remaining Narwhal will be replaced with a pair of modif
     <id>5fc64e1d69e6d</id>
     <link>/galnet/uid/56d414769657ba963ad10caf</link>
     <title> Community Goal: Conspiracy Theorist Appeals for Cartographic Data</title>
-    <date>29 FEB 3302</date>
+    <!--
+      This articles date is being changed from 29 FEB 3302, to 28 FEB 3302. This is due to the stupidity of FDev
+      releasing an article on the date of a leap year, when it's corresponding future's date is not an actual leap year.
+      Ergo, 29 FEB 3302 is not a leap year, but the release date of the article: ((29 FEB 3302) - 1286 years) is a leap
+      year. This does not allow conversion of this date to an actual DateTime, as it does not actually exist.
+    -->
+    <date>28 FEB 3302</date>
     <story>Notorious conspiracy theorist Ricardo Bentonio has issued an appeal for cartographic data with which to substantiate an extraordinary claim. According to a recent press statement, Bentonio has unearthed ancient records that prove the 29th of February 3302, which appears on all galactic calendars, should not exist. He has convinced Kruger 60 Free to fund the one-day appeal, believing that the cartographic data will prove him correct.
 Bentonio elaborated on his theory at a press conference:
 "We're not just talking about computers shutting down or ship systems failing. We're talking about the end of life as we know it! We're talking about the very fabric of space-time collapsing in on itself, and the entire universe coming to an end!"

@@ -8,11 +8,11 @@ using System.Collections.Generic;
 
 namespace GalnetArchiver
 {
-    class Archiver
-    {
+    class Archiver { 
+ 
         static void Main(string[] args)
         {
-            String baseUrl = "https://community.elitedangerous.com/en/galnet";
+            string baseUrl = "https://community.elitedangerous.com/en/galnet";
 
             Archiver app = new Archiver();
             XmlDocument archive = new XmlDocument();
@@ -20,6 +20,7 @@ namespace GalnetArchiver
             Console.WriteLine("Galnet Archiver v0.12");
             Console.WriteLine("Loading archive...");
             archive.Load(Path.Combine(Directory.GetCurrentDirectory(),"GalnetArchive.xml"));
+
             XmlNode root = archive.DocumentElement;
             XmlNode last = root.LastChild;
             XmlNode lastDate = last.SelectSingleNode("date");
@@ -76,7 +77,7 @@ namespace GalnetArchiver
 
                             newArticles.Add(article);
                             
-                            Console.WriteLine(" archived!");
+                            //Console.WriteLine(" archived!");
                             
                         }
 
@@ -96,7 +97,6 @@ namespace GalnetArchiver
                 
             }
             Console.WriteLine("Completed");
-            Console.Read();
         }
 
         public IEnumerable EachDay(DateTime from, DateTime thru)
