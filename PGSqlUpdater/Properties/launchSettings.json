@@ -1,8 +1,0 @@
-{
-  "profiles": {
-    "PGSqlUpdater": {
-      "commandName": "Project",
-      "commandLineArgs": "127.0.0.1 5432 galnet dev localalpha"
-    }
-  }
-}

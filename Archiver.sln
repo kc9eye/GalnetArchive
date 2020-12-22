@@ -5,7 +5,7 @@ VisualStudioVersion = 16.0.30717.126
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GalnetArchiver", "GalnetArchiver.csproj", "{4A0DAB23-2878-4582-A2E1-54F15CAF412D}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PGSqlUpdater", "PGSqlUpdater\PGSqlUpdater.csproj", "{248ED8A8-FB47-4F1A-82E4-61E5E5430294}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PGSqlUpdater", "..\PGSqlUpdater\PGSqlUpdater.csproj", "{12C80967-3742-4D8B-91F3-F68041D25AC3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,10 +17,10 @@ Global
 		{4A0DAB23-2878-4582-A2E1-54F15CAF412D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4A0DAB23-2878-4582-A2E1-54F15CAF412D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4A0DAB23-2878-4582-A2E1-54F15CAF412D}.Release|Any CPU.Build.0 = Release|Any CPU
-		{248ED8A8-FB47-4F1A-82E4-61E5E5430294}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{248ED8A8-FB47-4F1A-82E4-61E5E5430294}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{248ED8A8-FB47-4F1A-82E4-61E5E5430294}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{248ED8A8-FB47-4F1A-82E4-61E5E5430294}.Release|Any CPU.Build.0 = Release|Any CPU
+		{12C80967-3742-4D8B-91F3-F68041D25AC3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12C80967-3742-4D8B-91F3-F68041D25AC3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12C80967-3742-4D8B-91F3-F68041D25AC3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12C80967-3742-4D8B-91F3-F68041D25AC3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

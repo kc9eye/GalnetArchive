@@ -14,12 +14,6 @@
     <None Update="GalnetArchive.xml">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>
-    <None Update="PGSqlUpdater\bin\Debug\netcoreapp3.1\GalnetArchive.xml">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </None>
-    <None Update="PGSqlUpdater\GalnetArchive.xml">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </None>
   </ItemGroup>
 
 </Project>
