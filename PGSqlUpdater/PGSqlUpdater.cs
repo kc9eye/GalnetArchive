@@ -43,11 +43,17 @@ namespace PGSqlUpdater
                 }
                 await dbh.CloseAsync();
 
+                PGSqlUpdater updater = new PGSqlUpdater();
+
                 if (String.IsNullOrEmpty(lastStored))
                 {
                     Console.WriteLine("Database is empty, archiving all articles...");
-                    PGSqlUpdater updater = new PGSqlUpdater();
-                    await updater.StoreAllArticles(dcs, archive);
+                    await updater.StoreAllArticlesAsync(dcs, archive);
+                }
+                else
+                {
+                    Console.WriteLine("Updating database...");
+                    await updater.IncrementalUpdateAsync(dcs, lastStored, archive);
                 }
             }
             catch(NpgsqlException e)
@@ -62,7 +68,52 @@ namespace PGSqlUpdater
 
         }
 
-        public async Task StoreAllArticles(string dcs, XmlDocument archive)
+        public async Task IncrementalUpdateAsync(string dcs, string lastStored, XmlDocument archive)
+        {
+            XmlNode root = archive.DocumentElement;
+            DateTime lastInsert = Convert.ToDateTime(lastStored);
+            Console.WriteLine("Last inserted article dated: {0}", lastInsert.ToString("dd MMM yyyy"));
+            try
+            {
+                await using var dbh = new NpgsqlConnection(dcs);
+                await dbh.OpenAsync();
+                foreach (XmlNode article in root.SelectNodes("//article"))
+                {
+                    DateTime articleDate = Convert.ToDateTime(article.SelectSingleNode("date").InnerText);
+                    int result = DateTime.Compare(articleDate, lastInsert);
+                    if (result > 0)
+                    {
+                        Console.Write("Found article to insert...");
+                        string id = article.SelectSingleNode("id").InnerText;
+                        string link = article.SelectSingleNode("link").InnerText;
+                        DateTime date = Convert.ToDateTime(article.SelectSingleNode("date").InnerText);
+                        string title = article.SelectSingleNode("title").InnerText;
+                        string story = article.SelectSingleNode("story").InnerText;
+
+                        await using (var insert = new NpgsqlCommand("insert into articles values (@id,@date,@link,@title,@story)", dbh))
+                        {
+                            insert.Parameters.AddWithValue("id", id);
+                            insert.Parameters.AddWithValue("date", date);
+                            insert.Parameters.AddWithValue("link", link);
+                            insert.Parameters.AddWithValue("title", title);
+                            insert.Parameters.AddWithValue("story", story);
+                            insert.ExecuteNonQuery();
+                        }
+                        Console.WriteLine("{0} stored!", title);
+                    }
+                }
+            }
+            catch (NpgsqlException e)
+            {
+                Console.WriteLine(e);
+            }
+            catch (Exception e)
+            {
+                Console.WriteLine(e);
+            }
+        }
+
+        public async Task StoreAllArticlesAsync(string dcs, XmlDocument archive)
         {
             XmlNode root = archive.DocumentElement;
             XmlNodeList articles = root.SelectNodes("//article");
@@ -92,6 +143,7 @@ namespace PGSqlUpdater
                 }
 
                 await dbh.CloseAsync();
+                Console.WriteLine("Finsihed inserting all articles.");
             }
             catch(NpgsqlException e)
             {

@@ -97,7 +97,6 @@ namespace GalnetArchiver
                 
             }
             Console.WriteLine("Completed");
-            Console.Read();
         }
 
         public IEnumerable EachDay(DateTime from, DateTime thru)
