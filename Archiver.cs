@@ -76,12 +76,12 @@ namespace GalnetArchiver
                             article.AppendChild(Story);
 
                             newArticles.Add(article);
-                            
-                            //Console.WriteLine(" archived!");
-                            
+
+                            Console.WriteLine(" archived!");
+
                         }
 
-                        foreach(XmlNode article in newArticles)
+                        foreach (XmlNode article in newArticles)
                         {
                             root.AppendChild(article);
                         }
