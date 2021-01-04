@@ -11,14 +11,30 @@ namespace PGSqlUpdater
         static async Task Main(string[] args)
         {
             string dcs = "";
-            if (args.Length == 0||args.Length < 5)
+            if (args.Length > 0 && args.Length < 5)
             {
                 Console.WriteLine("Usage: PGSqlUpdater.exe [dbhost] [dbport] [dbname] [dbuser] [dbpassword]");
                 Environment.Exit(1);
             }
-            else
+            else if (args.Length == 5)
             {
                 dcs = "Host=" + args[0] + ";Port=" + args[1] + ";Database=" + args[2] + ";Username=" + args[3] + ";Password=" + args[4];
+            }
+            else
+            {
+                string conf = @Path.Combine(Environment.CurrentDirectory, "dbhost.conf");
+                if (!File.Exists(conf))
+                {
+                    Console.WriteLine("No configuration file found, please use commmand line arguments or create config file with database connection string, as dbhost.conf");
+                    Environment.Exit(1);
+                }
+
+                dcs = File.ReadAllText(conf);
+            }
+            if (String.IsNullOrEmpty(dcs))
+            {
+                Console.WriteLine("Can't connect to database, with an empty connection string!");
+                Environment.Exit(2);
             }
             Console.WriteLine("PGSqlUpdater v0.1");
             Console.WriteLine("Loading archive...");
