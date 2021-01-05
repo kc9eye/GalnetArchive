@@ -48,7 +48,7 @@ namespace PGSqlUpdater
             try
             {
                 string lastStored;
-                Console.WriteLine("Trying database {0} at {1}...",args[2],args[0]);
+                Console.WriteLine("Trying database...");
                 await using var dbh = new NpgsqlConnection(dcs);
                 await dbh.OpenAsync();
                 await using (var query = new NpgsqlCommand("select max(_date) from articles",dbh))
@@ -70,18 +70,19 @@ namespace PGSqlUpdater
                 {
                     Console.WriteLine("Updating database...");
                     await updater.IncrementalUpdateAsync(dcs, lastStored, archive);
+                    Console.Read();
                 }
             }
             catch(NpgsqlException e)
             {
                 Console.WriteLine(e);
+                Console.Read();
             }
             catch(Exception e)
             {
                 Console.WriteLine(e);
+                Console.Read();
             }
- 
-
         }
 
         public async Task IncrementalUpdateAsync(string dcs, string lastStored, XmlDocument archive)
@@ -122,10 +123,12 @@ namespace PGSqlUpdater
             catch (NpgsqlException e)
             {
                 Console.WriteLine(e);
+                Console.Read();
             }
             catch (Exception e)
             {
                 Console.WriteLine(e);
+                Console.Read();
             }
         }
 
@@ -160,6 +163,7 @@ namespace PGSqlUpdater
 
                 await dbh.CloseAsync();
                 Console.WriteLine("Finsihed inserting all articles.");
+                Console.Read();
             }
             catch(NpgsqlException e)
             {
