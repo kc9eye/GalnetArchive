@@ -16,6 +16,7 @@ namespace GalnetArchiver
 
             Archiver app = new Archiver();
             XmlDocument archive = new XmlDocument();
+            archive.PreserveWhitespace = false;
 
             Console.WriteLine("Galnet Archiver v0.12");
             Console.WriteLine("Loading archive...");
@@ -24,6 +25,8 @@ namespace GalnetArchiver
             XmlNode root = archive.DocumentElement;
             XmlNode last = root.LastChild;
             XmlNode lastDate = last.SelectSingleNode("date");
+            decimal currentVersion = Decimal.Parse(root.SelectSingleNode("version").InnerText);
+
             DateTime lastUpdated = Convert.ToDateTime(lastDate.InnerText);
             DateTime currentDate = Convert.ToDateTime(DateTime.UtcNow.AddYears(1286));
 
@@ -85,7 +88,8 @@ namespace GalnetArchiver
                         {
                             root.AppendChild(article);
                         }
-
+                        decimal newVersion = decimal.Add(currentVersion, 0.001m);
+                        root.SelectSingleNode("version").InnerText = newVersion.ToString();
                         archive.Save(Path.Combine(Directory.GetCurrentDirectory(), "GalnetArchive.xml"));
                     }
                     else
