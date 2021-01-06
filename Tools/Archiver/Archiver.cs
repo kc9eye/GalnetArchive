@@ -13,6 +13,7 @@ namespace GalnetArchiver
         static void Main(string[] args)
         {
             string baseUrl = "https://community.elitedangerous.com/en/galnet";
+            string archivePath = Path.Combine(Directory.GetParent(Directory.GetParent(Directory.GetCurrentDirectory()).FullName).FullName, "GalnetArchive.xml");
 
             Archiver app = new Archiver();
             XmlDocument archive = new XmlDocument();
@@ -20,7 +21,7 @@ namespace GalnetArchiver
 
             Console.WriteLine("Galnet Archiver v0.12");
             Console.WriteLine("Loading archive...");
-            archive.Load(Path.Combine(Directory.GetCurrentDirectory(),"GalnetArchive.xml"));
+            archive.Load(archivePath);
 
             XmlNode root = archive.DocumentElement;
             XmlNode last = root.LastChild;
@@ -90,7 +91,7 @@ namespace GalnetArchiver
                         }
                         decimal newVersion = decimal.Add(currentVersion, 0.001m);
                         root.SelectSingleNode("version").InnerText = newVersion.ToString();
-                        archive.Save(Path.Combine(Directory.GetCurrentDirectory(), "GalnetArchive.xml"));
+                        archive.Save(archivePath);
                     }
                     else
                     {

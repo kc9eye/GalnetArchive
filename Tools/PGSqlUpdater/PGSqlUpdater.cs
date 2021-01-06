@@ -39,7 +39,7 @@ namespace PGSqlUpdater
             Console.WriteLine("PGSqlUpdater v0.1");
             Console.WriteLine("Loading archive...");
             XmlDocument archive = new XmlDocument();
-            archive.Load(Path.Combine(Directory.GetCurrentDirectory(), "GalnetArchive.xml"));
+            archive.Load(Path.Combine(Directory.GetParent(Directory.GetParent(Directory.GetCurrentDirectory()).FullName).FullName, "GalnetArchive.xml"));
             XmlNode root = archive.DocumentElement;
             XmlNode last = root.LastChild;
             XmlNode lastDate = last.SelectSingleNode("date");
