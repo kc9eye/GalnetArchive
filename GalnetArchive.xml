@@ -1,12 +1,13 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <GalnetArchive>
-  <version>1.002</version>
+  <version>1.003</version>
   <article>
-  <id>5ff5b9b37a37e</id>
-  <link></link>
-  <title>SHIP SALES SERVICE REPORT</title>
-  <date>19 SEP 3300</date>
-  <story>After last week's stunning news of a free Eagle for all, Core Dynamics falls back to a more usual 13.6% market share.
+    <id>5ff5b9b37a37e</id>
+    <link>
+    </link>
+    <title>SHIP SALES SERVICE REPORT</title>
+    <date>19 SEP 3300</date>
+    <story>After last week's stunning news of a free Eagle for all, Core Dynamics falls back to a more usual 13.6% market share.
 Faulcon deLacy remains top of the pile and tightens its grip on the market even further with a 1.6% overall market share rise to 41.6%. We have been digging hard over the past week following the rumours of the FdL board doing a big deal. Although we haven't yet got the full story it appears that something huge is about to happen with the Cobra. Could this be linked to the 30 year anniversary tension between Eranin and the Federation?
 Zorgon Peterson once again accounts for a solid 26% share this week.
 Lakon sales remain static this week, and the company will hope today's news of the release of the Asp Explorer on 30 September will help stimulate interest in their range.
@@ -14,7 +15,8 @@ Lakon sales remain static this week, and the company will hope today's news of t
   </article>
   <article>
     <id>5ff5ba9572069</id>
-    <link></link>
+    <link>
+    </link>
     <title>COLD WAR READY TO IGNITE?</title>
     <date>19 SEP 3300</date>
     <story>Eranin's 30 year anniversary of independence from the Federation is tomorrow, and their 'cold war' looks more and more like a tinderbox ready to ignite.
@@ -24,7 +26,8 @@ Frankly things don't look good. We'd expect to see both sides reaching out to me
   </article>
   <article>
     <id>5ff5bb79b267f</id>
-    <link></link>
+    <link>
+    </link>
     <title>ERANIN CELEBRATION LIQUOR BANNED BY FEDERATION</title>
     <date>22 SEP 3300</date>
     <story>Eranin's slow-burn escalation of tension with the Federation over its 30th Anniversary Of Independence celebrations looks to be coming to a head.
@@ -40,7 +43,8 @@ The ultimate destination of all this hardware is currently unknown, but having a
   </article>
   <article>
     <id>5ff5ca49662cd</id>
-    <link></link>
+    <link>
+    </link>
     <title>FAULCON DELACY SLASHES COBRA PRICES BY 50%, OFFERS 100% TRADE-IN VALUE IN UNPRECEDENTED</title>
     <date>22 SEP 3300</date>
     <story>It turns out that big deal that the Faulcon deLacy board was rumoured to be working on is a spectacular one. In a surprise move, prices of their Cobra Mk III craft have been slashed by 50% to 86,052 credits. FdL is also offering 100% of the trade-in value of your current ship when you switch to a Cobra Mk III.
@@ -50,7 +54,8 @@ The net result, however, is a significant militarization of the ships out there 
   </article>
   <article>
     <id>5ff5cb9103aab</id>
-    <link></link>
+    <link>
+    </link>
     <title>FAULCON DELACY COBRA PRICE - LATEST</title>
     <date>23 SEP 3300</date>
     <story>We are working our data sources hard in order to bring you behind the scenes information on that spectacular Faulcon deLacy price deal which is throwing fuel on the fire of the Eranin / Federation tensions by militarizing both sides.
@@ -66,7 +71,8 @@ Our correspondent was ushered out of the banquet shortly afterwards.
   </article>
   <article>
     <id>5ff5cc257c656</id>
-    <link></link>
+    <link>
+    </link>
     <title>ERANIN VS FEDERATION SKIRMISHES INTENSIFY</title>
     <date>23 SEP 3300</date>
     <story>Commanders are getting heavily involved in the growing conflict between Eranin and the Federation over Eranin's 30th Anniversary of Independence.
@@ -81,7 +87,8 @@ Normally we would simply expect nature to take its course with such behavior, ho
   </article>
   <article>
     <id>5ff5cce852d2e</id>
-    <link></link>
+    <link>
+    </link>
     <title>ERANIN VS FEDERATION - COMMANDER REACTIONS</title>
     <date>24 SEP 3300</date>
     <story>There are still commanders such as CMDR Pheyes who are ambivalent about their allegiance and appear to be indiscriminate in their targeting.
@@ -104,7 +111,8 @@ And of course there are those such as CMDR Lukozer, who are fiercely loyal to th
   </article>
   <article>
     <id>5ff5cd8ecab9d</id>
-    <link></link>
+    <link>
+    </link>
     <title>ERANIN VS FEDERATION</title>
     <date>24 SEP 3300</date>
     <story>Perhaps rather than conflict, Imperial Senator Denton Patreus' characterization of the situation around Eranin yesterday as 'civil war' is growing more accurate by the day...
@@ -120,7 +128,8 @@ We are getting reports that the Independent Alliance are about to formally inter
   </article>
   <article>
     <id>5ff5ce054557f</id>
-    <link></link>
+    <link>
+    </link>
     <title>COMMANDER ACTIVITY AS UNREST SPREADS</title>
     <date>25 SEP 3300</date>
     <story>In response to the Eranin government's call yesterday for a wider spread of its now-infamous celebration liquor, there has been much activity involving large amounts of liquor in several systems.
@@ -132,7 +141,8 @@ Meanwhile, there are whispers of covert Federal activity in Asellus Primus and W
   </article>
   <article>
     <id>5ff5d437ec49f</id>
-    <link></link>
+    <link>
+    </link>
     <title>ERANIN AND REBELS IN FEDERATION-BROKERED PEACE TALKS</title>
     <date>25 SEP 3300</date>
     <story>As Eranin 30th Anniversary celebratory liquor is spread far and wide, the Federation Black Ops teams are moving to more overt than covert operations in support of the rebels, removing all doubt that the rebels are a Federation proxy.
@@ -143,7 +153,8 @@ Meanwhile, a spokesman for Senator Patreus denied rumours that he had personally
   </article>
   <article>
     <id>5ff5d4dc759d0</id>
-    <link></link>
+    <link>
+    </link>
     <title>ERANIN AND REBEL PEACE TALKS FAIL - WAR DECLARED!</title>
     <date>26 SEP 3300</date>
     <story>Yesterday's peace talks between the Eranin government and Federation-leaning rebels collapsed into chaos yesterday.
@@ -172,7 +183,8 @@ CMDR Maeyae has become the top trader of liquor in a type 9, trading 20 times in
   </article>
   <article>
     <id>5ff5d58bec679</id>
-    <link></link>
+    <link>
+    </link>
     <title>ERANIN CIVIL WAR ESCALATES</title>
     <date>29 SEP 3300</date>
     <story>The Azebanian provincial city of New Fresno fell to rebel forces this morning as the civil war moved into its fourth day.
@@ -197,7 +209,8 @@ In other developments:
   </article>
   <article>
     <id>5ff5d60ceafb7</id>
-    <link></link>
+    <link>
+    </link>
     <title>HISTORY OF THE ERANIN CONFLICT</title>
     <date>30 SEP 3300</date>
     <story>Now into its fifth day, the Eranin civil war has escalated quickly.
@@ -210,7 +223,8 @@ Rumors persist of Imperial involvement.
   </article>
   <article>
     <id>5ff5d70f442eb</id>
-    <link></link>
+    <link>
+    </link>
     <title>NEW TECHNOLOGY POWERS EXPLORATION</title>
     <date>01 OCT 3300</date>
     <story>The Pilot's Federation has made the Universal Cartographics Discovery Module a standard component in all Sidewinder loadouts.
@@ -222,7 +236,8 @@ Exploration data can be traded with Universal Cartographics in starports, and gr
   </article>
   <article>
     <id>5ff5d7c75b2bf</id>
-    <link></link>
+    <link>
+    </link>
     <title>FUEL PRICE CONTROVERSY CONTINUES</title>
     <date>28 OCT 3300</date>
     <story>Starport services across the sector are defending their fuel pricing strategy amid claims of price fixing.
@@ -234,7 +249,8 @@ She added that, measured against the potential thermal damage and risk of interd
   </article>
   <article>
     <id>5ff5d85a26c61</id>
-    <link></link>
+    <link>
+    </link>
     <title>NEW FSD INTERDICTORS RENEW LEGAL DEBATE</title>
     <date>28 OCT 3300</date>
     <story>Achilles Aerospace's recently unveiled FSD interdictor product line has prompted Federation-wide renewed calls for frame shift interdiction to be classified as a crime - a proposal strongly rejected by several independent systems in this sector.
@@ -244,7 +260,8 @@ Security analysts recommend that whilst interdiction remains legal, super cruisi
   </article>
   <article>
     <id>5ff5d90e3481c</id>
-    <link></link>
+    <link>
+    </link>
     <title>MINING SPECIAL REPORT</title>
     <date>30 OCT 3300</date>
     <story>According to the experts at Wreaken Construction $amp; Mining, all you need is a refinery, a mining laser and a little luck. Most rings in known space are depleted but for the individual there is still some money to be made. The current equipment is not configured to work with ice rings and the best yields will be found on metal rings far from populated space.
@@ -253,7 +270,8 @@ Our contact at Universal Cartographics, James Urquhart, was keen to point out th
   </article>
   <article>
     <id>5ff5d993b1d1f</id>
-    <link></link>
+    <link>
+    </link>
     <title>THE EMPEROR IS A SICK MAN</title>
     <date>06 DEC 3300</date>
     <story>Arguably the most powerful person in the galaxy, Emperor Hengist Duval, is sick.
@@ -272,7 +290,8 @@ Meanwhile, the Federation and Alliance of Independent Systems are watching with 
   </article>
   <article>
     <id>5ff5da0dab9af</id>
-    <link></link>
+    <link>
+    </link>
     <title>THE RISE OF CRIMSON STATE</title>
     <date>12 DEC 3300</date>
     <story>There have been some interesting goings on in the Lugh system, which was a peaceful, Federally controlled system until last week.
@@ -290,7 +309,8 @@ With the help of many others, his campaign has seen Crimson State’s influence 
   </article>
   <article>
     <id>5ff5dab4e4fc2</id>
-    <link></link>
+    <link>
+    </link>
     <title>THE CHANCELLOR SPEAKS OUT</title>
     <date>13 DEC 3300</date>
     <story>The Imperial Palace has issued a statement saying that while the Emperor is unwell, it is not as serious as many commentators are suggesting. Nevertheless speculation is rife. The Chancellor, Senator Anders Blaine, has tried to quell the speculation.
@@ -305,7 +325,8 @@ We couldn't get a comment from the Alliance leadership, but we did manage to spe
   </article>
   <article>
     <id>5ff5db2f16638</id>
-    <link></link>
+    <link>
+    </link>
     <title>SLAVE REBELLION IN SORBAGO</title>
     <date>16 DEC 3300</date>
     <story>Rumours of the slave rebellion in the Sorbago system have been confirmed. In a speech to business leaders, pro-slavery Senator Zemina Torval denied sending two of her personal Majestic Class Interdictors, the Boudica and the Elizabeth, to put down the revolt, but said:
@@ -317,7 +338,8 @@ Torval has announced generous payments to those that help her, and has criticise
   </article>
   <article>
     <id>5ff5db9b7db32</id>
-    <link></link>
+    <link>
+    </link>
     <title>FEDERAL PRESIDENT DECLARES PLANT AN ILLEGAL NARCOTIC</title>
     <date>16 DEC 3300</date>
     <story>The Federal President Jasmina Halsey has declared the newly discovered rare narcotic 'Onionhead' illegal throughout Federal space. Onionhead is the fruit of an alien plant, only grown on Panem in the independent Kappa Fornacis system.
@@ -327,7 +349,8 @@ Halsey has said she is concerned by the effect it is having on Federal youth in 
   </article>
   <article>
     <id>5ff5dc0ce04f5</id>
-    <link></link>
+    <link>
+    </link>
     <title>PATREUS HELPING OPPRESSED REBELS IN JERA</title>
     <date>17 DEC 3300</date>
     <story>In a move that is sure to worry some independent governments, Senator Denton Patreus has announced his forces have been sent to aid the long-suffering rebels in the Jera system.
@@ -337,7 +360,8 @@ He answered questions on the steps of the Imperial Opera House on Conversion in 
   </article>
   <article>
     <id>5ff5dc8964cec</id>
-    <link></link>
+    <link>
+    </link>
     <title>FARMER'S LEADER ACCUSES PRESIDENT OF VICTIMISATION</title>
     <date>17 DEC 3300</date>
     <story>Georgio Algeria, the spokesman for the Farmer's Union in the Kappa Fornacis system, has spoken out at the Federal President's declaration that Onionhead, the main export from the Kappa Fornacis system, be illegal.
@@ -348,7 +372,8 @@ Algeria would not be drawn on it in public, but it is clear the President's cont
   </article>
   <article>
     <id>5ff5dd0a3c4ad</id>
-    <link></link>
+    <link>
+    </link>
     <title>PATREUS DECLARES ZERO TAXATION</title>
     <date>18 DEC 3300</date>
     <story>In a popular move, Senator Denton Patreus has announced the already low tax regime for all Imperial Citizens under his patronage will be lowered to zero. Before boarding his private yacht he said to reporters present:
@@ -358,7 +383,8 @@ Patreus is said to earn vast sums in interest payments on the many loans he has 
   </article>
   <article>
     <id>5ff5dd8286557</id>
-    <link></link>
+    <link>
+    </link>
     <title>CELEBRITY DAUGHTER OF HEIR DECLARES SLAVERY DISHONOURABLE</title>
     <date>18 DEC 3300</date>
     <story>Aisling Duval, arguably second in line for the throne if her parents were married, spoke out against slavery on the chat show 'Celebrity Pets', particularly the rebellion in Sorbago.
@@ -369,7 +395,8 @@ There has been some discussion among commentators that Aisling now appears to be
   </article>
   <article>
     <id>5ff5ddf0df216</id>
-    <link></link>
+    <link>
+    </link>
     <title>HEIR TO THE THRONE OFFICIALLY MAD</title>
     <date>19 DEC 3300</date>
     <story>The sick Emperor Hengist Duval has managed to appear in the Senate, albeit in a travel chair, to issue a decree.
@@ -380,7 +407,8 @@ This was of course, denied. This decree, as commentators have been quick to poin
   </article>
   <article>
     <id>5ff5de63ace13</id>
-    <link></link>
+    <link>
+    </link>
     <title>ADMIRAL VINCENT DECLARES A BLOCKADE OF KAPPA FORNACIS</title>
     <date>19 DEC 3300</date>
     <story>Federal Admiral Vincent has declared a blockade of the Kappa Fornacis system to prevent the spread of the narcotic onionhead.
@@ -392,7 +420,8 @@ The Farmer's leader, Georgio Algeria has put out a plea for help.
   </article>
   <article>
     <id>5ff5def226426</id>
-    <link></link>
+    <link>
+    </link>
     <title>ONIONHEAD AND THE SLAVES OF SORBAGO</title>
     <date>19 DEC 3300</date>
     <story>16 December 3300 was the day President Halsey declared the onionhead narcotic illegal in Federal systems.
@@ -404,7 +433,8 @@ Senator Denton Patreus, meanwhile, is engaged in a more even fight. Ever the one
   </article>
   <article>
     <id>5ff5df86aadb0</id>
-    <link></link>
+    <link>
+    </link>
     <title>ARISSA LAVIGNY IS THE DAUGHTER OF THE EMPEROR</title>
     <date>20 DEC 3300</date>
     <story>Arissa Lavigny, the outspoken courtier and the daughter of historic socialite Prince Aristide Lavigny (famously eaten by his own pet Linglang when Arissa was very young) has declared that the Prince was not her father.
@@ -415,7 +445,8 @@ This would put her claim to the throne ahead of Aisling Duval's, but her parents
   </article>
   <article>
     <id>5ff5dff56f064</id>
-    <link></link>
+    <link>
+    </link>
     <title>SLAVE REBELLION GAINS TRACTION</title>
     <date>20 DEC 3300</date>
     <story>Reports are coming in that the slaves in Sorbago have taken control of many of the mines on Sorbago A1 and have massacred those in control. We have no reporters on the scene so cannot verify these stories.
@@ -426,7 +457,8 @@ Senator Torval, a major shareholder in Mastopolos, has sent some of her private 
   </article>
   <article>
     <id>5ff5e05d091ac</id>
-    <link></link>
+    <link>
+    </link>
     <title>SENATOR PATREUS DECLARES SUCCESSION ABOUT POWER NOT BLOOD</title>
     <date>21 DEC 3300</date>
     <story>At the annual Feast of the 100, a banquet for key business leaders on Capitol in Achenar, one of the after dinner speakers, Senator Denton Patreus declared the importance of the Imperial succession.
@@ -435,7 +467,8 @@ Senator Torval, a major shareholder in Mastopolos, has sent some of her private 
   </article>
   <article>
     <id>5ff5e0e044a4c</id>
-    <link></link>
+    <link>
+    </link>
     <title>FEDERAL WARSHIPS BOMB FARMS</title>
     <date>21 DEC 3300</date>
     <story>Onionhead stories are dominating the Federal media, with teenage criminality being highlighted. The coverage has increased demand for the narcotic in Federal space higher than ever.
@@ -446,7 +479,8 @@ Local news reports show this not to be true. An entire family was found dead, ov
   </article>
   <article>
     <id>5ff5e154cbece</id>
-    <link></link>
+    <link>
+    </link>
     <title>DURIUS DEFAULTS ON DEBT TO PATREUS</title>
     <date>22 DEC 3300</date>
     <story>Senator Denton Patreus announced today in a press release that the government of the impoverished Durius system has defaulted on the loan he provided in 3294. The Senator has given them 24 hours to make the overdue payment or action would be taken.
@@ -456,7 +490,8 @@ A haggard Governor Xavier Malachai, leader of "Durius Dominion" in Durius said t
   </article>
   <article>
     <id>5ff5e1bac0a76</id>
-    <link></link>
+    <link>
+    </link>
     <title>EMPEROR TO MARRY SWEETHEART</title>
     <date>22 DEC 3300</date>
     <story>A palace spokesman today announced on behalf of his grace Emperor Hengist Duval, that he is to marry Florence Lavigny, a sweetheart from his younger years.
@@ -468,7 +503,8 @@ Arissa Lavigny will become Princess Arissa as soon as they marry, and of the ann
   </article>
   <article>
     <id>5ff5e2880c1d0</id>
-    <link></link>
+    <link>
+    </link>
     <title>SENATOR TORVAL SPEAKS OUT AGAINST AISLING DUVAL AND HER ABOLISHIONIST MESSAGE</title>
     <date>22 DEC 3300</date>
     <story>Speaking to press in the jungle retreat on her yacht 'Xanadu' this morning, when asked about the comments Aisling Duval made on the chat show 'Celebrity Pets' Zemina Torval stated:
@@ -480,7 +516,8 @@ We couldn't reach Aisling Duval for comment.
   </article>
   <article>
     <id>5ff5e31131a48</id>
-    <link></link>
+    <link>
+    </link>
     <title>PATREUS ATTACKS DURIUS</title>
     <date>23 DEC 3300</date>
     <story>Senator Patreus held talks on his Majestic class Interdictor the "Imperial Freedom" last night.
@@ -492,7 +529,8 @@ Panic has spread through the tiny population of this feudal backwater, as the sy
   </article>
   <article>
     <id>5ff5e39071f2b</id>
-    <link></link>
+    <link>
+    </link>
     <title>EMPEROR SICKNESS WORSENS</title>
     <date>23 DEC 3300</date>
     <story>Rumours are spreading that the Emperor's illness has taken a turn for the worse. Speeders carrying medical experts have been seen entering the palace, and inadvertently last night an Imperial aide confirmed that one wing of the Imperial Palace has been turned into a hospital.
@@ -501,7 +539,8 @@ Critics of the Emperor have said that he should have taken genetic therapies lon
   </article>
   <article>
     <id>5ff5e42073b9d</id>
-    <link></link>
+    <link>
+    </link>
     <title>CHRISTMAS CELEBRATIONS BEGIN THROUGHOUT THE FEDERATION AND ALLIANCE</title>
     <date>24 DEC 3300</date>
     <story>Christmas celebrations and official public holidays have begun throughout Federal, Alliance and some independent systems.
@@ -511,7 +550,8 @@ In Imperial systems the focus of the present-giving celebrations is the New Year
   </article>
   <article>
     <id>5ff5ea27c0fe5</id>
-    <link></link>
+    <link>
+    </link>
     <title>REBELLION FAILING IN JERA?</title>
     <date>24 DEC 3300</date>
     <story>Senator Denton Patreus refused to comment today when questioned regarding the apparent failure of the rebellion in the Jera system despite his support.
@@ -522,7 +562,8 @@ A source close to the senator revealed that more forces may be sent to the syste
   </article>
   <article>
     <id>5ff5ea94ba208</id>
-    <link></link>
+    <link>
+    </link>
     <title>SENATOR TORVAL FREES 10,000 SLAVES</title>
     <date>25 DEC 3300</date>
     <story>Senator Torval has long criticised slavery outside the Empire or 'unregulated slavery' as she refers to it.
@@ -532,7 +573,8 @@ Even though she doesn't celebrate Christmas, for the last few years she has free
   </article>
   <article>
     <id>5ff5eb10612a5</id>
-    <link></link>
+    <link>
+    </link>
     <title>FEDERAL PRESIDENT DENIES ONIONHEAD CRACKDOWN</title>
     <date>25 DEC 3300</date>
     <story>After the traditional Presidential Christmas Eve banquet in New York on Earth in Sol last night, the President was confronted by a crowd protesting against ‘Oniongate' - and the bombing of fields and farms on Panem in Kappa Fornacis.
@@ -543,7 +585,8 @@ This is a surprising development, as it seems unlikely Admiral Vincent would hav
   </article>
   <article>
     <id>5ff5eb8b07c61</id>
-    <link></link>
+    <link>
+    </link>
     <title>SLAVE REBELLION CRUSHED</title>
     <date>25 DEC 3300</date>
     <story>In a statement from one of Senator Torval's closest advisors the Senator declared that the rebellion in the Sorbago system had been crushed. She praised her forces and the allied pilots who aided in suppressing the rebellion.
@@ -553,7 +596,8 @@ She also promised that the situation in the system would return to normal quickl
   </article>
   <article>
     <id>5ff5ebffb819a</id>
-    <link></link>
+    <link>
+    </link>
     <title>UNIVERSITY STUDENT SIT-IN</title>
     <date>26 DEC 3300</date>
     <story>A peaceful Christmas demonstration which started on Christmas Day continues on the steps of the Congress building in Olympus Village on Mars.
@@ -563,7 +607,8 @@ Newsfeeds are now carrying this story throughout the Federation, but members of 
   </article>
   <article>
     <id>5ff5ec628d257</id>
-    <link></link>
+    <link>
+    </link>
     <title>TORVAL BACKS PATREUS'S LINE ON THE IMPERIAL SUCCESSION</title>
     <date>26 DEC 3300</date>
     <story>n a frosty response to a question from a reporter climbing into a speeder, Senator Torval replied:
@@ -572,7 +617,8 @@ Newsfeeds are now carrying this story throughout the Federation, but members of 
   </article>
   <article>
     <id>5ff5ecc2387bd</id>
-    <link></link>
+    <link>
+    </link>
     <title>COMMANDERS DECIDE TWO CIVIL WARS AS TORVAL TRIUMPHS, PATREUS DEFEATED BUT DEFIANT</title>
     <date>26 DEC 3300</date>
     <story>Commanders' assistance helped Imperial Senator Zemina Torval gain a crushing victory and 76% influence in the Sorbago system. Torval used the Mastopolus Mining Corporation as a front to acquire slaves and bolster her power base in the manoeuvring to succeed the ailing Emperor Hengist Duval.
@@ -585,7 +631,8 @@ The Federation are also active. After blockading Kappa Fornacis and then apparen
   </article>
   <article>
     <id>5ff5ed382cf91</id>
-    <link></link>
+    <link>
+    </link>
     <title>SHADOW PRESIDENT HUDSON SUPPORTS NAVY</title>
     <date>27 DEC 3300</date>
     <story>In what is usually a quiet time for politics the Shadow President has given an interview to support Admiral Vincent.
@@ -595,7 +642,8 @@ If it is indeed the case that these actions took place without direct orders fro
   </article>
   <article>
     <id>5ff5ed99cc4e2</id>
-    <link></link>
+    <link>
+    </link>
     <title>AISLING DUVAL SPEAKS ABOUT HER FATHER</title>
     <date>27 DEC 3300</date>
     <story>For the first time Aisling Duval revealed a little of the state of mind of her father Harold, on "Late Night with Aaron Smith". He is no longer considered by many as heir to the throne, following the Emperor's formal declaration that he is not of sound mind.
@@ -606,7 +654,8 @@ It is clear from the social media response to her comments that she has avoided 
   </article>
   <article>
     <id>5ff5ee012eeec</id>
-    <link></link>
+    <link>
+    </link>
     <title>FEDERAL SHADOW PRESIDENT DEMANDS CONSCRIPTION</title>
     <date>28 DEC 3300</date>
     <story>In the traditional speeches that mark the re-opening of Congress after the holiday, Congressman and Shadow President Zachary Hudson has outlined his views for the coming year.
@@ -616,7 +665,8 @@ In a long speech highly critical of his opponent President Halsey, the only new 
   </article>
   <article>
     <id>5ff5eea87b5ec</id>
-    <link></link>
+    <link>
+    </link>
     <title>SENATOR TORVAL BLAMES FEDERAL AGITATORS FROM LULUWALA FOR SORBAGO REBELLION</title>
     <date>28 DEC 3300</date>
     <story>Senator Torval has already blamed outside forces for the recently suppressed rebellion in Sorbago. Last night on the political debate panel show 'Question Everything' she went further.
@@ -626,7 +676,8 @@ Many commentators have been surprised at Senator Torval openly accusing the Fede
   </article>
   <article>
     <id>5ff5ef05e563f</id>
-    <link></link>
+    <link>
+    </link>
     <title>FEDERAL PRESIDENT ANNOUNCES TAX RISES IN NEW YEAR</title>
     <date>29 DEC 3300</date>
     <story>In a move causing shockwaves throughout Federal space, President Halsey has announced Federal tax increases.
@@ -637,7 +688,8 @@ Commentators have suggested the Shadow President's speech yesterday was triggere
   </article>
   <article>
     <id>5ff5ef6505640</id>
-    <link></link>
+    <link>
+    </link>
     <title>DURIUS FIGHTS BACK</title>
     <date>29 DEC 3300</date>
     <story>The armed conflict between Senator Patreus’s Imperial forces and those of the impoverished Durius system continues.
@@ -648,7 +700,8 @@ I call on those independent governments out there like ours thinking of getting 
   </article>
   <article>
     <id>5ff5eff576e50</id>
-    <link></link>
+    <link>
+    </link>
     <title>SANNA IN BID TO LEAVE FEDERATION</title>
     <date>30 DEC 3300</date>
     <story>The Congressman for Sanna, Marcus Albertson, has given a speech to his own parliament in Sanna.
@@ -658,7 +711,8 @@ His speech was met by cheers, not just from his own party, but from the oppositi
   </article>
   <article>
     <id>5ff5f0575d1fe</id>
-    <link></link>
+    <link>
+    </link>
     <title>AISLING DUVAL LASHES OUT AGAINST TORVAL</title>
     <date>30 DEC 3300</date>
     <story>Aisling Duval provided a colourful outburst while discussing Senator Torval's home system Synteini on the lifestyle show 'Favourite Holidays'.
@@ -669,7 +723,8 @@ Senator Torval, now back in Synteini for the holiday celebrations responded:
   </article>
   <article>
     <id>5ff5f0ba736e0</id>
-    <link></link>
+    <link>
+    </link>
     <title>FEDERAL SHADOW PRESIDENT DEMANDS LOWER TAXES</title>
     <date>31 DEC 3300</date>
     <story>n a statement Shadow President Hudson announced his sympathy for Sanna.
@@ -679,7 +734,8 @@ It is understood a Federal Battlecruiser will be deployed some time in the New Y
   </article>
   <article>
     <id>5ff5f11e87f5b</id>
-    <link></link>
+    <link>
+    </link>
     <title>ARISSA LAVIGNY GIVES REVEALING INTERVIEW AND PLEDGES CONTINUITY WITH BLAINE</title>
     <date>31 DEC 3300</date>
     <story>On the Imperial Herald political show, Arissa Lavigny gave a long and detailed interview, hinting that the Emperor's status was not as serious as some claimed.
@@ -689,7 +745,8 @@ Share prices on Imperial markets have already risen in pre-holiday trading.
   </article>
   <article>
     <id>5ff5f181751c4</id>
-    <link></link>
+    <link>
+    </link>
     <title>TORVAL PUTS AISLING DUVAL IN HER PLACE</title>
     <date>01 JAN 3301</date>
     <story>Senator Torval was secretly recorded last night at a private New Year's Eve party referring to Aisling Duval in terms not very becoming for a Senator, and her speech was a little slurred.
@@ -699,7 +756,8 @@ We were unable to contact Senator Torval for comment, but are confident Imperial
   </article>
   <article>
     <id>5ff5f1e87fb49</id>
-    <link></link>
+    <link>
+    </link>
     <title>PATREUS SUPPORTS BELEAGUERED SANNA IN BID TO LEAVE FEDERATION</title>
     <date>01 JAN 3301</date>
     <story>In his New Year's message Senator Patreus has announced he supports Sanna's bid for freedom, and will do whatever it takes to help them.
@@ -710,7 +768,8 @@ Seeing the broadcast on Sanna, Marcus Albertson responded via social media.
   </article>
   <article>
     <id>5ff608561e8e6</id>
-    <link></link>
+    <link>
+    </link>
     <title>TORVAL CELEBRATES EMPIRE DAY</title>
     <date>02 JAN 3301</date>
     <story>Senator Torval has freed a further 10,000 unregulated slaves bought from private traders in the Federation to celebrate Empire Day. In a statement released this morning, she said:
@@ -721,7 +780,8 @@ Her statement seems to have ruffled a few feathers in Congress. We couldn't get 
   </article>
   <article>
     <id>5ff609fd64f48</id>
-    <link></link>
+    <link>
+    </link>
     <title>EMPEROR ISSUES HIS TRADITIONAL 'EMPIRE DAY' MESSAGE</title>
     <date>02 JAN 3301</date>
     <story>In keeping with tradition the Emperor has declared today a national holiday celebrating the day in 2264 when Marlin Duval first landed on Capitol. He gave his traditional message from the throne room in the Imperial Palace, referring in general terms to another great year, and looking forwards to the next.
@@ -732,7 +792,8 @@ No one was available from the Palace for comment, though one Senator (who did no
   </article>
   <article>
     <id>5ff60a6585564</id>
-    <link></link>
+    <link>
+    </link>
     <title>THE SUCCESSION STRUGGLE FOR THE IMPERIAL THRONE CONTINUES APACE</title>
     <date>02 JAN 3301</date>
     <story>The Emperor's denouncement of his son Harold as mad, and announcement of his intention to marry childhood sweetheart Florence Lavigny, have served to confer legitimacy (in more ways than one) to Florence's daughter Arissa. She duly announced her intention to change her surname to Duval and appears to be positioning herself and Chancellor Anders Blaine as the continuity 'ticket'.
@@ -744,7 +805,8 @@ Tensions between both Empire and Federation appear to be coming to a head over t
   </article>
   <article>
     <id>5ff60ad946c56</id>
-    <link></link>
+    <link>
+    </link>
     <title>DULOS JOINS SANNA'S BID TO LEAVE FEDERATION</title>
     <date>03 JAN 3301</date>
     <story>Congressman Jane Garvey for Dulos agrees with Congressman Albertson from Sanna.
@@ -755,7 +817,8 @@ She then entered Congress amid clapping and cheers from the protesters - who see
   </article>
   <article>
     <id>5ff60b587450e</id>
-    <link></link>
+    <link>
+    </link>
     <title>CHANCELLOR BLAINE SUPPORTS ARISSA</title>
     <date>03 JAN 3301</date>
     <story>In a short interview outside his mansion on the shores of Lake Parisot on Topaz, Facece, Chancellor Anders Blaine was asked about his views on the succession, and he replied:
@@ -766,7 +829,8 @@ This has helped quell some of the speculation caused by comments from other seni
   </article>
   <article>
     <id>5ff60bb7a2cc0</id>
-    <link></link>
+    <link>
+    </link>
     <title>FEDERAL SHADOW PRESIDENT HUDSON CRITICISES HALSEY</title>
     <date>04 JAN 3301</date>
     <story>It seems the steps of Congress have become a venue for interviews with politicians amid the repetitive protest holos and the tenacious but now quite dishevelled protesters. Today was Shadow President Hudson's turn.
@@ -777,7 +841,8 @@ Reports are marking this as the beginning of an election campaign for Hudson.
   </article>
   <article>
     <id>5ff60c23c82e9</id>
-    <link></link>
+    <link>
+    </link>
     <title>PATREUS ANNOUNCES SUPPORT FOR FEDERAL LEAVERS</title>
     <date>05 JAN 3301</date>
     <story>In response to yesterday's announcement from the Federal Congressman from Dulos, Imperial Senator Denton Patreus announced he will support any other systems that want to leave the Federation.
@@ -787,7 +852,8 @@ We couldn't reach Congressman Garvey of Dulos for comment, but Patreus's words a
   </article>
   <article>
     <id>5ff60c96433b1</id>
-    <link></link>
+    <link>
+    </link>
     <title>EMPEROR MOVED TO HOSPITAL BED</title>
     <date>05 JAN 3301</date>
     <story>Emperor Hengist Duval was today moved to a specially prepared wing of the Imperial Palace. He is said to be quite unwell, though officially nothing has yet been announced.
@@ -1128,7 +1194,7 @@ Last week the club ran a stock sidewinder event, and the carnage was brutal. Thi
     <id>5fc63cc8ae336</id>
     <link>/galnet/uid/f42e2ef3f98fcf043f29c83a4bcd65733a67f618</link>
     <title>
-   </title>
+    </title>
     <date>09 FEB 3301</date>
     <story>Celebration at Abraham Lincoln Starport in Earth Orbit, Sol
 Pilots from around the galaxy are expected to gather outside Abraham Lincoln Starport, located in Earth orbit in the Sol system, at 18-00 on the 12th of February for the annual remembrance of the Station's namesake, President Abraham Lincoln. 
@@ -22969,7 +23035,8 @@ And those are the main stories this week.</story>
     <link>/galnet/uid/5cc71dca5b541d2b14050f20</link>
     <title>Event: Interstellar Initiative - Bridging the Gap</title>
     <date>29 APR 3305</date>
-    <story>    </story>
+    <story>
+    </story>
   </article>
   <article>
     <id>5fc683a0bd8b5</id>
@@ -25160,5 +25227,29 @@ The Federal Commerce Authority has approved the corporate takeover. However, the
 The Council of Admirals has expressed concerns that a military supplier for the Alliance Defence Force should be owned by a Federal defence contractor. Admiral Rachel Ziegler informed the Assembly:
 “Regardless of our cordial relationship with the Federation, security issues will inevitably arise if the Alliance Chieftain and her sister ships are constructed by a foreign power. The ADF is already woefully underfunded, and this places extra strain on our ability to defend our interests.”
 </story>
+  </article>
+  <article>
+    <id>86567c87-115e-4faf-8f63-79b4ed303ad2</id>
+    <link>/galnet/uid/5ff7069a4dc0041e2429e610</link>
+    <title> Xenological Samples Required by Colonia Scientists</title>
+    <date>07 JAN 3307</date>
+    <story>*Pilots Federation ALERT*
+The Holloway Bioscience Institute in Colonia is offering high payouts for delivering samples from space-dwelling lifeforms.
+The Holloway Biology Centre on Colonia 7 G is the organisation’s primary research laboratory, which specialises in xenological studies. Jaques Station, which is also in the Colonia system, has agreed to serve as the delivery point for this initiative.
+Chief researcher Dr Roy Casimir outlined the requirements:
+“There is still a huge amount to learn about the fascinating structures that grow within the vacuum of space. As our stock of specimens is running low, we require fresh tissue samples from living organisms to continue our experimentation programme.”
+“I appreciate that our facility is located a considerable distance from the core systems, but we’re willing to offer generous reimbursement for those who make the journey.”
+Pilots are requested to extract any type of tissue sample, including pod mesoglea, from any type of seed pod. These are to be delivered to Jaques Station in the Colonia system. </story>
+  </article>
+  <article>
+    <id>29f0aea7-d040-4a20-ba42-c6263960fb45</id>
+    <link>/galnet/uid/5ff6f5dfcfbd711ed825a415</link>
+    <title> Thargoids Wreak Havoc in Nebulas</title>
+    <date>07 JAN 3307</date>
+    <story>Starports in the Coalsack and Witch Head Nebulas have been damaged during full-scale Thargoid incursions.
+An appeal by Aegis for anti-xeno support led to a concerted response from the galactic community. However, the Thargoid forces proved to be overwhelming and have attacked systems within the nebulas, with the loss of thousands of lives. 
+Admiral Aden Tanner, chief military liaison of Aegis, broadcast this message:
+“Despite the heroic efforts of many pilots, the alien ships have resisted being driven from the Witch Head Nebula.”
+“Aegis’s military capability and manpower are both severely limited as a result of curtailed funding from the Empire and the Federation. We have no choice but to rely on independent pilots and anti-xeno squadrons as the first line of defence against the Thargoid threat.”</story>
   </article>
 </GalnetArchive>
