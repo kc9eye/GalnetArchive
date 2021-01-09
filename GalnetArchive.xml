@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <GalnetArchive>
-  <version>1.003</version>
+  <version>1.004</version>
   <article>
     <id>5ff5b9b37a37e</id>
     <link>
@@ -25251,5 +25251,18 @@ An appeal by Aegis for anti-xeno support led to a concerted response from the ga
 Admiral Aden Tanner, chief military liaison of Aegis, broadcast this message:
 “Despite the heroic efforts of many pilots, the alien ships have resisted being driven from the Witch Head Nebula.”
 “Aegis’s military capability and manpower are both severely limited as a result of curtailed funding from the Empire and the Federation. We have no choice but to rely on independent pilots and anti-xeno squadrons as the first line of defence against the Thargoid threat.”</story>
+  </article>
+  <article>
+    <id>faeb2913-8a86-4baf-842b-6957a3cf8e75</id>
+    <link>/galnet/uid/5ff8b6e5617fa13a8914ade4</link>
+    <title> Aegis Supports Galactic Summit</title>
+    <date>08 JAN 3307</date>
+    <story>The organisation Aegis has expressed support for Utopia’s offer to host a Galactic Summit for all three superpowers.
+Aegis was jointly formed by the Alliance, Empire and Federation to study the Thargoids, and develop new methods of monitoring and combating their forces.
+Professor Alba Tesreau, head of research at Aegis, gave this statement:
+“Humanity’s focus on petty internal conflicts has blinded us to the existential threat of the Thargoids. Their recent horrific attacks should be a wake-up call to the fact that defunding has crippled Aegis’s ability to offer protection.”
+“We strongly entreat our founders to come together and channel resources toward Aegis, and particularly into research. There can be no hope of coexistence with this alien species unless we increase our understanding of them.”
+No official responses to Utopia’s proposal have been made as yet. However, Prime Minister Edmund Mahon, Princess Aisling Duval and Shadow President Felicia Winters have all signalled broad approval of the idea. There are reports that many congressmen, councillors and senators are pressuring their respective leaders to attend the diplomatic conference.
+Simguru Pranav Antal has confirmed that the governments of independent systems will also be welcome to send delegates to the Galactic Summit. However, Utopia’s primary aim is to provide neutral territory for the Alliance, Empire and Federation to debate policies.</story>
   </article>
 </GalnetArchive>
