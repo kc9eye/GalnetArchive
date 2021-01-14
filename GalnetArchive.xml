@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <GalnetArchive>
-  <version>1.005</version>
+  <version>1.006</version>
   <article>
     <id>5ff5b9b37a37e</id>
     <link>
@@ -25277,5 +25277,17 @@ The subsequent arrest caused repercussions in military and political circles. Pr
 As a naval chief of staff, Fleet Admiral Vincent is the highest ranking Federal military officer to ever stand trial. Media interest remains intense, with much public speculation about corruption among the Federation’s highest echelons.
 The trial will take place at the Federal High Court in Olympus Village on Mars, and is expected to last several weeks.
 </story>
+  </article>
+  <article>
+    <id>e89c6c98-18df-4de7-9bbb-e7d2325b45f6</id>
+    <link>/galnet/uid/5ffeef007c77ef03313c7f6f</link>
+    <title> Core Dynamics Insider Discusses Lakon Takeover</title>
+    <date>13 JAN 3307</date>
+    <story>An anonymous source within the shipbuilding corporation Core Dynamics has revealed details behind its hostile takeover of Lakon Spaceways.
+The nameless insider had previously stated that the acquisition of Lakon was the personal project of Core Dynamics CEO Jupiter Rochester. These additional claims were broadcast via Vox Galactica:
+“In the last few years, Rochester has purchased many companies based outside the Federation, such as Vodel. Lakon Spaceways is just the latest. It seems legal, but he manages these subsidiaries directly and installs his own people there. Some say he’s diversifying his family’s private holdings, rather than expanding the business.”
+“It’s well known that several departments only follow Rochester’s directives, and operate in silos unconnected with the rest of Core Dynamics. Staff refer to them as ‘Jupiter Division’. Some offices even started using that name, like they’re a separate company within a company.”
+“I’ve heard that some directors are unhappy with Rochester, but he’s too well-connected to ever get rid of. It’s thanks to him that we have so many military contracts. As always, the rich get away with anything.”
+Core Dynamics declined to comment on this statement. Naomi Landseer, former chairperson of the Lakon Spaceways board of directors, has asked the Independent Commission for Market Equality to investigate further.</story>
   </article>
 </GalnetArchive>
