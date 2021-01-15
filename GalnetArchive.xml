@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <GalnetArchive>
-  <version>1.007</version>
+  <version>1.008</version>
   <article>
     <id>5ff5b9b37a37e</id>
     <link>
@@ -25321,5 +25321,18 @@ Eol Prou LW-L c8-99
 Eol Prou KW-L c8-301 
 Eol Prou PC-K c9-154 
 Pilots who contributed to this initiative can now collect their rewards from Jacques Station in the Colonia system.</story>
+  </article>
+  <article>
+    <id>6362ccec-d797-4929-8ef1-f28218d0e488</id>
+    <link>/galnet/uid/6001a5e6b9525f08c010c66e</link>
+    <title> Uncertainty Hits Takeover of Lakon Spaceways</title>
+    <date>15 JAN 3307</date>
+    <story>The purchase of shipbuilding company Lakon Spaceways by Core Dynamics is in doubt after allegations of illegal business practices.
+Irfan Karim reported on the recent developments for The Alliance Tribune:
+“The Independent Commission for Market Equality has confirmed that several Lakon shareholders sold their stock to shell companies, which were covertly established by departments within Core Dynamics. Furthermore, two serious accusations of blackmail have been referred to Alliance Interpol.”
+“Trent Delaney, Lakon’s newly installed chairperson, has dismissed these claims. But coupled with serious rumblings from the Council of Admirals over losing a military supplier, this hostile takeover now looks less certain.”
+In the Federation, the newsfeed Sol Today ran an editorial piece on the situation:
+“Acquiring Lakon is another bold triumph for manufacturing colossus Core Dynamics. It’s a shame that it’s being undermined by the petty bureaucrats of the Alliance, who should be gratefully grasping this financial lifeline.”
+“It’s also laughable that CEO Jupiter Rochester, one of our titans of industry, is being stabbed in the back by old-fashioned colleagues who are clearly jealous of his success. Perhaps his ‘Jupiter Division’ has finally outgrown the corporation and deserves to forge its own path.”</story>
   </article>
 </GalnetArchive>
