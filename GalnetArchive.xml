@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <GalnetArchive>
-  <version>1.011</version>
+  <version>1.012</version>
   <article>
     <id>5ff5b9b37a37e</id>
     <link>
@@ -25425,5 +25425,73 @@ The Federal Times’s crime correspondent Ethan Takahashi reported:
 “Evading the questions, Vincent claimed that the entire trial was a ‘Liberal Party cover-up’ and that Starship One was destroyed ‘to put Winters in charge’.”
 “With the loss of President Halsey and Vice President Naylor, Felicia Winters did indeed assume the role of acting president and became leader of the Liberal Party. However, the defence counsel played down these accusations, instead declaring that Webster’s recordings of Vincent’s orders could have been falsified.”
 </story>
+  </article>
+  <article>
+    <id>bc3513ef-dca8-4e07-b727-465c49f1caae</id>
+    <link>/galnet/uid/601163e4990d0a15f312437d</link>
+    <title> Jasmina Halsey Provides Testimony about Starship One</title>
+    <date>27 JAN 3307</date>
+    <story>Former President Jasmina Halsey has taken the witness stand during the trial of Fleet Admiral Lucas Vincent at the Federal High Court.
+Crime correspondent Ethan Takahashi reported the details for The Federal Times:
+“Jasmina Halsey confirmed that the orders for Starship One’s unscheduled stopover in the Azaleach system came directly from Fleet Admiral Vincent. She added that the presidential itinerary was often altered for various mundane reasons, and at the time this seemed routine.”
+“Halsey also provided an account of the vessel’s destruction, describing the chaos and panic onboard as the hyperspace misjump caused rapid structural disintegration. She praised her security detail for getting her into a cryogenic stasis pod and launching it moments before Starship One exploded.”
+“During cross-examination, the defence counsel quoted her reported visions after being rescued, when Halsey described meeting the ‘caretakers of our galaxy’ and experiencing the ‘infinities of the cosmos’. It was suggested that the testimony of someone suffering from such obvious delusions should be discounted.”
+“Halsey admitted that she no longer has any memory of making those statements, and may have been suffering from post-traumatic shock. She then provided the court with psychological reports and neural scans from the Alliance’s finest doctors, medically confirming that she is of sound state of mind.”</story>
+  </article>
+  <article>
+    <id>3bc951ca-e7a3-43ff-b7fd-d85eb2f51824</id>
+    <link>/galnet/uid/6012e18984e09d125e030977</link>
+    <title> Anonymous Source Refers to Distress Call Location</title>
+    <date>28 JAN 3307</date>
+    <story>*Pilots Federation ALERT*
+An encrypted message seems to provide planetary coordinates related to the mysterious signal from ‘Serene Harbour’.
+The message received by the Pilots Federation was as follows:
+Welcome to Serene Harbour. 56.4 latitude -8.3 longitude. Theta Seven.
+Although this pinpoints a geographical area on a planetary surface, the astronomical location of this body remains a mystery. It is unclear whether ‘Theta Seven’ refers to additional map coordinates of some kind, or is a code-phrase intended for unknown recipients.
+Little is known about the original distress call, other than its brief content:
+This is an emergency broadcast on all frequencies from Serene Harbour. We are –</story>
+  </article>
+  <article>
+    <id>7642eb13-f240-4cd3-9464-ee5ad8beff87</id>
+    <link>/galnet/uid/6012b579de0817548b161589</link>
+    <title> Request for Pilots to Trace Distress Call</title>
+    <date>28 JAN 3307</date>
+    <story>*Pilots Federation ALERT*
+An independent vessel has detected a fragment of a mysterious message coming from an unexplored region of space.
+Commander Elsa Solomon was travelling through the Swoilz XX-D c1-30 system when her ship’s communications array picked up a faint transmission. The message was as follows:
+This is an emergency broadcast on all frequencies from Serene Harbour. We are –
+The transmission ended abruptly and did not resume. The signal did not contain any identification data or indications as to its origin.
+Commander Solomon gave more details to Vox Galactica:
+“The message appeared in my comms panels as text and an electronically generated voice. I wasn’t able to determine a source, only that it was broadcast within 80 light years of that system. My schedule was tight so I couldn’t spend long tracking it.”
+“I have no idea if Serene Harbour is a starport, a settlement or even a megaship, but this is obviously a mayday signal. Someone somewhere is in serious trouble. I’ve asked the Pilots Federation to share the information in case any of my fellow Commanders can help.”
+To help triangulate the source, there is a callout to any other ships that were in the area at the time, which may have received a similar broadcast. However, no responses have been received as yet.</story>
+  </article>
+  <article>
+    <id>033f6ec6-c7e1-48fc-ae4e-5333da73b098</id>
+    <link>/galnet/uid/6012ad824aaf2914d56a6da3</link>
+    <title> Sirius Corporation Secures Hosting of Galactic Summit</title>
+    <date>28 JAN 3307</date>
+    <story>*Pilots Federation ALERT*
+Sirius Corporation has received more data than Utopia and will therefore host the Galactic Summit.
+Both organisations proposed to organise a diplomatic conference for the Alliance, Empire and Federation. After calling on the galactic community to gather data that would support security operations, many pilots handed in anomalous bulk scan data, atypical disrupted wake echoes, exceptional scrambled emission data and unusual encrypted files.
+All three superpower governments confirmed that due to its success in preparing effective security systems, they will accept Sirius Corporation as the neutral territory for the conference.
+CEO Li Yong-Rui made this announcement:
+“Thank you to all the independent pilots who supported us. Sirius will now begin work preparing for the first Galactic Summit, which we hope will increase peace and prosperity across the galaxy.”
+Pilots who delivered to Sirius Corporation can collect their rewards from Goldstein Port in the Lembava system.
+Simguru Pranav Antal expressed disappointment, but confirmed that all who contributed to Utopia’s initiative will be rewarded at Tanner Settlement in the Polevnic system. 
+Sirius Corporation has stated that the Galactic Summit is provisionally scheduled to take place over a three-week period in late February and early March.
+</story>
+  </article>
+  <article>
+    <id>01e18016-731f-4db3-87ff-e099ed2b3460</id>
+    <link>/galnet/uid/6014054b77651863fb13c65d</link>
+    <title> Halsey Suggests Motivation for Assassination Attempt</title>
+    <date>29 JAN 3307</date>
+    <story>At the trial of Fleet Admiral Vincent, former President Jasmina Halsey has revealed possible reasons behind the sabotage of Starship One in 3301.
+Crime correspondent Ethan Takahashi reported from the Federal High Court:
+“Jasmina Halsey provided details of a top-level Federal Cabinet meeting in late April 3301, an event which was never declassified. Its aim was to address the high levels of public dissatisfaction with her administration.”
+“At the meeting, Halsey explained that she had been inspired by various peace activists to refocus on the wellbeing of citizens. She planned to reduce taxes, invest in social infrastructure and slash Federal Navy spending. As yet this was only a preliminary plan, to be implemented later that year.”
+“Halsey told the court that only a dozen officials were present at this meeting, including Fleet Admiral Vincent. All were told that this forthcoming sea change in policy was confidential, but to expect major budget changes in the coming months.”
+“The prosecution counsel stated that Vincent was therefore aware that naval defunding was imminent, something which would reduce his personal influence. It would also impact powerful individuals who Vincent was illegally connected to, evidence of which would be presented in due course.”</story>
   </article>
 </GalnetArchive>
