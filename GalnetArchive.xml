@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <GalnetArchive>
-  <version>1.012</version>
+  <version>1.013</version>
   <article>
     <id>5ff5b9b37a37e</id>
     <link>
@@ -25493,5 +25493,70 @@ Crime correspondent Ethan Takahashi reported from the Federal High Court:
 “At the meeting, Halsey explained that she had been inspired by various peace activists to refocus on the wellbeing of citizens. She planned to reduce taxes, invest in social infrastructure and slash Federal Navy spending. As yet this was only a preliminary plan, to be implemented later that year.”
 “Halsey told the court that only a dozen officials were present at this meeting, including Fleet Admiral Vincent. All were told that this forthcoming sea change in policy was confidential, but to expect major budget changes in the coming months.”
 “The prosecution counsel stated that Vincent was therefore aware that naval defunding was imminent, something which would reduce his personal influence. It would also impact powerful individuals who Vincent was illegally connected to, evidence of which would be presented in due course.”</story>
+  </article>
+  <article>
+    <id>5ee7cd11-7b6a-494d-acf9-793cc08bdd33</id>
+    <link>/galnet/uid/6017f8dcafca080c1a7c774d</link>
+    <title> Alliance Election Delayed due to Galactic Summit</title>
+    <date>01 FEB 3307</date>
+    <story>The Alliance Assembly has agreed to delay electing a new prime minister to avoid clashing with the forthcoming Galactic Summit.
+The proposal to postpone the election date came from Prime Minister Edmund Mahon:
+“Now that the diplomatic conference has been confirmed, we must adapt to take advantage of this historic event. A potential change in leadership occurring at the same time as the Galactic Summit would cause confusion and undermine the Alliance’s presence.”
+Although Mahon’s proposal was voted through by a narrow margin, many council members disagreed with altering the political calendar. Councillor Nakato Kaine, who is a candidate in the election, declared:
+“It is outrageous that the prime minister is using this as an excuse to extend his term in office. Once again, he is more concerned with projecting the Alliance as a superpower than the interests of member systems. This behaviour is what you’d expect from a corrupt emperor or president, clinging onto power at any cost.”
+The Assembly has rescheduled the election to take place three months later in May 3307, although this remains only provisional.
+</story>
+  </article>
+  <article>
+    <id>bb7fddde-9510-46fe-85cc-93765baced6e</id>
+    <link>/galnet/uid/60194d23d0851778df338afc</link>
+    <title> Core Dynamics Implicated in Starship One Sabotage</title>
+    <date>02 FEB 3307</date>
+    <story>Evidence presented at the trial of Fleet Admiral Vincent suggested financial links to Federal shipbuilding corporation Core Dynamics.
+This significant development was covered by Ethan Takahashi for The Federal Times:
+“The initial investigations around Starship One’s destruction in 3301 were outlined by the prosecution. When the Federal Attorney’s Office revisited this historical data, traces were found of financial transfers routed through non-Federation banking systems.”
+“The FAO brought in the expertise of the Wallglass Investigations Agency, which discovered that these transactions were made via shell companies created by Core Dynamics. Fleet Admiral Vincent, as well as several other naval officers, received billions of credits through these companies that went undeclared.”
+“Vincent refused to answer any questions about this evidence, once again claiming that he is the victim of a conspiracy to hand the presidency to Felicia Winters.”
+Despite multiple requests from the press, Core Dynamics has not made any public comment. There are unverified reports of large-scale activity taking place at some of the corporation’s centres of operation.</story>
+  </article>
+  <article>
+    <id>770e26fe-a1f1-4275-8d4b-9685494ec58e</id>
+    <link>/galnet/uid/601a9e6c37048e1ffb13f4b4</link>
+    <title> Empire Denies Existence of Secret Prison</title>
+    <date>03 FEB 3307</date>
+    <story>*Pilots Federation ALERT*
+An Imperial Intelligence detention facility discovered in the R CRA Sector AF-A d42 system has been repudiated by the Empire.
+The outpost, named Serene Harbour, was located after its distress call was shared publicly by the Pilots Federation. According to the Commander Andee-X- who first investigated the site, all its occupants were dead as the result of what appeared to be a prisoner breakout.
+Unlike the Imperial Internal Security Service, the Imperial Intelligence organisation has no spokespeople or public channels. However, Senator Karl Nerva told the media:
+“The claim that high-security prisoners and terrorists are being tortured for information in an unregistered outpost is categorically false. There is no such place as ‘Serene Harbour’.”
+“We believe that independent pilots have been duped by a Federal ploy to undermine the Empire, using fake locations and logs for theatrical effect. I assure all citizens that Imperial Intelligence operates fully within the law and remains vigilant against all threats.”
+When asked about Commandant Gabriel De Luca, who was identified by surviving logs at the outpost, Senator Nerva replied:
+“Captain De Luca was indeed an agent of Imperial Intelligence, but died on active duty several years ago. It’s obvious that this respected hero’s identity has been stolen to add credibility to anti-Imperial disinformation.”</story>
+  </article>
+  <article>
+    <id>b4a24ed2-5973-46c2-ad86-aae02f8561e9</id>
+    <link>/galnet/uid/601befd3c65dc75929039e05</link>
+    <title> Engineer’s Enhanced Missile Rack Initiative</title>
+    <date>04 FEB 3307</date>
+    <story>*Pilots Federation ALERT*
+The engineer Liz Ryder has requested mined materials to help make a previously unique ship module widely available.
+The module is a fully engineered lightweight and high capacity Class 2 Seeker Missile Rack with thermal cascade. It was offered in October 3306 to pilots who helped defend the Eurybia system from Imperial forces. At the time, the Empire suspected Liz Ryder of supplying weapons to the NMLA terrorist group.
+Ms Ryder has announced that her aim is to make this specially modified weapon available for purchase at all human technology brokers. She added:
+“Pilots can help kick-start this project by providing mined commodities, which will temporarily reduce the amount of materials that customers require to obtain the missile rack. As a bonus, the highest contributors to this initiative will be gifted with the module.”
+“I’m pleased to be working with tech brokers to add this to the market. Many engineers think we could do more to serve the galactic community, and this is a step in that direction.”
+Shipments of bromellite, lithium hydroxide, osmium and samarium can be delivered to Awyra Flirble in the Eurybia system. </story>
+  </article>
+  <article>
+    <id>e1e2a223-fc0d-47aa-b767-888495261ad1</id>
+    <link>/galnet/uid/601d40da3b480653852264ef</link>
+    <title> Jupiter Rochester Named in Starship One Trial</title>
+    <date>05 FEB 3307</date>
+    <story>Core Dynamics CEO Jupiter Rochester has been accused of collaborating with Fleet Admiral Vincent to orchestrate Starship One’s destruction in 3301.
+As reported by Ethan Takahashi for The Federal Times:
+“Financial data was presented to the court showing that Vincent, along with others in government and the Federal Navy, received colossal payments via shell companies created by Jupiter Rochester’s loyalists.”
+“The prosecution claimed that Rochester and Vincent were reacting to then-President Jasmina Halsey’s intention to scale back military spending, which would impact Core Dynamics’s profits. They arranged to assassinate her and lay groundwork for Zachary Hudson to be voted into power, knowing that his policies would result in further naval contracts.”
+“The defence argued that Halsey’s testimony was unreliable, and that the financial data was obtained via improper methods so should have been inadmissible. It was also pointed out that the Rochester family had many enemies determined to besmirch their reputation.”
+“The jury has now been sequestered to determine a verdict. This means they are unaware of media reports that several Core Dynamics departments, known collectively as ‘Jupiter Division’, are transporting ships and personnel to the HIP 54530 system.”
+Other sources confirmed that the HIP 54530 Gold Universal Group has officially assumed the name Jupiter Division, suggesting that it was heavily infiltrated by Rochester’s loyalists. The faction has retained control of the permit-locked HIP 54530 system. </story>
   </article>
 </GalnetArchive>
