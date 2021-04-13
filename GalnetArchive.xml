@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <GalnetArchive>
-  <version>1.022</version>
+  <version>1.023</version>
   <article>
     <id>5ff5b9b37a37e</id>
     <link>
@@ -26224,5 +26224,31 @@ The Imperial Herald was permitted to publish this summary of his preliminary rep
 “Regarding the NMLA, there is widespread anger that they have made all Marlinists look like monsters. Only rarely did I sense guarded approval, with the vast majority openly condemning the terrorists.”
 “The Marlinist Parliament is small but efficient, containing a spectrum of viewpoints. First Minister Fairfax is focused on cohesion and survival, Amrita Ross discussed future reintegration with the Empire, while Aaron Whyte sees Neo-Marlinism as a valid political movement if violence can be avoided.”
 “Months ago these were ordinary Imperial citizens, and our shared history still binds us. Generally, I feel that the Marlinist Colonies are closer to allies than enemies in our war against the NMLA.”</story>
+  </article>
+  <article>
+    <id>dd98503f-1bad-43ad-b2a8-42829604bd84</id>
+    <link>/galnet/uid/60743539b44e52188377456e</link>
+    <title> Galactic Mysteries: Dredger Clans</title>
+    <date>12 APR 3307</date>
+    <story>Erik Gunnarson of the Wallglass Investigations Agency discusses the nomadic tribes that wander the galaxy in converted dredger megaships.
+“It’s well known that there are many travelling communities – groups of people who prefer to live on the move rather than settle anywhere. Proudly independent, they survive on the fringes of civilisation and tend to avoid interacting with the authorities. Those commonly known as the Dredger Clans are among the most successful.”
+“Dredger-class bulk cruisers convert both natural and man-made minerals into raw resources, to sustain themselves on deep-space voyages. Improved hyperdrives and fuel-scooping systems made this design redundant long ago, but some were taken over by nomads and kept operational.”
+“These dredgers are now a type of generation ship. Each hosts tens of thousands of people, whose cultures have evolved – or devolved – over decades or centuries. Some are true loners while others have formed alliances, or occasionally gather to increase their gene pools.”
+“Typically these clans act as scavengers, quickly passing through systems to steal anything not locked down. Several take what they need in more aggressive ways, such as raiding unprotected outposts.”
+“A few have even darker reputations. I remember being told as a boy: ‘If you don’t behave, the Phagos take you away in your sleep and eat you up.’ All my childhood nightmares came surging back when I discovered there may be some truth to that story.”
+“More recently, I’ve heard rumours that a rarely seen Dredger Clan has resurfaced. Naturally, Wolfe has rushed off to find out more. Hopefully she’ll be able to increase our limited knowledge of these mysterious tribes.”
+</story>
+  </article>
+  <article>
+    <id>b5b72d6e-fa5e-45cd-ada8-7b48d6f6d809</id>
+    <link>/galnet/uid/6075866aa3b9c4055f2398a2</link>
+    <title> Federal Reactions to Communications Surveillance Programme</title>
+    <date>13 APR 3307</date>
+    <story>There have been mixed responses to the Proactive Detection Bureau, which monitors private communications in the Federation for terrorist activity.
+Mainstream newsfeeds reported on the situation:
+The Federal Times: “Civil rights groups are united in protest against the PDB. The controversy was also seized upon by the corporatist movement that was formed by Jupiter Division supporters. Their spokesperson stated: ‘The government has overstepped its authority and must be replaced by direct corporate rule.’”
+Sol Today: “Has everyone already forgotten Li Qing Jao station burning in the night skies above Earth? Whatever it takes to keep us safe must be done. Only people with something to hide demand secrecy.”
+Vox Galactica: “Professor Irene Ralston of Olympus Village University told us that her political history students received visits by FIA agents for researching Marlinism, despite it being on the curriculum.”
+The Tau Ceti Journal: “Corporations that incurred financial losses in the bombings have welcomed the PDB. But other businesses have submitted legal challenges, claiming a right to protect sensitive commercial information. Megacorps such as Caine Massey and Vandermeer are even threatening to withdraw political donations.”</story>
   </article>
 </GalnetArchive>
