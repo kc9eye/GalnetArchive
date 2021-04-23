@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <GalnetArchive>
-  <version>1.024</version>
+  <version>1.025</version>
   <article>
     <id>5ff5b9b37a37e</id>
     <link>
@@ -26282,5 +26282,78 @@ Landgrave Delacroix and his loyalists fled aboard the Steel Majesty megaship to 
 The Empire has officially demanded that the Neo-Marlinists be apprehended, with Senator Patreus claiming “The Landgrave of Mudhrid is a traitor and a war criminal.”
 Both the Alliance and Federation have likewise insisted on their arrest. However, Shadow President Winters reminded Congress that the Marlinist Charter grants their systems the same legal powers of asylum as the Federation.
 The Marlinist Parliament has declared an emergency situation. First Minister Fairfax called for a discussion of options, while Ministers Amrita Ross and Tamsin Taylor urged cooperation with the Empire.</story>
+  </article>
+  <article>
+    <id>f975cd12-5b0f-49cd-a496-3f5bdc60158a</id>
+    <link>/galnet/uid/607d6f713524ca5382273db6</link>
+    <title> The Adamastor Enigma</title>
+    <date>19 APR 3307</date>
+    <story>*Pilots Federation ALERT*
+Commanders have reported receiving anonymous instructions regarding the 200 year old derelict megaship orbiting Chukchan 5 b.
+A communications beacon stored onboard the Adamastor began receiving and rebroadcasting an encrypted signal on the 8th of April. Efforts by authorities to trace and decipher the signal proved unsuccessful.
+However, a number of independent pilots claim to have been contacted by an anonymous source, who provided an access key to decode the Adamastor signal.
+Commander Rex Trevelyan gave this statement to Vox Galactica:
+“Not long after arriving in the Chukchan system, my ship received a message from someone calling himself ‘Salvation’. He provided a decryption key, and when I downloaded the signal from the Adamastor it became readable. It seems to be an automatic SOS from its sister ship, the Hesperus.”
+“I’ve heard that some Commanders have made sense of the navigational data in the signal. It feels like pilots are being recruited for something, but who exactly are we working for?”
+The Pilots Federation has begun an inquiry into the situation. The identity of ‘Salvation’ remains unknown, but there are reports that the Adamastor signal contains data that has led to its sister ship.</story>
+  </article>
+  <article>
+    <id>a5b4bf9f-6cbc-4da1-aae2-2e338257a6f5</id>
+    <link>/galnet/uid/607ec1d8af3850356305da12</link>
+    <title> Conditional Amnesty Agreed for Neo-Marlinists</title>
+    <date>20 APR 3307</date>
+    <story>The Neo-Marlinist Order of Mudhrid has been granted sanctuary in the Marlinist Colonies in return for revealing the identities of the NMLA’s leaders.
+The faction’s survivors arrived in the Hyades Sector RO-P b6-2 system after being defeated by Imperial forces. The Marlinism Reformation Party agreed to offer political asylum, despite all three superpowers demanding the refugees’ arrest.
+Imperial Senator Lorcan Scordato, who was visiting the Colonies on a fact-finding mission, announced:
+“After meeting the Neo-Marlinists and the Marlinist Parliament, I have secured an agreement. The Landgrave of Mudhrid and his inner circle will cooperate fully with ACT to provide details on the senior leadership of the NMLA. In return, they will receive life imprisonment at a local detention facility.”
+“The Steel Majesty’s population will undergo security vetting by the Marlinist Constabulary to identify extremists. The remainder will be permitted to remain in the system and apply for citizenship.”
+Chancellor Blaine has approved the proposal, commenting that it was “precisely the sort of creative solution the Emperor requires”. Responses from the Alliance and Federation were mixed, but there was broad agreement that targeting the NMLA was the priority.
+Minister Aaron Whyte, elected leader of the Marlinism Reformation Party, publicly thanked Senator Scordato for negotiating a peaceful resolution.</story>
+  </article>
+  <article>
+    <id>94817e6b-c2ab-4d03-ac4f-6a9cbd828e52</id>
+    <link>/galnet/uid/6080140115de2b1d9f67a8f9</link>
+    <title> Federal Surveillance Identifies Domestic Terrorists</title>
+    <date>21 APR 3307</date>
+    <story>The Proactive Detection Bureau, which monitors all civilian communications in the Federation, has detected several home-grown terrorist groups.
+Deputy Director Bethany Blake of the Federal Investigations Agency told the media:
+“Our combination of sophisticated algorithms and skilled operatives has unearthed over a dozen extremist organisations, all previously unknown. The FIA launched pre-emptive raids on these groups before they were able to strike against civilian targets.”
+“In addition, we have arrested several thousand individuals who were conducting research into terror tactics, radical ideologies and other suspicious subjects.”
+“The PDB will continue monitoring all comms networks, and liaising with local security agencies via the Federal Justice Department.”
+Vice President Jerome Archer hailed these results as validation of the Domestic Counter-Terrorism Act, and stated that the PDB will help prevent the mass murder of Federal citizens.
+Civil rights groups have claimed that these extremists could have been detected via conventional policing methods, rather than intercepting personal messages. Independent criminologists added that the statistical likelihood of such amateur groups committing actual attacks is low.</story>
+  </article>
+  <article>
+    <id>b038c95e-403c-4d35-85c9-2b9fef924d3a</id>
+    <link>/galnet/uid/6081733b84f2a8395214802f</link>
+    <title> Aegis Appeals For Guardian Artefacts</title>
+    <date>22 APR 3307</date>
+    <story>*Pilots Federation ALERT*
+Ancient objects left behind by the Guardians have been requested by Aegis for a new anti-xeno research programme. 
+The Guardians were an intelligent humanoid species whose civilisation collapsed over a million years ago, and who were engaged in hostilities with the Thargoid race.
+Professor Alba Tesreau, head of Aegis Research, gave this statement:
+“At the Galactic Summit, Aegis agreed to undertake a fresh analysis of Guardian technology. The hope is that this will lead to the development of more effective defences against the Thargoids. We therefore require new samples to compare with Ram Tah’s groundbreaking work on this mysterious species.”
+“Guardian artefacts including those previously identified as caskets, orbs, relics, tablets, totems and urns are needed. These can be unearthed from the ancient ruins scattered across dozens of worlds.”
+“I beseech the galactic community to support this project. It is vital that Aegis continues to receive funding, and to achieve this we must push the boundaries of our knowledge even further.”
+Pilots are asked to deliver their shipments to Aegis Research at the Alexandria megaship in the Delphi system.</story>
+  </article>
+  <article>
+    <id>973260a6-a4ca-4f55-ba99-79dbbb3a2c4f</id>
+    <link>/galnet/uid/6081598334917a484f12b3ed</link>
+    <title> Archon Delaine Starport Campaign Concludes</title>
+    <date>22 APR 3307</date>
+    <story>*Pilots Federation ALERT*
+An initiative by the Kumo Crew syndicate to construct new starports for increasing trade has ended successfully.
+Pilots delivered large quantities of ceramic composites, semiconductors, polymers and water purifiers to Gabriel Enterprise in the Harma system. Bounty vouchers were also offered to protect the shipments during transit.
+The Kumo Council has announced that rewards for both traders and bounty hunters are now available from Gabriel Enterprise via its loyal intermediaries, The Razor Whips.
+Kavanagh Spaceframes Ltd will now fulfil its contract and construct new Orbis starports. These will be in place on the 29th of April 3307 at the following locations:
+Pegasi sector PN-T C3-14, near the Harma system
+HIP 18390, near the California Nebula
+HIP 10792, near the Sothis system
+HIP 62154, in the Coalsack Nebula
+Eol Prou PC-K c9-91, in the Colonia region
+A statement from Archon Delaine was published by The Pegasi Sentinel:
+“I am pleased to see that our trade routes can now extend into fresh territories. My people will be very grateful, I’m sure.”
+“What pleases me less is the huge number of criminal scum that tried to disrupt the project. This has forced me to invent some very creative reprisals, which I look forward to inflicting shortly.”</story>
   </article>
 </GalnetArchive>
