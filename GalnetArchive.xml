@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <GalnetArchive>
-  <version>1.026</version>
+  <version>1.027</version>
   <article>
     <id>5ff5b9b37a37e</id>
     <link>
@@ -26457,5 +26457,64 @@ The starports will provide a full range of services, although their low populati
 Arch-Corsair Kay Volantyne, a senior member of the Kumo Council, addressed this when she told The Pegasi Sentinel:
 “These starports exist solely to encourage trade, which is the lifeblood of our galaxy. Sometimes a little lifeblood can get spilled here and there, so I’m sure our new neighbours will welcome our protection, yes?”
 Other factions have appeared in the five systems, including subsidiaries of Sirius Corporation. Several newsfeeds have speculated about an ambiguous connection between the syndicate and the megacorp, whose financial support might explain how the Kumo Crew managed to extend so far beyond its territory.</story>
+  </article>
+  <article>
+    <id>7fc99c21-b90d-41d6-9411-05e0bb8d973c</id>
+    <link>/galnet/uid/608bf28ac9e22d02fc09c53d</link>
+    <title> Nova Imperium Targeted by Superpowers</title>
+    <date>03 MAY 3307</date>
+    <story>The isolationist group faces attack by both Federal and Imperial factions, after accusations that Imperator Hadrian Duval is the NMLA mastermind.
+The League of Mandu arrived in the Paresa system last week and quickly established a foothold. Admiral Natalia Lee, commanding the Harmony’s Shield megaship, announced:
+“Our purpose is to eliminate the terrorists who slaughtered so many Federal citizens. We advise the Empire to stand aside and allow us to deliver justice.”
+Magister Julius Halstrom of the Peraesii Empire Consulate declared:
+“In the name of the Emperor, we stand ready to purge the NMLA from the Paresa system – and the Federation too, unless they withdraw.”
+Hadrian Duval has broadcast a message via Paresa News Network:
+“The NMLA faked my identity when dealing with the Neo-Marlinist Order of Mudhrid, knowing the superpowers would do their work for them by killing another Duval. Nova Imperium will defend itself if necessary, but we are not responsible for any terrorist attacks.”
+ACT is still attempting to corroborate evidence provided by the Landgrave of Mudhrid. Praetor Leo Magnus, Nova Imperium’s security chief, is reportedly aiding their enquiries.
+The Senate has urgently requested direction from the Emperor, but Chancellor Blaine declared “Her Majesty cannot pass judgement upon a live investigation.”</story>
+  </article>
+  <article>
+    <id>d602edd3-5a8b-4e84-97d9-f1bdf7d058fb</id>
+    <link>/galnet/uid/6093ea1db89a2676e6791a4b</link>
+    <title> Federation Attacks Nova Imperium</title>
+    <date>06 MAY 3307</date>
+    <story>*Pilots Federation ALERT*
+Open warfare has begun in the Paresa system between Nova Imperium and the League of Mandu, a Federal faction.
+Imperator Hadrian Augustus Duval has been accused of masterminding the NMLA starport bombings, according to evidence provided to ACT. 
+Admiral Natalia Lee, commanding the Harmony’s Shield megaship, declared:
+“The Empire refuses to arrest a Duval, even when he and his organisation are brutal terrorists. In the name of the hundreds of thousands of Federal citizens they murdered, we will enact justice.”
+Hadrian Duval made an announcement from Dyson City, the home station of Nova Imperium:
+“This invasion of Imperial space is based on false information. The Federation does not have the right to act as our judge, jury and executioner. I call upon the Empire to come to our defence, as stipulated in the Treaty of Paresa.”
+Nova Imperium is an isolationist group that believes in retaining Imperial traditions and severing all ties with other superpowers. Hadrian Duval is the illegitimate grandson of Emperor Hengist, whose heritage was officially acknowledged last November.
+ACT is currently working to verify claims that the Neo-Marlinist Order of Mudhrid aided the NMLA on Imperator Duval’s instructions.</story>
+  </article>
+  <article>
+    <id>30de11c9-2cc9-4019-a927-2914a988b632</id>
+    <link>/galnet/uid/6093d8eec8a3b342392ba3ef</link>
+    <title> Hudson Initiative Increases Federal Surveillance </title>
+    <date>06 MAY 3307</date>
+    <story>*Pilots Federation ALERT*
+President Zachary Hudson’s call for data deliveries has enhanced civilian surveillance within the Federation.
+His campaign received more data than a competing request from Shadow President Felicia Winters, which aimed to offer ways of protecting communications against interception by the Proactive Detection Bureau.
+For both initiatives, pilots delivered anomalous bulk scan data, exceptional scrambled emission data, specialised legacy firmware and unusual encrypted files.
+President Zachary Hudson hailed this show of public support for the Federal government:
+“Our citizens deserve security, and with their contributions to the PDB’s databases, we are now in a better position to protect them against terrorism.”
+Analysts predict that this outcome will boost security for systems that fall within Hudson’s personal sphere of influence. It is also expected that a loss of public support will reduce stability within systems where Winters has authority.
+Pilots who supported President Hudson can now collect their rewards from Gresley Dock in the Nanomam system.
+Pilots who supported Shadow President Winters can now collect their rewards from Ito Orbital in the Rhea system.</story>
+  </article>
+  <article>
+    <id>462c8b5e-9dc3-410d-86cb-9a9f0e01f908</id>
+    <link>/galnet/uid/60952b79f6181921231d69a3</link>
+    <title> The Voice of ‘Salvation’</title>
+    <date>07 MAY 3307</date>
+    <story>*Pilots Federation ALERT*
+The enigmatic ‘Salvation’ has sent a message to the Commanders he recently recruited to discover the Hesperus megaship.
+The vessel was found in the Perseus Dark Region KC-V C2-2 system, after ‘Salvation’ provided an access key to read its automated SOS. Pilots were then encouraged to deliver any surviving logs to Taurus Mining Ventures at the Hind Mine asteroid base in the T Tauri system.
+Patience Middleton, a representative of the corporation, announced:
+“‘Salvation’ has authorised us to offer two million credits or ten units of void opals for delivering the Hesperus’s logs. This contract ends on the 21st of May 3307, after which payments will not be available.”
+“We have been asked to relay the message below.”
+“‘This is Salvation. I call myself this as I cannot yet reveal my identity, but my scientific breakthroughs will literally save all of humanity. The Adamastor and the Hesperus were just the beginning, as I have always known. For my intrepid agents, there will be further work to come.’”
+Little is known about Taurus Mining Ventures, and ‘Salvation’ remains anonymous. Commanders are therefore being cautioned against undertaking tasks for a potentially criminal organisation.</story>
   </article>
 </GalnetArchive>
