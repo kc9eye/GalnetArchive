@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <GalnetArchive>
-  <version>1.027</version>
+  <version>1.028</version>
   <article>
     <id>5ff5b9b37a37e</id>
     <link>
@@ -26516,5 +26516,57 @@ Patience Middleton, a representative of the corporation, announced:
 “We have been asked to relay the message below.”
 “‘This is Salvation. I call myself this as I cannot yet reveal my identity, but my scientific breakthroughs will literally save all of humanity. The Adamastor and the Hesperus were just the beginning, as I have always known. For my intrepid agents, there will be further work to come.’”
 Little is known about Taurus Mining Ventures, and ‘Salvation’ remains anonymous. Commanders are therefore being cautioned against undertaking tasks for a potentially criminal organisation.</story>
+  </article>
+  <article>
+    <id>9e2f726a-a085-49f8-a0b1-e6e7ecee3773</id>
+    <link>/galnet/uid/60991efaabf6111ca10441e6</link>
+    <title> Alliance Election Campaigns Resume</title>
+    <date>10 MAY 3307</date>
+    <story>The election of the Alliance prime minister will take place on the 27th of May, having been postponed due to the Galactic Summit.
+Vanya Driscoll, political correspondent for The Alliance Tribune, reported:
+“Prime Minister Edmund Mahon’s decision to postpone the election for three months caused enormous disruption and mass protests. This may have mortally wounded his campaign to be re-elected as head of government for a second six-year term.”
+“With hindsight it’s clear that Mahon was prioritising the Sirius Treaty, a detailed proposal to unite the superpowers against the Thargoids. Unfortunately, the Galactic Summit was prematurely halted by the ‘Nine Martyrs’ bombings before the treaty could be agreed.”
+“Although there are several candidates, Mahon’s only serious challenger is Councillor Nakato Kaine. She has been a vocal critic of his expansionist policies, and gained much public support for her focus on boosting trade between Alliance systems.”
+“Electoral votes will be cast by members of the Alliance Assembly, whose decisions reflect popular opinion in their constituencies. No previous prime minister has served more than a single term, so it remains to be seen whether Mahon will defy precedent or Kaine will follow the pattern of history.”</story>
+  </article>
+  <article>
+    <id>afbf582c-660e-4680-a2a7-263b4b0740f6</id>
+    <link>/galnet/uid/609a70c3766c3661556cd6c8</link>
+    <title> Paresa Conflict Risks War Between Superpowers</title>
+    <date>11 MAY 3307</date>
+    <story>There are widespread fears that current hostilities in the Paresa system may force the Empire and Federation to declare full-scale war.
+The situation has been covered by mainstream media.
+The Imperial Herald: “Hadrian might be the black sheep of the Duval family, but should he die by Federation hands, honour would demand retribution. Already the Imperial Navy is mobilising in anticipation of the Emperor’s reaction.”
+The Federal Times: “The evidence that Nova Imperium orchestrated the starport bombings is credible, but the possibility of subterfuge remains. Could the NMLA really fake so many orders from Hadrian Duval to such a believable standard?”
+Eye on Achenar: “An attack against a Duval is an attack against us all, even if he does turn out to be a terrorist. How dare those Fednecks try to judge our criminals for us!”
+Sol Today: “Hundreds of thousands dead, half a million wounded… our people deserve retribution. But as usual, all the Imposers care about is pandering to their monarchy.”
+Paresa News Network: “The death toll is soaring as full-blown battles rage through our system. Paresans are terrified at facing conquest by the Federation. Can we rely on the Empire to save us?”</story>
+  </article>
+  <article>
+    <id>05313740-14e7-461f-b414-fe15663b283b</id>
+    <link>/galnet/uid/609d356236963173f4177e37</link>
+    <title> Mass Thargoid Strike – Emergency Declared</title>
+    <date>13 MAY 3307</date>
+    <story>*Pilots Federation ALERT*
+Thargoid forces have invaded the Delphi system and several systems in the California, Coalsack and Pleiades Nebulas.
+Huge numbers of Thargoid scouts and interceptors have appeared within multiple systems. Aegis has mobilised available defences, but also requested assistance from anti-xeno squadrons and independent pilots in combating the Thargoids.
+Shipments of Guardian artefacts were recently delivered to the Delphi system as part of an Aegis research programme. Professor Alba Tesreau has speculated that the Thargoids’ well-documented aversion to Guardian technology may be the reason why Delphi was targeted.
+Two starports recently constructed by the Kumo Crew syndicate – California Freeport in the HIP 18390 system and Fort Xeno in the HIP 62154 system – are among those seriously damaged by the assault. Archon Delaine, the syndicate’s warlord, announced:
+“I’m not going to let these filthy aliens tear down what we’ve only just built. We need to teach them a lesson that even they will understand!” 
+All attacked stations have called upon the galactic community for help with rescuing their populations.</story>
+  </article>
+  <article>
+    <id>f6491bd1-d1e7-4c7f-af22-413e687dd9ff</id>
+    <link>/galnet/uid/609d13e35d0b9e49c17b4408</link>
+    <title> Nova Imperium Triumphs Over Federation</title>
+    <date>13 MAY 3307</date>
+    <story>*Pilots Federation ALERT*
+The conflict in the Paresa system has ended with Nova Imperium defeating the Federal-backed League of Mandu faction.
+Imperator Hadrian Augustus Duval had been targeted following accusations that he controlled the NMLA paramilitary group. He delivered a public address:
+“Our hard-earned victory brings great honour to all who fought against the Federation’s invasion. Their arrogance justifies our long-held belief that the Empire must stand apart from other superpowers, but Nova Imperium will continue to serve in the fight against terrorism. Memento Mordanticus!”
+Ambassador Catherine Carlisle of the Federal Diplomatic Corps made this statement:
+“Although we are grateful for their zeal in combatting the NMLA, our intermediaries at the League of Mandu have acted hastily and will soon depart from Imperial space.”
+Pilots who fought for Nova Imperium can now collect their rewards from Dyson City in the Paresa system.
+Pilots who fought for the League of Mandu can now collect their rewards from Harmony’s Shield in the Paresa system.</story>
   </article>
 </GalnetArchive>
