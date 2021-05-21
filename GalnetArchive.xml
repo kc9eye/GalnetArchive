@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <GalnetArchive>
-  <version>1.028</version>
+  <version>1.029</version>
   <article>
     <id>5ff5b9b37a37e</id>
     <link>
@@ -26568,5 +26568,60 @@ Ambassador Catherine Carlisle of the Federal Diplomatic Corps made this statemen
 “Although we are grateful for their zeal in combatting the NMLA, our intermediaries at the League of Mandu have acted hastily and will soon depart from Imperial space.”
 Pilots who fought for Nova Imperium can now collect their rewards from Dyson City in the Paresa system.
 Pilots who fought for the League of Mandu can now collect their rewards from Harmony’s Shield in the Paresa system.</story>
+  </article>
+  <article>
+    <id>44a2c084-beb2-46b8-8745-39116c7f5b7e</id>
+    <link>/galnet/uid/609e64f064b3c15c99541d03</link>
+    <title> Federal Citizens Approve Government Scrutiny</title>
+    <date>14 MAY 3307</date>
+    <story>The Proactive Detection Bureau, which monitors all civil communications in the Federation, has received a boost from the galactic community.
+President Hudson’s campaign for additional data proved so successful that the PDB has dramatically increased the range of its surveillance. 
+Deputy Director Bethany Blake of the Federal Intelligence Agency announced:
+“We are now able to discreetly scan almost every private and public communications network used within Federal systems. As a result, arrest rates have soared and several organised crime rings have been dismantled.”
+Shadow President Winters’s efforts to distribute methods of blocking the PDB received considerable support, but failed to eclipse Hudson’s initiative. This was interpreted by the Federal government as a mandate from the citizens to continue its surveillance programme.
+Rhiannon Grady, director of the civil rights organisation Advocacy, told the media:
+“Since the vast majority of citizens will never receive a visit from the FIA for their activities, the public has no sense of what they have lost. But history teaches us how hard it is to regain freedoms once you’ve given them away. The Federation has taken a large step toward becoming an interstellar police state with little regard for the individual.”
+</story>
+  </article>
+  <article>
+    <id>9e64179a-4855-4df0-b8bb-e24b9d77b6a3</id>
+    <link>/galnet/uid/60a25959d537a745a202f664</link>
+    <title> Alliance Unrest as Mahon and Kaine Clash</title>
+    <date>17 MAY 3307</date>
+    <story>The front-runner candidates in the Alliance election have stepped up their campaigns, amid widespread political and civil unrest.
+Prime Minister Edmund Mahon and Councillor Nakato Kaine are touring across the Alliance, gathering public support to sway the Assembly when it votes on the 27th of May.
+Attending a business sector conference on the planet Industry in the Zaonce system, Prime Minister Mahon stated:
+“We’ve heard a lot of reactionary rhetoric from Councillor Kaine, but it’s much easier to be critical than constructive. She has done little to secure the prosperity of our people and companies, which was my primary focus over the last six years.”
+At a protest march on New Caledonia in the Alkaid system, Councillor Kaine addressed the crowd:
+“Again, the Thargoids lash out at our presence. Again, we prop up the other superpowers. Again, we pump money into Aegis and Lakon but not our own economies. Nothing changes, unless Mahon is voted out and the Alliance takes a new direction!”
+Opinion polls suggest that Mahon has retained majority support, but with a narrower margin than in February when the election was originally scheduled. Many agree with Kaine that the Alliance should not have participated in the Galactic Summit, which led to the ‘Nine Martyrs’ bombings.</story>
+  </article>
+  <article>
+    <id>48ac480d-b0f3-41b9-80a1-fcac443d2c13</id>
+    <link>/galnet/uid/60a65e74b2a27b068a3888c6</link>
+    <title> Alliance Election Candidates Announce Community Drives</title>
+    <date>20 MAY 3307</date>
+    <story>*Pilots Federation ALERT*
+Prime Minister Edmund Mahon and Councillor Nakato Kaine have launched rival delivery initiatives in Alliance space.
+The two leading candidates for Alliance prime minister are attempting to gather public support, although the actual election will be determined by votes within the Assembly on the 27th of May.
+Every opinion poll suggests that Mahon’s victory is all but confirmed, which will grant him a second six-year term. However, the outcomes of these community drives will directly affect the successful candidate’s policies once in office.
+Prime Minister Mahon is focusing on increasing industrial materials to aid expansion. He has requested that shipments of ceramic composites, polymers and superconductors are delivered to Dublin Citadel in the Gateway system.
+Councillor Kaine aims to support local manufacturers in order to boost trade. She has asked for supplies of copper, micro-controllers and polymers to be delivered to Brett High in the Tionisla system.
+Whoever is most successful will run a second campaign the following week. Mahon will launch a tritium mining initiative, leading to the construction of new Alliance starports. Kaine will use void opal mining to help stimulate trade, increasing the availability of rare goods in Alliance-controlled systems.
+</story>
+  </article>
+  <article>
+    <id>1c096310-c2b7-4019-a3d0-8c4ee0bfd295</id>
+    <link>/galnet/uid/60a77d371db9db494a49544d</link>
+    <title> Thargoids Pursue Aegis Megaship</title>
+    <date>21 MAY 3307</date>
+    <story>*Pilots Federation ALERT*
+The Alexandria megaship has jumped from Delphi to the HIP 16538 system, triggering a Thargoid attack.
+The megaship is carrying large quantities of Guardian artefacts, which were delivered as part of a research programme by Aegis. 
+Captain Jacob Morales, commanding officer of the Alexandria, has broadcast an SOS:
+“This is an emergency! We scheduled a stopover in HIP 16538 for tritium refuelling en route to the Sol system, but Thargoid interceptors came swarming in within minutes. We require immediate assistance!”
+Admiral Aden Tanner, chief military liaison for Aegis, announced:
+“We believe that the Thargoids are reacting to the concentrated presence of Guardian technology stored within the Alexandria’s cargo holds. Not only has the attack placed its crew and the population of this system in danger, but we risk losing these extremely valuable research materials.”
+“Aegis is asking anti-xeno squadrons and independent pilots to help destroy all Thargoid vessels within HIP 16538 and protect the Alexandria.”</story>
   </article>
 </GalnetArchive>
