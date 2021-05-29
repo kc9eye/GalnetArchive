@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <GalnetArchive>
-  <version>1.030</version>
+  <version>1.032</version>
   <article>
     <id>5ff5b9b37a37e</id>
     <link>
@@ -26650,6 +26650,33 @@ Captain Jacob Morales, the Alexandria’s commander, broadcast this message:
 A strategy was outlined by Admiral Aden Tanner, chief military liaison for Aegis:
 “We are attempting to clear the HIP 16538 system of Thargoid vessels, greatly aided by independent pilots and anti-xeno squadrons. The megaship will then jump to a system with a minimal population, where we will offload its cargo.”
 Aegis has reiterated that the option to jettison the Alexandria’s cargo is a last resort, since the Guardian artefacts are vital to its research programme and cost billions of credits to acquire.
+</story>
+  </article>
+  <article>
+    <id>ad481635-c78e-4c5d-9bcd-a8417cc37b3f</id>
+    <link>/galnet/uid/60af994351e04a6d1a37ca75</link>
+    <title> Tritium Mining Marks Alliance Election Day </title>
+    <date>27 MAY 3307</date>
+    <story>*Pilots Federation ALERT*
+As the Assembly votes for its new leader, Prime Minister Edmund Mahon has requested mined tritium to aid expansion.
+The new initiative follows on from his successful drive for industrial materials, which resulted in large amounts of ceramic composites, polymers and superconductors. Pilots who contributed to this can now collect their rewards from Dublin Citadel in the Gateway system.
+A competing community drive by Councillor Nakato Kaine, Mahon’s main rival in the election, brought deliveries of copper, micro-controllers and polymers.
+Prime Minister Mahon’s new tritium mining initiative aims to provide a stockpile of fuel to support the Alliance’s expansion programme. This will involve constructing up to five new starports, which are expected to be operational within a month. 
+Mined deposits of tritium can be delivered to Dublin Citadel in the Gateway system.
+Members of the Alliance Assembly will gather today to cast their votes for a new prime minister. Opinion polls believe Mahon will comfortably win, although acknowledge that Kaine has broad support. The successful candidate will serve as the Alliance head of state for a six-year term.
+</story>
+  </article>
+  <article>
+    <id>9647c7aa-6056-47e5-b1e3-8922376ac273</id>
+    <link>/galnet/uid/60afaebfcbb0c3468a3add9e</link>
+    <title> Mahon Wins Alliance Election</title>
+    <date>28 MAY 3307</date>
+    <story>The election for Alliance prime minister has been won by the incumbent Edmund Mahon, who begins a second six-year term in office.
+The Alliance Assembly voted yesterday to elect the new head of state. Mahon received more votes than any other candidate, albeit not a majority of the electorate. Some council members demanded additional checks, causing a delay in announcing the results.
+Prime Minister Mahon gave a victory speech to the public:
+“It is my great honour to continue serving the diverse peoples of the Alliance. We will hold fast to our principles of democracy, prosperity and mutual defence, no matter what the galaxy throws at us.”
+Vanya Driscoll, political correspondent for The Alliance Tribune, observed:
+“With the core systems affected by political unrest, terrorist threats and economic turmoil, it is no surprise that the Assembly voted for stability. Mahon is a known quantity, and the Alliance has become reliant on his calm, measured leadership.”
 </story>
   </article>
 </GalnetArchive>
