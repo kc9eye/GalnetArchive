@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <GalnetArchive>
-  <version>1.033</version>
+  <version>1.034</version>
   <article>
     <id>5ff5b9b37a37e</id>
     <link>
@@ -26691,5 +26691,30 @@ Prime Minister Mahon gave a victory speech to the public:
 Vanya Driscoll, political correspondent for The Alliance Tribune, observed:
 “With the core systems affected by political unrest, terrorist threats and economic turmoil, it is no surprise that the Assembly voted for stability. Mahon is a known quantity, and the Alliance has become reliant on his calm, measured leadership.”
 </story>
+  </article>
+  <article>
+    <id>f81e0a35-383c-49d3-8f06-5c0e4e8d95c0</id>
+    <link>/galnet/uid/60b73e1edf893a54853e8a79</link>
+    <title> Jupiter Division Inspires Corporatist Movement</title>
+    <date>01 JUN 3307</date>
+    <story>The Core Dynamics breakaway faction created by ex-CEO Jupiter Rochester has survived, by gathering believers in the corporate rule of the Federation.
+Conrad Sterling, political journalist for Vox Galactica, published this report:
+“With its military forces defeated in February, and its leader found guilty of mass murder and imprisoned for life, Jupiter Division should now be a footnote in the Federation’s history.”
+“Yet in recent months it has steadily grown, retaking control of HIP 54530 and several neighbouring systems. Its megaship, Victory’s Forge, even managed to repel Federal troops and remains under Jupiter Division’s command.”
+“There is much speculation about the underlying reasons for this. Alongside general unrest with the Federation’s current policies, there is a rising interest in Rochester’s grand vision – replacing democracy with corporatocracy – among those wishing to see change. Many have flocked to Jupiter Division’s banner, preventing its collapse.”
+“Core Dynamics, its parent company, has also continued to see defections within its ranks. However, new CEO Owen McKenna has vowed to destroy his predecessor’s rogue department. It is possible that Jupiter Division’s survival was only a brief reprieve, unless the corporatists can gather in sufficient numbers to sustain it.”</story>
+  </article>
+  <article>
+    <id>d24b1336-1742-41ad-9f5c-56db3e7af587</id>
+    <link>/galnet/uid/60b60819601915167f11e893</link>
+    <title> Aegis Megaship Prepares to Escape Thargoids</title>
+    <date>01 JUN 3307</date>
+    <story>*Pilots Federation ALERT*
+All independent ships aboard the Alexandria in the HIP 16538 system will be undocked on Thursday the 3rd of June.
+The megaship triggered an invasion of Thargoid vessels when it arrived from the Delphi system. Aegis believes this was a reaction to the large quantities of Guardian artefacts being stored in its cargo holds.
+Captain Jacob Morales, commanding officer of the Alexandria, outlined the next steps:
+“On Thursday we will make a hyperspace jump to the HIP 30944 system. Since this has a small population, the risk of casualties will be low if the Thargoids continue to pursue us. Once there, we will arrange to offload our cargo and distribute it to multiple locations.”
+“As a precaution, shortly before the jump we will uncouple all independent ships and leave them in the HIP 16538 system. We advise all pilots currently docked with the Alexandria to depart as soon as possible.”
+The Alexandria was ordered not to enter any Federal systems, causing many newsfeeds to refer to it as a ‘plague ship’. There are widespread concerns that it will attract Thargoids to any system it travels to.</story>
   </article>
 </GalnetArchive>
