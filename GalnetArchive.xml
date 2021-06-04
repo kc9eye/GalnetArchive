@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <GalnetArchive>
-  <version>1.034</version>
+  <version>1.035</version>
   <article>
     <id>5ff5b9b37a37e</id>
     <link>
@@ -26716,5 +26716,48 @@ Captain Jacob Morales, commanding officer of the Alexandria, outlined the next s
 “On Thursday we will make a hyperspace jump to the HIP 30944 system. Since this has a small population, the risk of casualties will be low if the Thargoids continue to pursue us. Once there, we will arrange to offload our cargo and distribute it to multiple locations.”
 “As a precaution, shortly before the jump we will uncouple all independent ships and leave them in the HIP 16538 system. We advise all pilots currently docked with the Alexandria to depart as soon as possible.”
 The Alexandria was ordered not to enter any Federal systems, causing many newsfeeds to refer to it as a ‘plague ship’. There are widespread concerns that it will attract Thargoids to any system it travels to.</story>
+  </article>
+  <article>
+    <id>5bc5ac86-2463-4bc8-9417-42b4ad79d160</id>
+    <link>/galnet/uid/60b8d2d0e0fadd7ce20167f3</link>
+    <title> Core Dynamics Engages Jupiter Division in Battle</title>
+    <date>03 JUN 3307</date>
+    <story>*Pilots Federation ALERT*
+The corporate faction Jupiter Division is fighting for survival against the Silver Legal Group in the Ts'ao Tach system.
+Jupiter Division was formed by rogue Core Dynamics departments loyal to ex-CEO Jupiter Rochester. Although it was defeated in February, a growing corporatist movement within the Federation has helped rebuild its strength.
+A call to arms was made by Owen McKenna, the new CEO of Core Dynamics:
+“Rochester’s deranged cult must be wiped out once and for all. We are supporting our ally, the Silver Legal Group, to destroy Jupiter Division’s fleet and allow us to retake our stolen resources.”
+Vice-Executive Blanca Carbonell, a senior leader of Jupiter Division, broadcast this message:
+“To all those seeking a better Federation – stand up and make your voice heard! Only direct corporate rule can end government corruption. Jupiter Division must survive to lead that change!”
+Two megaships, Victory’s Forge and Iron Wings of Justice, are once again serving as the centres of operation for Jupiter Division and the Silver Legal Group. 
+Political commentators believe that this second conflict will be a decisive one, determining whether or not Jupiter Division can survive without its founder.</story>
+  </article>
+  <article>
+    <id>5391c7d2-1b80-459c-8a55-a117a70e0153</id>
+    <link>/galnet/uid/60b8b6e2ac5b1b054d5cb25b</link>
+    <title> Tritium Mining Campaign Boosts Alliance Expansion</title>
+    <date>03 JUN 3307</date>
+    <story>*Pilots Federation ALERT*
+Prime Minister Edmund Mahon’s request for mined tritium has concluded, paving the way for new Alliance starports.
+Large quantities of tritium were delivered, which will provide fuel for a civil infrastructure programme designed to increase the Alliance’s presence. 
+As part of this expansion, new Alliance starports will be constructed in these systems by the 25th of June 3307:
+LHS 2522
+Sharru Sector FW-W c1-19
+Prime Minister Mahon, who was recently re-elected by the Assembly, told the media:
+“The economy of the Alliance will benefit greatly from investment in expansion. These new stations will provide more opportunities for individuals and corporations alike.”
+Pilots who mined and delivered tritium can now collect their rewards from Dublin Citadel in the Gateway system.</story>
+  </article>
+  <article>
+    <id>50d14a8e-4b37-49a2-b36b-2c19af1a940a</id>
+    <link>/galnet/uid/60ba3278b656ac7044388ff8</link>
+    <title> Aegis Megaship Vanishes in Hyperspace</title>
+    <date>04 JUN 3307</date>
+    <story>The Alexandria has failed to arrive in the HIP 30944 system as scheduled, and may have been hyperdicted by the Thargoids.
+The Aegis-owned megaship triggered an attack by Thargoid vessels when it travelled from the Delphi system to HIP 16538 on the 20th of May. Aegis believes this was caused by the large quantity of Guardian artefacts in its cargo holds.
+To reduce the risk of further casualties, the Alexandria plotted a route to a low-population prison colony in the HIP 30944 system. All independent ships were undocked before it made the hyperspace jump on the 3rd of June.
+However, the megaship never reached its arrival point and all communication with it has ceased. Search teams in local systems have not detected its presence.
+Admiral Aden Tanner, chief military liaison with Aegis, informed the media:
+“We regret to announce a complete loss of contact with the Alexandria. Although there is no evidence of damage or destruction, its disappearance while travelling through hyperspace raises the possibility that it was intercepted en route by Thargoid forces.”
+“Captain Jacob Morales and over four thousand crewmembers will be listed as missing presumed dead. In addition to this great tragedy, Aegis’s research programme into Guardian technology has been severely impacted by the loss of many precious artefacts.”</story>
   </article>
 </GalnetArchive>
