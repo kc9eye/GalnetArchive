@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <GalnetArchive>
-  <version>1.035</version>
+  <version>1.036</version>
   <article>
     <id>5ff5b9b37a37e</id>
     <link>
@@ -26759,5 +26759,18 @@ However, the megaship never reached its arrival point and all communication with
 Admiral Aden Tanner, chief military liaison with Aegis, informed the media:
 “We regret to announce a complete loss of contact with the Alexandria. Although there is no evidence of damage or destruction, its disappearance while travelling through hyperspace raises the possibility that it was intercepted en route by Thargoid forces.”
 “Captain Jacob Morales and over four thousand crewmembers will be listed as missing presumed dead. In addition to this great tragedy, Aegis’s research programme into Guardian technology has been severely impacted by the loss of many precious artefacts.”</story>
+  </article>
+  <article>
+    <id>b00d4c69-30bf-470f-aba2-1f92143086fa</id>
+    <link>/galnet/uid/60be18b8a4b7261bc3437bb2</link>
+    <title> Neo-Marlinist Political Party Emerges</title>
+    <date>07 JUN 3307</date>
+    <story>Minister Aaron Whyte, leader of the Marlinism Reformation Party, has confirmed that it aims to politically represent the Neo-Marlinist fringe.
+At a meeting of the Marlinist Parliament, Minister Whyte declared:
+“Not all of the Neo-Marlinist community seek a violent uprising to end the Duval family’s thousand-year dictatorship. We can help replace desperate acts of rebellion with meaningful dialogue and public pressure.”
+Several newsfeeds observed that Whyte was attempting to rebrand Neo-Marlinism as being closer to the mainstream ideals of Marlinism. However, the possibility that the faction may now act as the political wing of the NMLA has caused widespread alarm.
+In related news, a recent election in the Hyades Sector RO-P b6-2 system saw voters remove the Marlinism Reformation Party from power, after it granted asylum to survivors from the Neo-Marlinist Order of Mudhrid.
+The system’s new leader, Minister Octavia Volkov of the Exiled Marlinist Assembly of Baltah'Sine, announced:
+“My party believes in following Marlin Duval’s example by building independent democracies, rather than reforming the Empire. However, three of our colony systems have already fallen under the control of foreign factions. We urgently need support to keep the dream of a Marlinist Republic alive.”</story>
   </article>
 </GalnetArchive>
