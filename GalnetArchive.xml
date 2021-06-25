@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <GalnetArchive>
-  <version>1.038</version>
+  <version>1.039</version>
   <article>
     <id>5ff5b9b37a37e</id>
     <link>
@@ -26852,5 +26852,72 @@ Sinclair Faraldo, marketing director for Sirius Corporation, provided details:
 “Following a feasibility study, we have determined that this module can be economically mass produced for general sale. Our fully engineered detailed surface scanner has twice probe coverage, allowing planets and moons to be mapped more efficiently.”
 “In order to begin production, we require large quantities of CMM composites, muon imagers and synthetic reagents. We will generously reward pilots who can deliver these to Ashby City in the Luyten’s Star system.”
 The Engineered Detailed Surface Scanner V1 will be available for purchase at all human technology brokers, assuming that sufficient quantities of commodities can be obtained. </story>
+  </article>
+  <article>
+    <id>9f3d2ad2-543f-4d17-b1d9-315fad9f0ac6</id>
+    <link>/galnet/uid/60cc9d2606236c5ec30eb969</link>
+    <title> Guardian-Thargoid Battlefield Discovered</title>
+    <date>18 JUN 3307</date>
+    <story>*Pilots Federation ALERT*
+An Anaconda from the Hesperus megaship has been found at a historical battlefield on the moon Trapezium Sector YU-X c1-2 1a.
+The discovery was made by pilots who tracked down a series of signal beacons, following instructions provided by the anonymous ‘Salvation’. The beacons were deployed by the Hesperus during its voyage nearly 200 years ago.
+The Anaconda, named Proteus, was one of the megaship’s secondary vessels and had been outfitted for long-range exploration. It was used by an Azimuth Biochemicals science team to flee the Hesperus after the megaship was overtaken by saboteurs from rival company Pharmasapien.
+Upon landing, the Proteus was converted into a research facility to study the ancient structures and wreckage on the moon. The proximity of both Guardian and Thargoid technology suggests this was the site of a battle fought by the two civilisations over a million years ago, although in 3113 neither species had yet been identified.
+Professor Alba Tesreau of Aegis Research gave this statement:
+“This is a significant xenoarchaeological find – physical evidence of the war between the Guardians and the Thargoids. Our advance teams are conducting preliminary surveys, and a megaship is being prepared. Following the Alexandria’s tragic disappearance, we hope this may serve as a fresh source of Guardian artefacts for our anti-xeno research programme.”</story>
+  </article>
+  <article>
+    <id>9ff526f6-4fd5-44ca-b848-64645ea70e58</id>
+    <link>/galnet/uid/60d09b4546004047d64e9692</link>
+    <title> Corporatists Stalled by Jupiter Division’s Defeat</title>
+    <date>21 JUN 3307</date>
+    <story>The fall of Jupiter Division has undermined the popular movement calling for the Federation to be governed by corporations.
+Conrad Sterling, political journalist for Vox Galactica, reported on developments:
+“Core Dynamics’s recent victory in the Ts’ao Tach system dealt a severe blow to the corporatists. Many companies withdrew their support even before the last shot was fired, and plans for Jupiter Division to become the movement’s central organisation have been abandoned.”
+“Sighs of relief were undoubtedly breathed through the corridors of power on Mars when this threat to the Federation’s democratic principles was defeated. And yet, despite Congress downplaying it and many Federal newsfeeds neglecting to cover the story, calls for a corporatocracy have not been completely silenced.”
+“Citizens who seek an alternative to voting for either Hudson or Winters are still attracted to the idea. Would corporate rule be more honest? Opinions vary, but many supporters claim ‘big business’ already possesses true power behind closed doors.”
+“It now seems that history will record this as a path not taken. With Jupiter Rochester imprisoned and Jupiter Division dissolved, replacement figureheads for the corporatist movement are unlikely to arise in time to preserve it.”</story>
+  </article>
+  <article>
+    <id>dd88a003-e152-456d-91d7-bfc62a0b4e50</id>
+    <link>/galnet/uid/60d2138f3c0f0e223a516e65</link>
+    <title> NMLA Makes Political Overtures</title>
+    <date>22 JUN 3307</date>
+    <story>The Marlinism Reformation Party, which now represents the Neo-Marlinist fringe, has suggested a peace deal between the NMLA and the Empire.
+Minister Aaron Whyte explained the proposal during a session of the Marlinist Parliament:
+“Via anonymous intermediaries, we have received assurances that the Neo-Marlinist Liberation Army is keen to take advantage of our representation. I see this as a hugely positive step that will prevent further conflict.”
+“In essence, the NMLA is offering reparations for the unfortunate casualties of its anti-authority activities within the Empire. In return, it requests a permanent presence in the Imperial Senate as a means of continuing political dialogue.”
+Many other parliamentarians considered the proposal to be highly controversial. Minister Octavia Volkov declared:
+“Providing the NMLA with a political wing, pretending they are reasonable people, suggesting they could pay off the families of everyone they’ve murdered… Whyte, you are an insult not just to Marlinism but to all humanity!”
+First Minister Jenna Fairfax called for unity, insisting that the Marlinist Colonies must stand together to ensure their survival. However, she has officially requested that the Marlinism Reformation Party reverses its stance on negotiating with the NMLA.
+</story>
+  </article>
+  <article>
+    <id>305c1b2a-fdd2-4eb0-9ee3-0ffa814c9f4a</id>
+    <link>/galnet/uid/60d4870f632f7e24bd6feaf6</link>
+    <title> Detailed Surface Scanner Campaign Reaches Target </title>
+    <date>24 JUN 3307</date>
+    <story>*Pilots Federation ALERT*
+Pilots have delivered commodities to enable Sirius Corporation to mass produce a fully engineered detailed surface scanner.
+The enhanced ship module will shortly receive a commercial release, having previously only been available during a terraforming initiative by Sirius Atmospherics in late 3306.
+The Engineered Detailed Surface Scanner V1 increases probe coverage to twice the normally achievable range, offering a more efficient mapping of planetary surfaces.
+The project’s success was declared by Sinclair Faraldo, marketing director for Sirius Corporation:
+“We are most grateful to all pilots who brought us shipments of CMM composites, muon imagers and synthetic reagents as requested. Mass production of the enhanced detailed surface scanner has already begun, and it will be available for purchase from human technology brokers very soon.”
+All pilots who took part in this campaign can now collect payment from Sirius Corporation at Ashby City in the Luyten’s Star system.</story>
+  </article>
+  <article>
+    <id>8df2c7c3-ad6f-440d-b87d-5842922193d8</id>
+    <link>/galnet/uid/60d487e32dbeb747e3341783</link>
+    <title> Aegis and ‘Salvation’ Compete for Guardian Artefacts</title>
+    <date>24 JUN 3307</date>
+    <story>*Pilots Federation ALERT*
+Aegis Research and Taurus Mining Ventures have requested deliveries of Guardian artefacts to the PMD2009 48 system.
+Their rival campaigns follow the discovery of an ancient battleground between the Guardians and the Thargoids on Trapezium Sector YU-X c1-2 1a.
+Patience Middleton, representing Taurus Mining Ventures, broadcast this statement:
+“‘Salvation’ has claimed the exclusive rights to exploit the Proteus site, which was only discovered because of his specialist knowledge. He has contracted us to pay for Guardian caskets, orbs, relics, tablets, totems and urns brought to the Glorious Prospect megaship.”
+Aegis Research has also positioned a megaship, the Archimedes, in the PMD2009 48 system. Professor Alba Tesreau announced:
+“It is vital that Aegis replaces the Guardian artefacts that were lost aboard the Alexandria. Without sufficient materials, our anti-xeno research programme will be severely hampered.”
+“We recognise the risk that collecting Guardian technology on a megaship may attract the Thargoids, as happened in the Delphi system. However, this system is much farther from any known areas of Thargoid activity, so we hope to avoid drawing their attention.”
+The Alliance, Empire and Federation consider depriving Aegis of resources to be a criminal act. As a result, pilots are warned that any ship modules received from Taurus Mining Ventures will be marked as ‘hot’, thereby incurring extra costs to be cleaned prior to installation.</story>
   </article>
 </GalnetArchive>
