@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <GalnetArchive>
-  <version>1.040</version>
+  <version>1.041</version>
   <article>
     <id>5ff5b9b37a37e</id>
     <link>
@@ -26932,5 +26932,61 @@ However, Councillor Nakato Kaine triggered heated debate in the Alliance Assembl
 “My investigation turned up irregularities in the tritium mining campaign, suggesting that it only received enough deliveries to allow one starport to be built. Furthermore, docking records seem to indicate that Sirius Corporation made up the shortfall with a number of unregistered donations.”
 “Sirius Corporation now has a presence in the Sharru Sector FW-W c1-19 system. This suggests disturbing parallels with the company’s recent dealings to help build Archon Delaine’s new starports. The question is – what did Mahon promise in return?”
 A statement from the Office of the Prime Minister clarified that Sirius Corporation was one of many companies currently partnered with the Alliance to support its expansion programme. It did not address the discrepancy in tritium deliveries or refer to any contributions from the megacorp.</story>
+  </article>
+  <article>
+    <id>6308104b-a0f3-4c3c-b585-c2c887bbf41d</id>
+    <link>/galnet/uid/60d9d6e59dc3b21ecd5577f5</link>
+    <title> Imperial Senate Considers Marlinist Diplomacy</title>
+    <date>28 JUN 3307</date>
+    <story>A proposal for the Empire to formally open diplomatic relations with the Marlinist Colonies has been made by Senator Lorcan Scordato.
+The eight systems are populated by ex-Imperial citizens who fled to avoid persecution for their beliefs in Marlinism, which advocates democratic representation.
+Returning from a fact-finding mission to the colonies, Senator Scordato told the Senate:
+“The Marlinist community is primarily focused on peaceful co-existence alongside the Empire, rather than trying to reform the Republic of Achenar. And now that Minister Aaron Whyte speaks for the Neo-Marlinists, we have an opportunity to prevent further extremist actions via diplomacy.”
+Although some senators agreed, others such as Denton Patreus stressed that “As a matter of honour and principle, the Empire does not negotiate with terrorists.”
+Several newsfeeds observed that both the Alliance and the Federation are looking into opening formal diplomatic channels with the Marlinist Colonies. Similar debates have occurred in the Assembly and Congress regarding the acceptance of an NMLA political wing.
+First Minister Jenna Fairfax has repeated calls for the Marlinism Reformation Party to cease representing the Neo-Marlinist fringe. However, she also announced plans for a Marlinist equivalent to the Imperial Diplomatic Corps that would undertake ambassadorial duties.</story>
+  </article>
+  <article>
+    <id>852ad936-78d1-44c5-8946-f8103df34af3</id>
+    <link>/galnet/uid/60db0b9122e29a28d731c813</link>
+    <title> Four Federal Systems Declare Independence</title>
+    <date>29 JUN 3307</date>
+    <story>The Azaladshu Free faction, which controls four systems, has seceded from the Federation in protest against civilian surveillance.
+The unexpected declaration followed the election of new leadership for Azaladshu Free, which currently controls the Azaladshu, LFT 824, LHS 277 and LTT 3919 systems. 
+Mayor Constanza Noguera announced:
+“The Federation has become corrupt, authoritarian and untrustworthy. In particular, the public surveillance laws to spy on innocent people cannot be tolerated. From now on, we will govern our systems as independent sovereign nations.”
+Political observers believe that several other Federal factions are also planning to declare independence. All are within Shadow President Felicia Winters’s sphere of influence, although she has publicly renounced any support of these actions.
+Congress has stated that secession is illegal under the Federal Accord, and ordered Azaladshu Free to revert to normal membership status. The Federal Navy and other military organisations have been placed on alert.
+President Hudson has reacted strongly, stating that “This degree of organised criminal behaviour only proves that the Proactive Detection Bureau is needed to maintain order.”
+Shadow President Winters countered by claiming “Removing our citizens’ right to privacy is the cause of this rebellion, not the solution.”</story>
+  </article>
+  <article>
+    <id>047b8b95-219a-43a7-bf53-87d19d86cc29</id>
+    <link>/galnet/uid/60ddcacff026382a6d0865e9</link>
+    <title> Federation Battles Independents in the Azaladshu System</title>
+    <date>01 JUL 3307</date>
+    <story>*Pilots Federation ALERT*
+Conflict has erupted between the Azaladshu Free and Neche Inc factions, as multiple Federal systems declare independence.
+This was sparked by Azaladshu Free withdrawing from the Federation, which transformed Azaladshu, LFT 824, LHS 277 and LTT 3919 into independent systems. The faction strenuously opposes government monitoring of Federal citizens’ private communications.
+Three other Federal factions are on the verge of declaring independence: Coalition of Uteran, Lp 726-6 Free and Gluscap Labour. All are closely monitoring the situation in Azaladshu and considering their next move.
+Mayor Constanza Noguera, leader of Azaladshu Free, made this statement:
+“We refuse to accept the Federation’s draconian surveillance laws. I call upon all supporters of independence to help us fight for our sovereignty!”
+The declaration brought a swift reaction from President Zachary Hudson:
+“As Azaladshu Free has violated the Federal Accord, I have no option but to order Neche Inc to engage with these criminals. Thanks to advance intelligence on the secession, we were able to establish the megaship Fortress Liberty in the system to help retake it for the Federation.”
+In Congress, Shadow President Felicia Winters faced criticism for allowing the secession to occur within her sphere of influence. She reiterated that she does not support rebellion, but does consider the Proactive Detection Bureau to be unconstitutional.
+</story>
+  </article>
+  <article>
+    <id>d40ceb42-426a-4c03-aaf9-d5453c557002</id>
+    <link>/galnet/uid/60ddc613ea42aa1eee2ae026</link>
+    <title> ‘Salvation’ Eclipses Aegis to Obtain Guardian Artefacts </title>
+    <date>01 JUL 3307</date>
+    <story>*Pilots Federation ALERT*
+Rival delivery campaigns by Aegis Research and Taurus Mining Ventures in the PMD2009 48 system have concluded.
+Guardian artefacts were delivered to the megaship Glorious Prospect, which was contracted on behalf of the anonymous ‘Salvation’, in greater quantities than to the Aegis megaship Archimedes.
+Patience Middleton congratulated those who supported Taurus Mining Ventures:
+“This is a clear show of faith in the noble goals of ‘Salvation’. As a further sign of our commitment to those goals, we are pleased to provide the top 75% of contributors a specially engineered Class 2 Fixed Guardian Shard Cannon.”
+The Pilots Federation has issued a caution that any ship modules offered by Taurus Mining Ventures will be automatically marked as ‘‘hot’, requiring extra costs to be cleaned prior to installation.
+</story>
   </article>
 </GalnetArchive>
