@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <GalnetArchive>
-  <version>1.042</version>
+  <version>1.043</version>
   <article>
     <id>5ff5b9b37a37e</id>
     <link>
@@ -27003,5 +27003,48 @@ Francesca Wolfe of the Wallglass Investigations Agency published her observation
 “The clan occupies more than one dredger, but these have never entered an inhabited system before now. There has been no conflict with local factions or system security. However, unmarked personnel shuttles have been witnessed travelling to and from the dredger.”
 “Are we looking at a piratical alliance between the Blue Viper Club and the Kumo Crew? Is Archon Delaine expanding his reach to the Dredger Clans? Or have they brought him something of value that they discovered in deep space?”
 </story>
+  </article>
+  <article>
+    <id>18f8ff15-fe64-494c-9d44-bdeb0460bf99</id>
+    <link>/galnet/uid/60e3065cc02120579b553cc3</link>
+    <title> NMLA Political Wing Causes Controversy</title>
+    <date>05 JUL 3307</date>
+    <story>The NMLA paramilitary group has confirmed that the Marlinism Reformation Party faction now acts as its political representative.
+An anonymous statement was broadcast via the NMLA’s propaganda channels:
+“We support Minister Whyte in representing the Neo-Marlinist cause and speaking on our behalf. Our objectives remain unchanged – the removal of the Duval family and democratic elections within the Empire.”
+Reactions were covered by several newsfeeds:
+The Imperial Herald: “Senator Scordato’s proposal to open diplomatic relations with the Marlinist Colonies is already contentious. But could the Emperor ever accept dialogue with the extremists who tried to murder the Imperial Family?”
+The Federal Times: “The idea of negotiating with terrorists is as abhorrent to the Empire as to the Federation. And yet, the opportunity to prevent another ‘Nine Martyrs’ cannot be ignored.”
+The Alliance Tribune: “In the absence of any breakthroughs from ACT, perhaps peaceful discussion is how we defuse the terrorist threat... even if that was the NMLA’s endgame all along.”
+The Marlin Standard: “Many of our people welcome closer ties with the Empire, especially if it involves contacting friends and families left behind. But the NMLA using our parliament as its platform has caused widespread unrest. With Aaron Whyte being openly challenged by other ministers, a Marlinist civil war no longer seems unthinkable.”</story>
+  </article>
+  <article>
+    <id>35e6f842-b20b-46a4-8bb3-4e6380476af3</id>
+    <link>/galnet/uid/60e70619ca08e10ba8548dab</link>
+    <title> Kumo Crew Initiative to Produce New Commodity</title>
+    <date>08 JUL 3307</date>
+    <story>*Pilots Federation ALERT*
+The Kumo Crew syndicate is requesting deliveries to mass-produce a recreational drug named ‘helix’.
+The drug is believed to originate with the Blue Viper Club, a nomadic clan travelling aboard an ancient dredger that recently appeared near Kumo City station.
+Arch-Corsair Kay Volantyne, representing the Kumo Council, provided details to local newsfeed The Pegasi Sentinel:
+“Helix will change lives across the galaxy! Derived from high-quality organic crops, and with many medicinal and psychological benefits, it is guaranteed to bring contentment.”
+“All we need to kick-start manufacture are deliveries of agronomic treatment, liquid oxygen and performance enhancers to Kumo City in the Pegasi Sector PN-T C3-14 system. The Kumo Council also offers generous bounties on all wanted ships to protect traders carrying these commodities.”
+Many authorities have registered concern that this will exacerbate drug addiction and misuse, which are common social problems. However, some markets have shown interest in the potential new product.
+Vox Galactica has reported rumours that helix may be a previously unknown strain of onionhead, a highly popular psychedelic. It remains unknown whether the Blue Viper Club cultivated helix aboard their dredger or acquired it from another source.</story>
+  </article>
+  <article>
+    <id>77240066-4639-448f-a622-4ffd4a1fe31c</id>
+    <link>/galnet/uid/60e6e7816d8ad419973f01df</link>
+    <title> Independence Spreads from Azaladshu System </title>
+    <date>08 JUL 3307</date>
+    <story>*Pilots Federation ALERT*
+The Azaladshu Free faction has defeated the forces of Neche Inc and retained independence from the Federation.
+As a result, the Azaladshu, LFT 824, LHS 277 and LTT 3919 systems have confirmed their independent status. The victory also inspired the Coalition of Uteran, Lp 726-6 Free and Gluscap Labour factions to secede from the Federation, affecting all systems under their control.
+Mayor Constanza Noguera, leader of Azaladshu Free, declared:
+“A Federation that abuses the rights of its people has no authority. With the help of our loyal supporters, we’ve made a stand for dignity and civil rights.”
+The situation has caused turmoil in Congress, with President Zachary Hudson being criticised for his inability to contain this rebellion. 
+Shadow President Felicia Winters responded to accusations that she orchestrated the seceding factions:
+“I support their rejection of our harsh surveillance laws, but not their methods of protest. I have no wish to see the Federation lose member systems for any reason.”
+Pilots who supported the Azaladshu Free faction can collect their rewards at Eratosthenes Ring station.</story>
   </article>
 </GalnetArchive>
