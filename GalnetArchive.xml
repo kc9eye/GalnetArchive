@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <GalnetArchive>
-  <version>1.045</version>
+  <version>1.046</version>
   <article>
     <id>5ff5b9b37a37e</id>
     <link>
@@ -27074,5 +27074,49 @@ Dr Himari Grey, an independent healthcare analyst, published this review on Vox 
 “This didn’t stop it being banned in the Federation in 3300 by former President Jasmina Halsey, who was concerned about its popularity among youth culture. Political fireworks followed when Fleet Admiral Vincent bombed onionhead crops against her orders, which five years later led to the Scythe of Panem terrorists seeking revenge.”
 “Production soon shifted to the Tanmark system, where the Lucan onionhead strain boosted its popularity. Two further variants have appeared since, a result of enterprising genetic engineers modifying the seeds to flourish in different ecospheres.”
 “Could helix be another strain? The Interstellar Health Organisation (IHO) is currently acquiring samples for analysis, so we’ll soon know if this marks a new chapter in onionhead’s notorious story.”</story>
+  </article>
+  <article>
+    <id>f5b104ff-3322-4ab9-8e36-155d628f505d</id>
+    <link>/galnet/uid/60ed9d529a256230297051ea</link>
+    <title> Marlinist Colonies Face Political Division</title>
+    <date>13 JUL 3307</date>
+    <story>The Marlinist Consulate, established to represent Marlinists across the galaxy, has triggered political instability among the colonies.
+Local newsfeed The Marlin Standard detailed the situation:
+“The formation of the Marlinist Consulate will shortly conclude with the public election of its leader. The prime consul will serve as the official Marlinist representative to the superpowers, establish foreign embassies and make wide-reaching diplomatic decisions.”
+“One of the two leading candidates is Verity Dexter from the Marlinism Reformation Party, who promises to speak for the Neo-Marlinist fringe. The Free Marlinist Movement’s candidate, Kayode Tau, directly opposes that position.”
+“Senator Lorcan Scordato has championed Dexter’s bid, proposing that she be recognised as an Imperial patron to represent pro-Marlinist citizens of the Empire. Despite many protests, Chancellor Blaine concurred that patronage is within the purview of individual senators.”
+“Some Marlinists see this as a chance to finally obtain influence in the Senate, after centuries of being marginalised. Others are enraged at Neo-Marlinists gaining legitimacy and acting as the NMLA’s political wing.”
+“The rift has affected parliament, where First Minister Fairfax again urged Minister Aaron Whyte to cease representing the NMLA and hand over all information to ACT. Whyte retorted that his diplomatic breakthroughs would soon make the counter-terrorism unit redundant.”</story>
+  </article>
+  <article>
+    <id>de5a6a62-e92e-4949-b342-387dcb497a91</id>
+    <link>/galnet/uid/60f03eea1d5d674e8d355a6f</link>
+    <title> Data Required for Marlinist Election</title>
+    <date>15 JUL 3307</date>
+    <story>*Pilots Federation ALERT*
+Rival candidates have requested deliveries of data to help secure their bids to lead the Marlinist Consulate.
+The Marlinist Colonies are voting for who will be elected as their prime consul. This influential role will diplomatically represent all Marlinists and make broad decisions on their behalf.
+The first candidate is Verity Dexter from the Marlinism Reformation Party, which is acting as the NMLA political wing. She has the support of Senator Lorcan Scordato to be made an Imperial patron:
+“I am in a unique position to finally provide our people with a voice in the Imperial Senate, and to speak for Neo-Marlinists. As prime consul, I will negotiate a permanent peace with the NMLA.” 
+The second candidate, Kayode Tau of the Free Marlinist Movement, is focused on sustaining the Marlinist Colonies:
+“Neo-Marlinism and terrorism have no place within our republican ideals. I will strive to keep our systems independent, and to protect the rights of peaceful Marlinists everywhere.”
+In order to help secure their campaigns, both candidates have requested deliveries of anomalous bulk scan data and unusual encrypted files. Shipments for Verity Dexter should be delivered to Stillman Hub in the HIP 22550 system, while those for Kayode Tau are expected at Tilman Point in the Hyades Sector RO-P b6-2 system. 
+The Alliance, Empire and Federation have recognised the Marlinist Consulate as an ambassadorial body, and agreed that the election of its prime consul is a strictly internal matter.</story>
+  </article>
+  <article>
+    <id>94138aec-5850-4ecb-90fa-31824c514810</id>
+    <link>/galnet/uid/60f03db21eb30931262856da</link>
+    <title> Kumo Crew Campaign Starts Drug Production</title>
+    <date>15 JUL 3307</date>
+    <story>*Pilots Federation ALERT*
+The Kumo Crew syndicate has procured enough materials to introduce a new product to the market.
+The drug originated with the Blue Viper Club, a piratical travelling community whose dredger is currently in the vicinity of Kumo City station. 
+It was confirmed that enough shipments of agronomic treatment, liquid oxygen and performance enhancers were received to enable immediate mass production. Pilots also fought to protect haulage vessels from pirate ships, suspected to be Kumo Crew rivals.
+The Interstellar Health Organisation has obtained a product sample and confirmed that, despite the name ‘helix’, it is a new variant of the recreational drug onionhead. As such, the product will be legally classified as onionhead gamma strain when it appears on the market.
+Despite claims of medicinal and psychological benefits, it is likely to be illegal in most systems. President Zachary Hudson, Princess Aisling Duval and several other political heavyweights have expressed outrage at the open manner by which its ingredients were procured.
+Archon Delaine, warlord of the Kumo Crew, responded:
+“Every system government generates revenue from the pharmaceutical trade, so the holier-than-thou attitude from these hypocrites turns my stomach. Helix brings happiness, and provides income for my people. I make no apologies!”
+Rewards for pilots who contributed to this campaign are now available at Kumo City in the Pegasi Sector PN-T C3-14 system.
+</story>
   </article>
 </GalnetArchive>
