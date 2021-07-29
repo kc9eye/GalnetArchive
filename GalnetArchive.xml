@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <GalnetArchive>
-  <version>1.048</version>
+  <version>1.049</version>
   <article>
     <id>5ff5b9b37a37e</id>
     <link>
@@ -27195,5 +27195,56 @@ Adalyn Cross, a journalist for Vox Galactica, reported:
 “Onionhead gamma strain is being marketed to the public for medicinal use, but most customers are under no illusions regarding its real benefits. The Coalition for Legalisation claims that it is ‘no more harmful or addictive than alcohol or coffee, with potential psychological and palliative benefits’.”
 “This has not prevented many authorities, especially in the Federation, from demanding that it remain universally outlawed. It is currently illegal in all but anarchy jurisdictions. There are serious concerns that it may act as a gateway drug to more harmful substances. Security services are also unhappy about the extra revenue flowing into Archon Delaine’s coffers.”
 “Some logistics experts noted that onionhead gamma strain was distributed with surprising speed. It is already being reported as available from the following systems: Alici, Baraswar, Kishpakho, Nastrond and Nocori. It’s been suggested that Sirius Corporation is secretly ferrying shipments of the drug via its freight transportation network, and is part of the deal between the Kumo Crew and the Blue Viper Club. Sinclair Faraldo, VP of Corporate Marketing, rejected this claim as ‘absurd and libellous’.”</story>
+  </article>
+  <article>
+    <id>f14ec72c-9760-4b8d-9b92-7afea85252ab</id>
+    <link>/galnet/uid/60fec8ed69d9ea7a670e0c8f</link>
+    <title> Federal Surveillance Sabotages Independence</title>
+    <date>26 JUL 3307</date>
+    <story>Communications intercepted by the Proactive Detection Bureau are being used to prevent further factions from leaving the Federation.
+A report by the civil rights organisation Advocacy proves that the Federal Intelligence Agency is targeting pro-independence individuals via their private messages. In many cases, they are being arrested for planning to commit crimes against the constitution.
+Deputy Director Bethany Blake, who runs the PDB, gave a statement to the media:
+“I can confirm that gathering such intelligence is within our legal remit. Unilateral declarations of independence are criminal acts that violate the Federal Accord. Therefore we are identifying perpetrators before they cause harm, which is precisely what our surveillance network was established to do.”
+In Congress, Vice President Jerome Archer defended the PDB for boosting arrest rates and saving lives. However, Congressman Bai Zheng remarked that the PDB was “incapable of locating the NMLA, but fantastic at finding enemies among our own people that didn’t previously exist”.
+Both President Hudson and Shadow President Winters have personally contacted the leaders of many systems within their spheres of influence, aiming to address their concerns and convince them not to secede from the Federation.</story>
+  </article>
+  <article>
+    <id>adb85aaa-28ef-47d4-991c-478a6a20e302</id>
+    <link>/galnet/uid/61001290b7627a262920271c</link>
+    <title> Aegis Investigated After Megaship Loss</title>
+    <date>27 JUL 3307</date>
+    <story>The superpowers have partly suspended Aegis and authorised an inquiry into the Alexandria megaship, which disappeared in hyperspace.
+Freelance journalist Alexei Keel reported on this development for Vox Galactica:
+“Public opinion regarding Aegis has always been chequered, but its founding governments insisted that it played a vital defensive role against the Thargoids. The tragic loss of the Alexandria, carrying thousands of crewmembers and valuable Guardian artefacts, has now raised questions about the organisation’s competence.”
+“The Alliance, Empire and Federation have jointly ordered an independent inquiry to determine the facts about the Alexandria. Many Aegis operations were shut down, and detailed investigations have begun. Professor Alba Tesreau and other senior members have already been forced to resign.”
+“Part of the reason for such scrutiny is the emergence of the anonymous ‘Salvation’, who many view as running an alternative anti-xeno effort. Some security agencies suspect him to be the leader of an Aegis splinter group, composed of rogue agents and stolen resources.”</story>
+  </article>
+  <article>
+    <id>2d3381e0-1978-4ac7-9bd5-7316a9c76e5f</id>
+    <link>/galnet/uid/6102cade77cb9444d073d41e</link>
+    <title> NMLA Attacks Marlinist Starports </title>
+    <date>29 JUL 3307</date>
+    <story>*Pilots Federation ALERT*
+The NMLA has bombed two starports in the HIP 22550 and Hyades Sector RO-P b6-6 systems in the Marlinist Colonies.
+Explosive devices were detonated at both Stillman Hub and Tilman Point stations. As is characteristic of weapons used by the NMLA, caustic enzyme payloads caused widespread corrosive damage.
+The combined death toll is in the tens of thousands, with many more injured. There are unconfirmed reports that First Minister Jenna Fairfax is among the fatalities.
+The following message was broadcast via NMLA propaganda channels:
+“Why are they bombing their own homes? Why would Theta Seven kill his own people? Because they are not our homes! Not my people! They are prisons, not colonies, where traitors to the cause beg for scraps from those who exiled them. True Marlinists will never stop fighting until the Republic of Achenar is restored.”
+The attacks are believed to be in response to Verity Dexter failing to win a public vote to lead the Marlinist Consulate, where she would have represented the NMLA political wing. 
+Prime Consul Kayode Tau, the elected candidate, announced:
+“I call upon the galactic community to provide humanitarian aid to Stillman Hub in HIP 22550 and Tilman Point in Hyades Sector RO-P b6-6. We urgently require ships to evacuate the people trapped within these starports to safety.”</story>
+  </article>
+  <article>
+    <id>434098fc-fb42-4011-8446-c0166192cf42</id>
+    <link>/galnet/uid/61027dc2b3c5254ea8259812</link>
+    <title> Far God Megaship Initiative Concludes</title>
+    <date>29 JUL 3307</date>
+    <story>*Pilots Federation ALERT*
+Independent pilots have supported the Far God cult by delivering commodities to the Panjabell system.
+The Pleiades Concordat paid for shipments of auto fabricators, emergency power cells and insulating membrane transported to Moore Hub station. These will be used to outfit megaships that will be populated by the Thargoid-worshipping cultists.
+Local reporters spoke to one of the sect’s newest converts, Leonard Yates from Agassiz Settlement, now known as the Eighty-Ninth Adherent of the Sixtieth Chapter:
+“The beneficence of the galactic community is deeply appreciated. Our missionary megaship, the Testament, will help carry news of the oncoming apocalypse to every system.”
+“The other megaships – the Perdition and the Sacrosanct  – will soon embark on a holy pilgrimage. They will carry thousands of us faithful worshippers into the void to commune with the Far God and hasten Its arrival.”
+Pilots who contributed to the Pleiades Concordat’s initiative can now collect their rewards from Moore Hub in the Panjabell system.</story>
   </article>
 </GalnetArchive>
