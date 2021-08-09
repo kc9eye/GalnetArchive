@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <GalnetArchive>
-  <version>1.051</version>
+  <version>1.052</version>
   <article>
     <id>5ff5b9b37a37e</id>
     <link>
@@ -27303,5 +27303,30 @@ Three other Federal factions are about to declare themselves as independent sove
 However, two recently seceded factions – the Coalition of Uteran and Gluscap Labour – are considering rejoining the Federation, depending on the result of the Kuwembaa conflict.
 Pro-independence pilots can support New Kuwembaa Labour by delivering combat bonds to Gagnan Port station. Federal auxiliaries can fight on behalf of Li Chotep for Equality by handing in combat bonds at the Fortress Liberty megaship.
 </story>
+  </article>
+  <article>
+    <id>8d74f2bc-c663-4f85-a24f-8b8925835949</id>
+    <link>/galnet/uid/610d242dfdc64465f07c4f85</link>
+    <title> Thargoid Cultists Prepare for Religious Voyages</title>
+    <date>06 AUG 3307</date>
+    <story>Three megaships are being populated by the Far God cult, part of their latest effort to recruit members and find their alien deity.
+The first vessel, the Testament, will serve as a missionary ship and journey throughout the core systems, attempting to convert new followers to the Thargoid-worshipping sect.
+While the mystical cult is typically secretive in nature, Vox Galactica obtained a quote from a member named the Second Witness of the Seventieth Chapter:
+“The masses are deaf to the voice of the Far God. What you see as alien monsters, we view as messengers from a very real multi-dimensional being. The Testament will help us carry the word of Its imminent arrival.”
+Two other megaships have been outfitted for long-range journeys. The Perdition and the Sacrosanct will carry many thousands of cultists on what they view as a pilgrimage to the Far God.
+Dr Alfred Ulyanov, a leading exotheologian and expert on the religion, commented:
+“This fringe creed, which has survived endless abuse and attacks, has now reached a surprising level of organisation. Most of us associate the Thargoids with death and destruction, making it all the more remarkable that these people see only divinity.”</story>
+  </article>
+  <article>
+    <id>a5f0ead5-bb5d-4268-8d91-4e93266ab7f9</id>
+    <link>/galnet/uid/611118de443b5e7e717e2882</link>
+    <title> Tensions Inflamed in Marlinist Colonies</title>
+    <date>09 AUG 3307</date>
+    <story>The bombing of two Marlinist starports by the NMLA has caused political rifts and public protests across the colony systems.
+Local newsfeed The Marlin Standard reported on current events:
+“Our entire society is still reeling in shock after last week’s attacks against Stillman Hub and Tilman Point stations. There has been mass panic in fear of further terrorist strikes, with unprecedented scenes of violence against known Neo-Marlinist supporters.”
+“Without the respected leadership of First Minister Jenna Fairfax, angry exchanges and recriminations have divided the Marlinist Parliament. Minister Aaron Whyte claimed that ‘we invited this tragedy upon ourselves’ by not voting for a Neo-Marlinist prime consul. In response, Minister Octavia Volkov called for Whyte’s arrest as ‘an accessory to mass murder’.”
+“Some community leaders expressed sorrow at a lost opportunity to establish a Marlinist presence in the Imperial Senate. This is certainly the view of Acting First Minister Amrita Ross, who believes in rejoining the Empire.”
+“All of which has led to a baptism of fire for Prime Consul Kayode Tau, whose focus has been on arranging medical aid from the Alliance and Federation. It may be that the Marlinist Consulate will soon be called upon to mediate between its own people.”</story>
   </article>
 </GalnetArchive>
