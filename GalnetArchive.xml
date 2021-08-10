@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <GalnetArchive>
-  <version>1.052</version>
+  <version>1.053</version>
   <article>
     <id>5ff5b9b37a37e</id>
     <link>
@@ -27328,5 +27328,18 @@ Local newsfeed The Marlin Standard reported on current events:
 “Without the respected leadership of First Minister Jenna Fairfax, angry exchanges and recriminations have divided the Marlinist Parliament. Minister Aaron Whyte claimed that ‘we invited this tragedy upon ourselves’ by not voting for a Neo-Marlinist prime consul. In response, Minister Octavia Volkov called for Whyte’s arrest as ‘an accessory to mass murder’.”
 “Some community leaders expressed sorrow at a lost opportunity to establish a Marlinist presence in the Imperial Senate. This is certainly the view of Acting First Minister Amrita Ross, who believes in rejoining the Empire.”
 “All of which has led to a baptism of fire for Prime Consul Kayode Tau, whose focus has been on arranging medical aid from the Alliance and Federation. It may be that the Marlinist Consulate will soon be called upon to mediate between its own people.”</story>
+  </article>
+  <article>
+    <id>55a914f7-5364-4993-84b8-bf2c15a8686f</id>
+    <link>/galnet/uid/61126c08ce96504d5325e317</link>
+    <title> Zemina Torval Creates New Corporation</title>
+    <date>10 AUG 3307</date>
+    <story>A new independent branch of Mastopolos Mining has been established by its controlling shareholder, Senator Zemina Torval.
+The megacorp is owned by the powerful Mastopolos family, and operates throughout the Empire and beyond. However, Torval’s position as a majority shareholder has allowed her to exert a strong influence on its activities.
+Senator Torval confirmed her plans in a statement to The Imperial Herald:
+“Diversification is an effective strategy in the current business climate. Torval-Mastopolos Mining will have corporate autonomy, while offering the same mining and transportation services to an emergent client base.”
+Marlon Royce, business analyst for Vox Galactica, reported:
+“The persistent rumours of a rift between Zemina Torval and her cousin, CEO Gabriella Mastopolos, may now be validated. Insiders report that after decades of working behind the scenes, Torval wishes to provide a more tangible legacy for her own children. Already she has set her sights on a permit-controlled system as the headquarters for this new company.”
+As well as being renowned for her private wealth and corporate enterprises, Zemina Torval has been a prominent member of the Imperial Senate for decades. She has occasionally deputised as chancellor, and is known to be an outspoken champion of the Empire’s traditions.</story>
   </article>
 </GalnetArchive>
