@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <GalnetArchive>
-  <version>1.053</version>
+  <version>1.054</version>
   <article>
     <id>5ff5b9b37a37e</id>
     <link>
@@ -27341,5 +27341,18 @@ Senator Torval confirmed her plans in a statement to The Imperial Herald:
 Marlon Royce, business analyst for Vox Galactica, reported:
 “The persistent rumours of a rift between Zemina Torval and her cousin, CEO Gabriella Mastopolos, may now be validated. Insiders report that after decades of working behind the scenes, Torval wishes to provide a more tangible legacy for her own children. Already she has set her sights on a permit-controlled system as the headquarters for this new company.”
 As well as being renowned for her private wealth and corporate enterprises, Zemina Torval has been a prominent member of the Imperial Senate for decades. She has occasionally deputised as chancellor, and is known to be an outspoken champion of the Empire’s traditions.</story>
+  </article>
+  <article>
+    <id>b2aebf0d-3c92-4fdb-bf70-1f61c59dbed8</id>
+    <link>/galnet/uid/6113bc98317a0c774b712154</link>
+    <title> Aegis Probed by Board of Inquiry</title>
+    <date>11 AUG 3307</date>
+    <story>An investigation into the tri-superpower organisation Aegis is seeking to establish the reasons for its failures.
+Dr Paul Baumann, chair of the independent board of inquiry, outlined its scope:
+“The initial phase is to fully understand the work of Aegis, before examining strategic and operational decisions. Interviews with senior staff have been scheduled, with Admiral Aden Tanner providing details on military activity.”
+“One specific area of attention is the lost megaship Alexandria. We are performing a thorough analysis, including background checks on its crew. Hyperspace physicists are theorising probable causes for its failure to arrive at HIP 30944.”
+“We will be raising issues of culpability, specifically whether the concentration of Guardian artefacts aboard the Alexandria directly led to systems coming under Thargoid attack. Other incidents will be reviewed to identify possible grounds for negligence.”
+Many prominent figures within Aegis have resigned including Professor Alba Tesreau, Director Yazhu Xing and Dr Mia Valencourt. All active projects have been suspended, with routine activities continuing under independent observation.
+Some politicians in all three superpowers have protested against the inquiry, concerned about weakening defences against the Thargoids. Others believe Aegis is not fit for purpose, calling for a more localised approach to anti-xeno operations.</story>
   </article>
 </GalnetArchive>
