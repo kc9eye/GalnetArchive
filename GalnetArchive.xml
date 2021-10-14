@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <GalnetArchive>
-  <version>1.057</version>
+  <version>1.058</version>
   <article>
     <id>5ff5b9b37a37e</id>
     <link>
@@ -27925,5 +27925,44 @@ Business correspondent Anton Lagorio reported for The Imperial Herald:
 “Although Torval Mining Ltd is now an independent company, shares are legally transferable between it and Mastopolos Mining. This has allowed loyal supporters of both Zemina Torval and Gabriella Mastopolos to flock to each other’s banner. As a result, Torval Mining Ltd has acquired many ships, staff and resources from its former parent.”
 “There have been assurances that the split was amicable and in line with Imperial traditions of honourable conduct. Constantia Torval has promised customers that mining and transportation services would be maintained to the same high standard.”
 “Speculation continues over what caused this unexpected rift between the Torval and Mastopolos families. It seems that Zemina Torval is focusing on providing benefits for her own children and grandchildren, rather than her cousins on the Mastopolos side, but the reason for this change of heart remains unclear.”</story>
+  </article>
+  <article>
+    <id>5f9e8aab-3fe7-440a-a996-95c851f771d7</id>
+    <link>/galnet/uid/616579b5a299dc590f074002</link>
+    <title> Jokers’ Deck Hit by Art Thief</title>
+    <date>12 OCT 3307</date>
+    <story>The secretive gambling circle of the super-rich has been raided by the notorious criminal known only as the Winking Cat.
+The information was revealed by Francesca Wolfe of the Wallglass Investigations Agency, who infiltrated the event. Her report, which was relayed from an unidentified location, has been published by her fellow detective Erik Gunnarson.
+“I’m not sure this will reach Gunnarson, but I must try. After the security alert the staff started getting their IDs checked, which might have revealed mine to be fake. I managed to slip out of the warehouse and into an abandoned industrial district. I still don’t know what planet I’m on, but I’ve found an old comms transmitter to send this message.”
+“Before I escaped, I learned what had caused the alert. There was a VIP ceremony involving the group’s most precious possession: an ancient Joker playing card. Apparently this has been passed between senior members of Jokers’ Deck for centuries, always held by the current host. But when Lexi October publicly unveiled the card, she found it had been replaced by one showing a different graphic – a winking cat.”
+“It’s two years since we’ve heard from the galaxy’s greatest larcenist, but there’s no doubt that only the Winking Cat’s legendary skills could have circumvented their security systems. I’m fascinated that a battered scrap of card has greater value than any of the billion-credit items being wagered here.”
+“Guards are searching for the thief now. I hope I can get off-world before they find me instead. They’re armed to the teeth and not in the mood to talk…”</story>
+  </article>
+  <article>
+    <id>18ce9069-ef19-4e8a-b415-3315bcffd242</id>
+    <link>/galnet/uid/6166caf44f1b9b3bc636964f</link>
+    <title> Federal Terrorist Network Exposed</title>
+    <date>13 OCT 3307</date>
+    <story>The Proactive Detection Bureau has been instrumental in identifying violent corporatist extremists within the Federation.
+Deputy Director Bethany Blake of the Federal Intelligence Agency gave a statement to the media:
+“In recent weeks, our surveillance algorithms flagged a series of coded communications for investigation. We found that a network of radicalised citizens were discussing plans to assassinate members of Congress and leading political figures.”
+“This movement, which calls itself Jupiter’s Wrath, is inspired by Jupiter Rochester’s failed attempt to enable corporations to directly rule the Federation. Their goal was to enact revenge on those who they consider to be the ‘enemies of Jupiter Division’.”
+“Using data intercepted by the Proactive Detection Bureau, FIA agents performed a series of coordinated strikes in several Federal systems. Over a thousand armed extremists were arrested before they could act. We are currently working to identify the remaining Jupiter’s Wrath members.”
+Vice President Jerome Archer claimed that this was further validation of the Domestic Counter-Terrorism Act, which permitted the PDB to be established. However, Shadow President Felicia Winters commented:
+“I commend the FIA for performing their duties. But I also question the timing of this operation, coming so soon after President Hudson’s appallingly reckless attempt to capture Yuri Grom. To me it seems calculated to show his administration in a positive light, while ignoring the violation of citizens’ privacy.”</story>
+  </article>
+  <article>
+    <id>a56a97ba-843c-4da0-8876-433848ff7d36</id>
+    <link>/galnet/uid/6166cbdf843b9f5e531b309a</link>
+    <title> Orion University Claims Ownership of Dredger</title>
+    <date>13 OCT 3307</date>
+    <story>The ancient spacefaring home of the Scriveners Clan is the legal property of Orion University, according to newfound historical records.
+The Scriveners Clan is a nomadic tribe travelling onboard a self-sufficient Dredger-class bulk cruiser. Their society is descended from an academic organisation that sent out a research fleet two centuries ago. Unlike some dredger clans, they refuse to have any contact with outsiders.
+Vice Chancellor Leland Pettigrew of Orion University made this statement:
+“In the year 3088, Dredger J-403 was commissioned for an exploration mission by an academic institute named Scrivener College. This was absorbed into our university in 3125. Documents detailing these facts were recently discovered in our archives and verified by the courts.”
+“Therefore the dredger, including all of its contents, is legally owned by Orion University. Naturally we bear no ill will toward its current populace, but the vessel they inhabit has always been our commercial property.”
+The Scriveners Clan dredger was last seen in the Perseus Dark Region KC-V c2-2 system, where it was salvaging the Hesperus megaship. On the 9th of July it made a hyperspace jump to an unknown destination within 500 light years.
+Orion University is the largest independent educational institution in the core systems, rivalled only by the Imperial Science Academy and Olympus Village University.
+</story>
   </article>
 </GalnetArchive>
