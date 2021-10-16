@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <GalnetArchive>
-  <version>1.058</version>
+  <version>1.059</version>
   <article>
     <id>5ff5b9b37a37e</id>
     <link>
@@ -27964,5 +27964,61 @@ Vice Chancellor Leland Pettigrew of Orion University made this statement:
 The Scriveners Clan dredger was last seen in the Perseus Dark Region KC-V c2-2 system, where it was salvaging the Hesperus megaship. On the 9th of July it made a hyperspace jump to an unknown destination within 500 light years.
 Orion University is the largest independent educational institution in the core systems, rivalled only by the Imperial Science Academy and Olympus Village University.
 </story>
+  </article>
+  <article>
+    <id>912f3700-a1b4-4e45-bebe-5ff99e5ca64d</id>
+    <link>/galnet/uid/61681c52c9c5cc09eb144690</link>
+    <title> Terrorist Attack at Hadrian Duval’s HQ </title>
+    <date>14 OCT 3307</date>
+    <story>*Pilots Federation ALERT*
+Explosions have struck Dyson City starport in the Paresa system, home of Hadrian Duval’s organisation Nova Imperium.
+The starport suffered severe structural damage plus the corrosive effects of caustic enzymes, characteristic of the customised weapons used by the NMLA. Initial reports state that over fifteen thousand people have been killed and a similar number injured.
+The following statement was issued by Praetor Leo Magnus, the former head of security for Nova Imperium who was seconded to ACT:
+“Shortly before this attack, my team intercepted a communication between suspected Neo-Marlinist supporters. This referred to an imminent attempt to kill Imperator Hadrian Duval, Lady Astrid Minerva-Duval and their unborn child.”
+“I immediately ordered the Praetorian Guard to move the Imperator’s family off-station, which was achieved minutes before the bombs detonated. I am pleased to report that they survived this brutal attack, but unfortunately the remaining population could not have been evacuated in time.”
+A state of emergency has been declared in the Paresa system, with an urgent request for independent pilots to assist with rescuing survivors from Dyson City starport.
+The Empire confirmed that as per the Treaty of Paresa, it will provide military and medical support to Nova Imperium. ACT is performing investigations to learn more about the attack.
+</story>
+  </article>
+  <article>
+    <id>928acf22-93ed-4ccb-bdfb-a2611cef5717</id>
+    <link>/galnet/uid/61680e9d3c768c0fb76eba37</link>
+    <title> Colonia Bridge Project Receives Deliveries</title>
+    <date>14 OCT 3307</date>
+    <story>*Pilots Federation ALERT*
+Twin initiatives in the Alcor and Colonia systems have procured materials to construct new dockable megaships.
+Brewer Corporation made an announcement regarding its Colonia Bridge project:
+“A positive response has led to generous shipments of ceramic composites, computer components and thermal cooling units being received. As a result, Brewer Corporation can now commence work on enhancing the transportation infrastructure between the core systems and the Colonia region.”
+“Thanks to the dedication of the galactic community, 30 dockable megaships will be placed along the Colonia Bridge route by the 28th of October. These will serve as stationary ports, providing vital facilities for travellers. Planning is already underway for the second phase of this project, placing further megaships every four to five hundred light years working out from the Alcor and Colonia systems.”
+“Payment for contributing pilots is now available at Macdonald Settlement in the Alcor system and Jaques Station in the Colonia system. Both starports also offer a temporary discount on purchasing and outfitting to owners of our Drake-class Carriers.”
+Brewer Corporation will soon be reaching out to the top ten pilots from both the Alcor and Colonia initiatives, to provide naming suggestions for the dockable megaships being placed on the route to Colonia. Submissions will be subject to review by the Brewer Corporation board of directors.
+</story>
+  </article>
+  <article>
+    <id>aef65e5b-07c1-4fab-8886-49807e9cde30</id>
+    <link>/galnet/uid/61680c24e9759322c46eb2c4</link>
+    <title> Orion University Searches for Dredger</title>
+    <date>14 OCT 3307</date>
+    <story>*Pilots Federation ALERT*
+Rewards are being offered by Orion University to locate the Scriveners Clan dredger, which it claims as its legal property.
+The self-sustaining Dredger-class bulk cruiser was launched two centuries ago by an academic institute that was later absorbed by the university. Since then the dredger has become the home for a nomadic tribe called the Scriveners Clan, which refuses contact with all outsiders.
+Vice Chancellor Leland Pettigrew told the media:
+“Orion University is willing to reward pilots who can pinpoint the dredger’s current location. We believe it is still within 500 light years of the Perseus Dark Region KC-V c2-2 system.”
+“Pilots who are interested in helping should first dock at Ring Mine station in the 2MASS J03291977+3124572 system, to automatically sign up to the search operation. Our associates at the starport, Deep Space Mining, will provide further information including details of the reward.”
+</story>
+  </article>
+  <article>
+    <id>57a1985e-65db-426c-87c8-207ca3723b8d</id>
+    <link>/galnet/uid/61696e97cd1bf67b0f682a8d</link>
+    <title> NMLA Aims to ‘Extinguish the Duval Line’</title>
+    <date>15 OCT 3307</date>
+    <story>The Neo-Marlinist Liberation Army has taken responsibility for the attack on Dyson City starport in the Paresa system.
+The primary targets were Imperator Hadrian Duval and his wife Lady Astrid Minerva-Duval, who is pregnant with his child. Although they survived, the bombing left many thousands dead and injured.
+The following message was sent across NMLA propaganda channels:
+“As long as a single Duval is left alive, the Republic of Achenar cannot be rebuilt. It is our duty to extinguish that entire line and free our people from Imperial oppression.”
+Praetor Leo Magnus gave a statement on behalf of ACT:
+“It is significant that this latest broadcast is not from Theta Seven, the NMLA’s mouthpiece and de facto leader. We believe that Theta Group – the team of weaponsmiths that built the caustic enzyme bombs – has split in two.”
+“According to the communications we intercepted, Theta Seven and half of his followers went into hiding after the attacks against the Marlinist Colonies in July. The others continued their terror campaign and were responsible for this latest atrocity. ACT is currently pursuing leads and hopes to learn more soon.”
+Nova Imperium has repeated a call for pilots to help rescue survivors from Dyson City in the Paresa system.</story>
   </article>
 </GalnetArchive>
