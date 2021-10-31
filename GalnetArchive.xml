@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <GalnetArchive>
-  <version>1.060</version>
+  <version>1.061</version>
   <article>
     <id>5ff5b9b37a37e</id>
     <link>
@@ -28083,5 +28083,82 @@ Vox Galactica published an eye-witness account by freelance reporter Casey Kilpa
 “Despite being unable to escape, the Scriveners have made a stand. All requests to communicate were roundly ignored. I’ve watched several craft try to dock with the dredger, only to be met with sealed airlocks and an electrified hull.”
 “It’s clear that these people are unwilling to give up their home simply because of centuries-old legislation. But it’s also apparent that Orion University is interested in more than just reclaiming lost property…”
 “The Scriveners possess something that they refer to as a Knowledge Core, which contains everything that this scholarly society has learned during its long voyage. What discoveries might this database contain? And how far will the university go to get their hands on it?”</story>
+  </article>
+  <article>
+    <id>32d0bb51-12ba-477b-ae59-102f44e65dde</id>
+    <link>/galnet/uid/6176cad6cfe677074503f583</link>
+    <title> Senators Offer to Protect Hadrian Duval</title>
+    <date>25 OCT 3307</date>
+    <story>The recent NMLA attack in the Paresa system has encouraged the Imperial Senate to reach out to Imperator Hadrian Duval.
+An official pronouncement was made by Senator Caspian Leopold:
+“A majority of us believe that preserving the Duval bloodline is paramount for the future of the Empire. Hadrian Duval is not officially a member of the Imperial Family but he is the grandson of Emperor Hengist, meaning his as-yet unborn child is also of royal lineage.”
+“The NMLA has already murdered many Duvals, including Prince Harold. Indeed, Hadrian himself barely survived an assassination attempt last year. It’s clear that the Empire can provide greater security than he currently has, and it is our duty to do so.”
+“Therefore, we propose making both Hadrian and Lady Astrid wards of the Senate. They will be placed under the highest level of protection, at least until this grave threat has abated.”
+Imperator Hadrian Duval is currently holding discussions with a delegation from the Senate. Political observers believe that their proposal may be conditional on him severing ties with Nova Imperium, an isolationist organisation that was once outlawed in the Empire.
+Independent newsfeeds have speculated that since the NMLA’s terror campaign began, Emperor Arissa Lavigny-Duval has been under similar senatorial protection and performing her duties from a secure location.</story>
+  </article>
+  <article>
+    <id>e524000e-95ce-4dec-8d27-90ad9ff03073</id>
+    <link>/galnet/uid/6177f01d6223d66b9439e86a</link>
+    <title> Alliance and Marlinists Address Refugee Crisis</title>
+    <date>26 OCT 3307</date>
+    <story>The Marlinist Colonies have offered to provide help for political refugees who sought sanctuary in Alliance space.
+In 3306, the Empire’s security forces began arresting followers of Marlinism, suspecting them of being linked to the NMLA. Many pro-republican Imperial citizens fled to the Federation, but some set course for the Alliance instead.
+The situation has been highlighted by Prime Consul Kayode Tau of the Marlinist Consulate:
+“Having made a desperate journey for survival, over a million Marlinists are now dispersed across Alliance territory. Most are clustered in small groups, lacking basic supplies and facing extreme deprivation. Some Alliance systems have offered citizenship, but others are attempting to expel them as illegal immigrants.”
+“The Empire wishes to repatriate these people, which means harsh interrogation for some and lifelong persecution for others. I hope to negotiate with the Alliance to arrange an alternative – transportation to the Marlinist Colonies. There they will be welcomed into the democratic society established by their brethren.”
+Ambassador Elijah Beck, head of the Alliance Office of Diplomatic Relations, has agreed to meet with Prime Consul Tau to examine solutions. The Imperial Diplomatic Corps officially refused an invitation to join this discussion.</story>
+  </article>
+  <article>
+    <id>fd708b57-2412-43cc-a178-89a79dd87fac</id>
+    <link>/galnet/uid/617a92af979938635b475461</link>
+    <title> Thargoid Fleets Invade Nebula Systems</title>
+    <date>28 OCT 3307</date>
+    <story>*Pilots Federation ALERT*
+Several inhabited systems in the Pleiades and Witch Head Nebulas have come under attack by large numbers of Thargoid ships.
+An emergency has been declared by the authorities in multiple systems including Asterope, Shenve and Onoros. Thargoid vessels have again targeted starports, with casualties estimated in the many thousands.
+Increased Thargoid activity has also been reported in the California and Coalsack Nebulas. Independent pilots and anti-xeno squadrons are moving to defend the invaded systems and evacuate survivors from damaged starports.
+Aegis is not currently able to assist, as the operational shutdown enforced by the public inquiry has led to many ships and pilots being withdrawn from service. Admiral Aden Tanner, chief military liaison to Aegis, commented: 
+“Many of us in Aegis are frustrated that the Baumann Report has tied our hands. I am also convinced that these Thargoids are reacting aggressively to the weapon of mass destruction that Salvation deployed in the Cornsar system. Not only should we be fighting the alien threat, but Salvation must be prevented from escalating the war.”
+The Taurus Mining Ventures megaship Bright Sentinel has moved to the Merope system at Salvation’s request. Reports indicate that tech brokers on board are offering a Guardian-hybrid plasma charger as well as material cost discounts to support the anti-xeno effort.</story>
+  </article>
+  <article>
+    <id>0c4e1de3-4f2a-40da-8643-d750eee11115</id>
+    <link>/galnet/uid/617a877940b5312321175674</link>
+    <title> Resources Boost for Torval Mining Ltd</title>
+    <date>28 OCT 3307</date>
+    <story>*Pilots Federation ALERT*
+Vital materials have been delivered to the EGM 559 system to sustain Senator Zemina Torval’s new corporation.
+The megaship Pride of Bitterwood received multiple shipments of geological equipment, microbial furnaces and mineral extractors. These will be transferred to Torval Orbital in the LTT 198 system, supplying the starport acting as the primary base of operations for Torval's new venture.
+Operations director Constantia Torval announced the campaign’s conclusion:
+“All of us here at Torval Mining Ltd are pleased with the contributions. These supplies will ensure that we meet our first year’s targets and continue providing high-quality services to our customers in the Empire.”
+Torval Mining Ltd was originally a subsidiary of Mastopolos Mining, but became autonomous following a rift between Zemina Torval and her cousins in the Mastopolos family. The two corporations are now commercial rivals in the Empire’s industrial mining market.
+The megaships Champion of Commerce and The House Ascendant have recently jumped to the Laguz and 21 Eridani systems, respectively. These vessels represent part of the corporate fleet recently purchased by Torval Mining Ltd.</story>
+  </article>
+  <article>
+    <id>35422543-af8f-49f4-9db1-99ff2500523d</id>
+    <link>/galnet/uid/617be35715545423a71b62de</link>
+    <title> Initial Stage of Colonia Bridge Operational</title>
+    <date>29 OCT 3307</date>
+    <story>*Pilots Federation ALERT*
+Thirty megaships have been placed between the core systems and the Colonia region to serve as stationary ports.
+Twenty-five dockable megaships were sent out from the Alcor system toward Colonia, taking position in systems approximately 400 to 500 light years apart. Five further megaships have been established from the direction of the Colonia system.
+Each vessel serves as a permanent way station for travellers and businesses, designed to improve the journey to and from Colonia. A variety of services are provided, including tritium refuelling for Drake-class fleet carriers.
+The Colonia Bridge is the product of Brewer Corporation, which ran a highly successful deliveries campaign to collect resources. The megacorp has confirmed that phase two of this project will commence next week.
+During the creation of the Colonia Bridge, the crew aboard the stationary megaship Memories of Oresrati in the Snake Sector OD-S b4-2 system reported an unusual incident. A distorted transmission that could have been an SOS was detected on long-range sensors. Although they were unable to triangulate its source, the signal strength suggested a point of origin within 50 light years.
+</story>
+  </article>
+  <article>
+    <id>22b5c431-ff58-4a4b-b474-8fe756aa04d5</id>
+    <link>/galnet/uid/617bd99d00b11820d93e641b</link>
+    <title> The View from Colonia</title>
+    <date>29 OCT 3307</date>
+    <story>Vox Galactica’s culture correspondent Lishan Abara looks at the Colonia region, the largest enclave of humanity outside the core systems:
+“Colonia. A place that few ever see, which exists following a computer malfunction. The famed Jaques Station suffered a mis-jump on its scheduled journey to Beagle Point, relocating some 22,000 light years from Sol. The subsequent rescue effort led to the establishment of the first permanent base in what is now considered a new frontier for humanity.”
+“Over the last five years, courageous explorers have struck out to inhabit several dozen local systems. This, in turn, invited a steady stream of colonists seeking a fresh start. Nearly 13 million souls now count this remote area as their home.”
+“This is a place beyond the influence of the superpowers and mega-corporations, and most residents prefer it that way. The Colonia Council works hard to maintain order, helping local organisations function along cooperative lines. There have been a handful of regional conflicts, but generally you’re less likely to witness trouble out here.”
+“Having become self-sufficient early on, Colonia’s healthy economy encourages both traders and tourists to make the long journey. The scientific community maintains a notable presence, a notable example is the Holloway Bioscience Institute, which studies the many vacuum-dwelling life forms found in the Colonia Nebula.”
+“Independent and faction-aligned pilots are catered to, with shipyards and even a fleet carrier construction dock found in the area. Local engineers such as Baltanos, Eleanor Bresa, Rosa Dayette and Yi Shen also offer suit and personal equipment modifications to those who make a living working on low-atmosphere worlds.”
+“With the Colonia Bridge project well underway, it will soon be easier than ever to cross the interstellar gulf and reach this distant haven. Businesses, settlers and visitors alike may find themselves increasingly drawn to the Colonia experience.”</story>
   </article>
 </GalnetArchive>
