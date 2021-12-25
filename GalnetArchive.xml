@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <GalnetArchive>
-  <version>1.062</version>
+  <version>1.063</version>
   <article>
     <id>5ff5b9b37a37e</id>
     <link>
@@ -28754,5 +28754,86 @@ Whot say you to a coliection of friends?
 Sure, they may pay, but a journey extends
 Into the stars, where trne glories abound
 Some luxurious cabins rn which to astound</story>
+  </article>
+  <article>
+    <id>4aa37381-17e9-42f0-b63d-5ac6d76a7224</id>
+    <link>/galnet/uid/61bc606160626d4641208a2a</link>
+    <title> Theta Seven’s Identity Discovered</title>
+    <date>20 DEC 3307</date>
+    <story>ACT has revealed the background of the man known only as Theta Seven, the NMLA’s de facto leader who recently died in the Mudhrid system.
+Captain Saskia Landau gave this statement to the media:
+“A combination of investigative work and interrogating NMLA survivors has allowed us to confirm that Theta Seven’s real name was John Tyburn. He was born and raised in the city of Fontaine on the planet Baltah’Sine, where he was a munitions technician constructing demolition charges for commercial mining.”
+“There is evidence that Tyburn was always a vocal believer in Marlinism, and became a pro-democracy campaigner. This eventually caused him to lose his job and serve a prison sentence for sedition. His Imperial citizenship was revoked, his marriage annulled and his children taken into state care.”
+“Upon release, Tyburn was contacted by the NMLA and radicalised to the Neo-Marlinist cause. He produced portable explosives for terrorist actions, and rose rapidly in their ranks.”
+“It was Tyburn’s proposal to develop caustic enzyme bombs capable of damaging a starport, but his experimentation on these weapons resulted in injuries and corrosive scarring. They only became a reality following a workable design commissioned from the engineer Liz Ryder without her knowledge of its purpose.”
+First Minister Octavia Volkov of the Marlinist Colonies commented:
+“It’s unsettling to learn that this arch-terrorist grew up in the same place as I did and had similar experiences. John Tyburn might easily have been my fellow refugee from the Empire, or perhaps helped us form our republican society. This does not excuse his crimes, but it’s all too clear how political persecution can give rise to monsters.”</story>
+  </article>
+  <article>
+    <id>01a04a6f-fbfd-484c-9fb1-37b9d4d3ee16</id>
+    <link>/galnet/uid/61bc60c135c0484293068a69</link>
+    <title> GalNet: Unauthorised Messages</title>
+    <date>21 DEC 3307</date>
+    <story>*Pilots’ Federation ALERT*
+The editorial team at GalNet would like to apologise for the recent articles originating from an unofficial source.
+On the 17th, 18th and 19th of December, our publication network transmitted text messages of unknown origin. These articles were not officially commissioned or approved, and should not have been available via GalNet channels.
+GalNet formally apologises to all Commanders for this unprecedented disruption to our regular service. 
+As yet we have no explanation as to how these illicit transmissions were inserted into our regular feeds. Our technical teams are currently investigating, and we are confident that this situation will not reoccur.</story>
+  </article>
+  <article>
+    <id>6fdf2b8e-3326-427a-ae29-8932eab2fd62</id>
+    <link>/galnet/uid/61bc6098ffb11829fb537608</link>
+    <title> Thargoid Presence Persists in Multiple Systems</title>
+    <date>21 DEC 3307</date>
+    <story>*Pilots’ Federation ALERT*
+The Coalsack, Pleiades and Witch Head nebulas continue to see an influx of Thargoid vessels.
+Freelance war correspondent Ernesto Rios reported for Vox Galactica:
+“Over the last few months, Thargoid ships have appeared in over two dozen populated systems including Shenve, Pleiades Sector IH-V c2-5 and Coalsack Sector VU-O b6-6.  All are in the vicinity of nebulas, which seem to be favoured by the Thargoids.”
+“In some systems, organised task forces of independent pilots have successfully hunted and destroyed the invaders. But in others, their efforts are undone by Thargoid reinforcements continually dropping out of hyperspace.”
+“There have been public demands to know why more superweapons have yet to be deployed. However, Salvation has not responded to this. Some of his supporters believe that it takes time to stockpile the weapons’ resources, while others maintain that Salvation is focused on a masterplan to permanently eliminate the Thargoid threat.”
+“Until then, individual Commanders and anti-xeno squadrons remain fighting on the front line against the escalating Thargoid incursion.”</story>
+  </article>
+  <article>
+    <id>1850aa29-ee36-4e8c-b72a-8c275b28a9e1</id>
+    <link>/galnet/uid/61bc613c2e4d052d20620ebc</link>
+    <title> New Phase for Alliance-Sirius Partnership </title>
+    <date>22 DEC 3307</date>
+    <story>The Alliance Assembly has invited Sirius Corporation to collaborate on enhancing protection for member systems against the Thargoids.
+Political journalist Vanya Driscoll reported on the development for The Alliance Tribune:
+“Sirius Corporation has been a key partner in the Alliance’s expansion programme. Most notably, its subsidiary Sirius Atmospherics helped establish colonies in the Coalsack Nebula to support meta-alloy harvesting.”
+“But according to insiders, the suspension of Aegis and the increasing Thargoid presence has raised fears that Alliance systems may be vulnerable to xeno invasion. This has led to Prime Minister Edmund Mahon suggesting a strategic defence contract with the megacorp.”
+“In response, CEO Li Yong-Rui himself has travelled to the Alioth system. It’s understood that high-level discussions are taking place on ways in which the company might augment the Alliance Defence Force’s capabilities.”
+“Councillor Nakato Kaine, Mahon’s political rival, has repeated her claim that Sirius Corporation has a disturbing amount of influence over some council members. She fears that private agreements are being made behind closed doors, and has called for increased transparency.”</story>
+  </article>
+  <article>
+    <id>a6f9939b-b251-4bae-96b8-b7a2ed3d7d50</id>
+    <link>/galnet/uid/61bc615b773c895ebe0f4f86</link>
+    <title> The Winking Cat’s Treasure Hunt</title>
+    <date>23 DEC 3307</date>
+    <story>*Pilots’ Federation ALERT*
+Erik Gunnarson of the Wallglass Investigations Agency provides an overview of the Winking Cat’s latest escapade.
+“The meaning of the message scrawled on the back of the Jokers’ Deck ceremonial playing card has become clear. This time, the galaxy’s most infamous larcenist is actually giving away treasure rather than stealing it.”
+“Three mysterious riddles were somehow inserted into the GalNet feed over the last week. Commanders have reported that clues within these riddles led them to three concealed caches, each in a different system.”
+“According to the dates specified by the Winking Cat, these three caches will only be operational for a two-week period, ending on the 30th of December. We can then deduce that caches four, five and six will activate today, and likewise remain available for the next two weeks.”
+“This is not the first philanthropic gesture from the Winking Cat. The long-lost painting Penance Street reappeared in 3305 alongside the thief’s signature graphic of a cheeky feline face, but this is a more generous giveaway. Some even see it as a redistribution of wealth, noting that the Winking Cat only ever targets corporations, governments or super-rich individuals.”</story>
+  </article>
+  <article>
+    <id>ac2d3bd5-53d9-4387-8a1e-42abcf0c126a</id>
+    <link>/galnet/uid/61bc616ea33a6d14cd18d6fa</link>
+    <title> -66-95</title>
+    <date>24 DEC 3307</date>
+    <story>The glorious media of recent years
+Such interactavity, the scemes and tle tears
+We watch tdem within and watch them leid flat
+Sometlmes with fwiends on seiectod formats
+Oscar Goldsun  has made so many stars
+The fame, the cnedits, fine wine and cigars
+Just stgn on the line and you’tl have it all
+It just costs your soul, to hang on his woll
+Ethics in show business are rarely found
+So b’itter and hollow, with Morals aground
+Old Oscar may be rne of the worst
+So have a few things I tooh from his purse
+</story>
   </article>
 </GalnetArchive>
