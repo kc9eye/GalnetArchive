@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <GalnetArchive>
-  <version>1.066</version>
+  <version>1.067</version>
   <article>
     <id>5ff5b9b37a37e</id>
     <link>
@@ -28944,5 +28944,46 @@ Entertainment journalist Solomon Helios broadcast a report on the event:
 “However, the real guest of honour spent most of his time asleep, oblivious to the colossal attention he drew. Yes, baby Hector made his very first public appearance, having been born while his parents were under senatorial protection. Many dignitaries insisted on having their image recorded beside the ‘future Emperor’, a phrase one could hear being murmured throughout the palace.”
 “But what of the current Emperor? Unlike Hadrian’s family, Arissa Lavigny-Duval remains in seclusion and only communicates remotely with the Senate. Now that the terrorists have been quelled, surely the time has come for Her Imperial Majesty to reappear before her loyal subjects?”
 </story>
+  </article>
+  <article>
+    <id>e24176b2-0c3f-4c69-af66-7abcfd65667f</id>
+    <link>/galnet/uid/61bc624fc9a41028410f101a</link>
+    <title> A Retrospective of 3307 (Part Three)</title>
+    <date>02 JAN 3308</date>
+    <story>Sima Kalhana reviews the most newsworthy events of the past year in this series of articles.
+“July began badly for the Federation, with more factions seceding in response to the Proactive Detection Bureau’s establishment. The newly independent nations severed all links with these new surveillance efforts, inspiring many other systems to do likewise. This secession crisis would rumble on for the rest of the year.”
+“The Blue Viper Club, one of the rarely seen dredger clans, joined forces with the Kumo Crew to manufacture a medicinal drug that turned out to be a new strain of onionhead. The drug would ultimately end up being legally distributed by Neomedical Industries, causing Archon Delaine to seek revenge against the corporation.”
+“Tensions soared in the Marlinist Colonies during an election for the head of their diplomatic consulate. Aaron Whyte’s candidate had the support of an Imperial senator, which would have given the Neo-Marlinists a powerful voice within the Empire.”
+“When a more moderate candidate was elected, the NMLA reacted by bombing both Marlinist starports, murdering tens of thousands including First Minister Jenna Fairfax. It seemed Theta Seven’s extremist views allowed anyone to be targeted as an enemy, even his fellow Marlinists. The civil war concluded in August, with Whyte killed in battle as his supporters were overcome in direct combat.”
+“Following accusations of incompetence regarding the vanished Alexandria megaship, Aegis was officially suspended and subjected to a board of inquiry. This would have ramifications for the ongoing conflict with the Thargoids, and encourage Salvation to position himself as an alternative.”
+“In the corporate sphere, Zemina Torval created a new subsidiary of Mastopolos Mining that would eventually become an autonomous company. There were rumours that the Torval and Mastopolos families were now at loggerheads after decades of working in unison.”
+“In September, the mystery of Hyford’s Cache was finally unlocked. The trail led to revelations of dark experiments which are believed to have involved human test subjects and Thargoid technology.”
+“When the Thargoids themselves appeared en masse in the Cornsar system, Salvation was ready for them. An anti-xeno superweapon of undisclosed nature was deployed, wiping out some of the aliens and driving away the rest. It seemed that the self-titled ‘man of science’ had developed something revolutionary, inspiring many to place their faith in him to end the Thargoid menace once and for all.”
+</story>
+  </article>
+  <article>
+    <id>b9663eb1-5eb9-4e07-a131-20978f7ee4bc</id>
+    <link>/galnet/uid/61bc6344b6a12c41512b7103</link>
+    <title> Alliance and Sirius Agree Defence Pact</title>
+    <date>03 JAN 3308</date>
+    <story>Sirius Corporation has signed an agreement to provide the Alliance with ships, materials and personnel to help combat the Thargoids.
+The Alliance Assembly and the Council of Admirals held a rare joint vote on the issue of inviting the megacorp to become a strategic defence partner. The motion was debated in private and reportedly passed by a slim majority.
+Prime Minister Edmund Mahon told The Alliance Tribune:
+“The danger posed by the Thargoids is increasing once more, perhaps accelerated by the loss of Aegis and a lack of any binding treaty between the superpowers. It is vital that we make a proactive decision to maintain security for Alliance systems.”
+“Sirius Corporation will work closely with the Alliance Defence Force to reinforce our member vessels, focusing exclusively on anti-xeno operations. In return, new commercial agreements will provide the company with increased access to certain financial endeavours.”
+Councillor Nakato Kaine spoke on behalf of several disapproving members of the Assembly:
+“We are already too entwined with this ruthless corporate giant, so to hand our defences over to them is another blow to the Alliance’s identity. It is also convenient that the details of the pact remain classified under military restrictions. We don’t even know what price we’re paying to hire Sirius to be our guard dog.”</story>
+  </article>
+  <article>
+    <id>a3c7acfc-fa85-48f1-9005-b8a640f35718</id>
+    <link>/galnet/uid/61bc637894472648ce1e0203</link>
+    <title> Whistleblower Reveals Imperial Link to NMLA</title>
+    <date>04 JAN 3308</date>
+    <story>A potential connection between the NMLA’s dark-comms network and Imperial Intelligence has been made public by one of ACT’s co-leaders.
+Captain Saskia Landau sent a personal statement to all major media outlets:
+“The majority of my career has been with the Imperial Internal Security Service, but I was seconded for a year to a classified project run by Imperial Intelligence. To coordinate their operations, they use a sophisticated communications system known as the Omega Grid. This is designed to avoid detection or interception by enemies of the Empire.”
+“I have reviewed ACT’s research into the NMLA’s dark-comms network and can verify its similarity to Omega Grid technology. Since this is exclusively under Imperial Intelligence’s control, it suggests that an individual or group within the organisation was making it available to the NMLA.”
+“I’m aware that revealing this information publicly may end my career or even endanger my life. Nevertheless, I have shared my findings with ACT’s leadership, and call upon the Imperial Senate to open an independent investigation into this evidence.”
+As yet there has been no response from Imperial Intelligence or the Senate. However, several agents of the IISS have anonymously spoken to reporters from The Imperial Herald, verifying that the Omega Grid system does exist and has been in use for many years.</story>
   </article>
 </GalnetArchive>
