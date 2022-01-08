@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <GalnetArchive>
-  <version>1.067</version>
+  <version>1.068</version>
   <article>
     <id>5ff5b9b37a37e</id>
     <link>
@@ -28985,5 +28985,47 @@ Captain Saskia Landau sent a personal statement to all major media outlets:
 “I have reviewed ACT’s research into the NMLA’s dark-comms network and can verify its similarity to Omega Grid technology. Since this is exclusively under Imperial Intelligence’s control, it suggests that an individual or group within the organisation was making it available to the NMLA.”
 “I’m aware that revealing this information publicly may end my career or even endanger my life. Nevertheless, I have shared my findings with ACT’s leadership, and call upon the Imperial Senate to open an independent investigation into this evidence.”
 As yet there has been no response from Imperial Intelligence or the Senate. However, several agents of the IISS have anonymously spoken to reporters from The Imperial Herald, verifying that the Omega Grid system does exist and has been in use for many years.</story>
+  </article>
+  <article>
+    <id>ae074c15-151d-4801-a945-c21d40981ab3</id>
+    <link>/galnet/uid/61bc639f33cc6e11ad79652d</link>
+    <title> Ram Tah’s Revelations Halt Court Martial</title>
+    <date>05 JAN 3308</date>
+    <story>The military trial of Admiral Aden Tanner has been suspended following evidence provided by Ram Tah as a witness for the defence.
+The Federal Navy tribunal was called to consider multiple charges – including mutiny – held against Tanner, the chief military liaison to Aegis. While commanding the Musashi megaship, he attempted to gain access to Hind Mine station and locate evidence regarding Salvation’s anti-xeno superweapon.
+Admiral Tanner’s defence attorney opened a live link with Phoenix Base to allow Ram Tah to provide the following testimony:
+“We have analysed the classified experimental equipment that was recently delivered to enable Salvation’s superweapons. These components are near-identical to devices found at the Proteus research facility on Trapezium Sector YU-X c1-2. In 3113, an Azimuth Biochemicals science team conducted weapons testing using Guardian artefacts from this site, accidentally triggering a radiation surge which resulted in their deaths.”
+“My hypothesis is that Salvation has constructed large-scale versions of the Proteus design. These generate a powerful electromagnetic pulse at frequencies which disrupt the Thargoids’ bio-mechanical technology.”
+“It’s highly probable that this is based on an existing Guardian weapon discovered by the Proteus. This would explain why its presence within a system attracts Thargoid vessels.”
+The Federal Navy Criminal Court announced that Admiral Tanner’s court martial has been temporarily suspended while the new evidence is reviewed.</story>
+  </article>
+  <article>
+    <id>58afee1a-3409-4e78-96c3-6bdb722ff18b</id>
+    <link>/galnet/uid/61d6ea1800cc271e9f3c82d1</link>
+    <title> Colonia Bridge Project Launches Phase Three</title>
+    <date>06 JAN 3308</date>
+    <story>*Pilots’ Federation ALERT*
+Brewer Corporation intends to improve the travel corridor between the Alcor and Colonia systems by constructing several new starports.
+The previous two phases of the Colonia Bridge project established stationary megaships in 56 systems. These provide rest, refuel and repair facilities for vessels making the 22,000 light year journey to and from the Colonia region. The additional infrastructure has also increased the amount of tritium available at these markets, easing the journey for capital-size ships.
+A press release from Brewer Corporation outlined this latest initiative:
+“Phase three aims to enhance the Colonia Bridge by building permanent starports in key locations along the route. These will offer a wide range of services to travellers, and also serve as homes for the many new communities that we expect to spring up around them.”
+“Our plan is to construct one starport in the vicinity of Colonia, and up to five starports stretching out from Alcor. Station structures will be assembled by the 27th of January, with additional services scheduled for implementation at a later date.”
+“Pilots are asked to deliver ceramic composites, computer components and thermal cooling units to Jaques Station in the Colonia system and Macdonald Settlement in the Alcor system.”
+“Assuming deliveries reach the required level, engineered frame shift drives will once again be available as rewards.”
+“The highest contributor in Colonia, and up to the top five contributors in Alcor, will be invited to submit naming suggestions for the new starports. All name submissions will be subject to review by the Brewer Corporation board of directors.”</story>
+  </article>
+  <article>
+    <id>5e79a172-b923-4102-93d1-e24f5982946a</id>
+    <link>/galnet/uid/61d87063b2c1d9324e172402</link>
+    <title> Imperial Intelligence Denies NMLA Connection</title>
+    <date>07 JAN 3308</date>
+    <story>Senators have refuted ACT’s claim that the NMLA made use of official but highly secret Imperial communications devices.
+Captain Saskia Landau maintains that the terrorist group’s dark-comms network was very similar to the Omega Grid, an undetectable messaging system used exclusively by Imperial Intelligence.
+Senator Karl Nerva told the media:
+“In her desperation to seek out the NMLA, Captain Landau is chasing shadows. Imperial Intelligence must operate under total secrecy, but I assure you that this ‘Omega Grid’ is just as much of an invention to discredit the Empire as Serene Harbour was.”
+“Landau has overstepped her authority with these outlandish accusations. I once again propose that ACT be disbanded and its operatives returned to normal duties.”
+The Imperial Herald reported that other senators are calling for Emperor Arissa Lavigny-Duval to overrule those who are blocking ACT’s investigation. The newsfeed highlighted that she did not attend any functions in person during the past year, and has not broadcast any public messages.
+In response, Chancellor Anders Blaine gave this statement:
+“Her Majesty was placed under secure protection in early 3307 after several failed assassination attempts by the NMLA. She has been communicating remotely with the Senate on all official business, but does plan to return to Capitol very soon.”</story>
   </article>
 </GalnetArchive>
