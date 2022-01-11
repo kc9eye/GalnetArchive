@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <GalnetArchive>
-  <version>1.068</version>
+  <version>1.069</version>
   <article>
     <id>5ff5b9b37a37e</id>
     <link>
@@ -29027,5 +29027,30 @@ Senator Karl Nerva told the media:
 The Imperial Herald reported that other senators are calling for Emperor Arissa Lavigny-Duval to overrule those who are blocking ACT’s investigation. The newsfeed highlighted that she did not attend any functions in person during the past year, and has not broadcast any public messages.
 In response, Chancellor Anders Blaine gave this statement:
 “Her Majesty was placed under secure protection in early 3307 after several failed assassination attempts by the NMLA. She has been communicating remotely with the Senate on all official business, but does plan to return to Capitol very soon.”</story>
+  </article>
+  <article>
+    <id>c6766f3a-6ef7-4d90-a48f-47d138557a3c</id>
+    <link>/galnet/uid/61dbf8af8471456cbe5cbe02</link>
+    <title> Sirius Navy Unites with Alliance Defence Force</title>
+    <date>10 JAN 3308</date>
+    <story>A new member has been appointed to the Council of Admirals to represent Sirius Corporation as the Alliance’s strategic defence partner.
+Political correspondent Vanya Driscoll reported for The Alliance Tribune:
+“There are always six seats on the Council of Admirals, taken by senior military commanders from the largest regional fleets. Not only is this the first time that a seventh position has been created, it’s also the first to come from outside the Alliance.”
+“The new addition is Admiral Nikolas Glass, a highly decorated officer with the Sirius Navy. His new role is to coordinate the Alliance’s anti-Thargoid operations, which from now on will be directly supported by Sirius Corporation.”
+“Prime Minister Edmund Mahon and Fleet Admiral Hayley Sorokin both endorsed this development as a way of strengthening the Alliance Defence Force, which lacks the might of the Federal or Imperial Navy. Many member systems have demanded increased protection against the Thargoid threat, so this news is likely to be well received.”
+“As expected, Councillor Nakato Kaine opposed the defence pact, with Admiral George Varma also critical of ‘merging commercial interests with military matters’. Deputy Prime Minister Angela Corcoran also admitted that she abstained during the recent joint vote, but chose not to elaborate on her reasons. So it seems that the Assembly is not fully confident about this union with Sirius Corporation.”</story>
+  </article>
+  <article>
+    <id>87c2d686-c020-4fb5-aea3-4ab36c872ad5</id>
+    <link>/galnet/uid/61dd83ee42d17066573f9256</link>
+    <title> Torval Mining Challenges Caine-Massey</title>
+    <date>11 JAN 3308</date>
+    <story>The company owned by Senator Zemina Torval is attempting to acquire a mining contract previously awarded to the Caine-Massey corporation.
+The agreement affects multiple corporations on the fringes of Federal space around the Dulos system, who for the last decade have purchased mined ore and other raw materials directly from Caine-Massey. With the contract up for renewal, Torval Mining Ltd has made an official bid.
+An announcement was made by Constantia Torval, the company’s operations director and daughter of Zemina Torval:
+“We have enjoyed enormous success in a short space of time by providing services to the Empire. This is an opportunity to reach a broader customer base, and convince them that they too can benefit from Torval Mining’s expertise.”
+Johann Fleischer, the vice president of Caine-Massey, remarked:
+“Our corporation is proud of its origins within the Federation, and we have supplied these systems with resources for many years. This is a surreptitious attempt by an Imperial senator to boost her own standing by hijacking Federal business.”
+The Federal Commerce Authority has responded to Caine-Massey’s request for intervention. An initial review found that, while it recognises the aggression of the Torval Mining claims, there is no exclusivity clause in place that prevents the companies in question from holding talks with an Imperial supplier now Caine-Massey’s contract term is expiring.</story>
   </article>
 </GalnetArchive>
