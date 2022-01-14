@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <GalnetArchive>
-  <version>1.069</version>
+  <version>1.072</version>
   <article>
     <id>5ff5b9b37a37e</id>
     <link>
@@ -29052,5 +29052,56 @@ An announcement was made by Constantia Torval, the company’s operations direct
 Johann Fleischer, the vice president of Caine-Massey, remarked:
 “Our corporation is proud of its origins within the Federation, and we have supplied these systems with resources for many years. This is a surreptitious attempt by an Imperial senator to boost her own standing by hijacking Federal business.”
 The Federal Commerce Authority has responded to Caine-Massey’s request for intervention. An initial review found that, while it recognises the aggression of the Torval Mining claims, there is no exclusivity clause in place that prevents the companies in question from holding talks with an Imperial supplier now Caine-Massey’s contract term is expiring.</story>
+  </article>
+  <article>
+    <id>a799ea6b-cc54-4312-8372-dcf42181034c</id>
+    <link>/galnet/uid/61dbf911a71403670b054d12</link>
+    <title> Baumann Report: ‘Dismantle Aegis’</title>
+    <date>12 JAN 3308</date>
+    <story>The independent inquiry into Aegis has delivered its final conclusions and recommended that the organisation be closed down.
+Dr Paul Baumann, who chaired the board of inquiry, summarised the detailed report:
+“Aegis was established on solid foundations in 3303 with strong leadership. Over the years, poor mid-level management and general negligence reduced its effectiveness. A silo mentality developed, with each department focusing on itself rather than strategic goals.”
+“Reduced funding undoubtedly contributed to low morale among staff and a lack of any further breakthroughs in AX technology. But a reliance on independent pilots to combat the Thargoids became normalised, with some staff considering them ‘disposable mercenaries’.”
+“More specifically, the loss of the megaship Alexandria and the illegal attack against Hind Mine are both catastrophes that could have been anticipated and prevented. This board cannot in all conscience recommend any scenario that might enable further loss of life in Aegis’s name.”
+Observers have noted that the Baumann Report, as it is commonly referred to, does not discuss Salvation or suggest methods of replacing Aegis.
+In related news, the court martial of Admiral Aden Tanner has concluded with a verdict of guilty and a dishonourable discharge from the Federal Navy. However, his sentencing has been postponed by request from newly promoted Fleet Admiral Tayo Maikori, who has ordered a full review of evidence provided by Ram Tah.</story>
+  </article>
+  <article>
+    <id>3c4ca88c-4528-4954-b021-645f8e0b8244</id>
+    <link>/galnet/uid/61e036d3802f34015e69ec14</link>
+    <title> Corporations Compete for Mining Contract</title>
+    <date>13 JAN 3308</date>
+    <story>*Pilots’ Federation ALERT*
+Caine-Massey and Torval Mining Ltd are running rival campaigns to deliver mined commodities to the Dulos system.
+For the past decade, the megacorp Caine-Massey has supplied ore and other raw materials to several subsidiaries in the region. But with the contract up for renewal, Torval Mining Ltd is making a bid for the lucrative business.
+Constantia Torval, operations director for the Empire-based company, outlined the initiative:
+“We are calling upon pilots to provide the following mined materials: bromellite, samarium and gallite. These should be delivered to the Pride of Bitterwood in the Dulos system. Your assistance will directly support our proposal to win this contract and expand our entire enterprise.”
+Caine-Massey published a similar request from its vice president, Johann Fleischer:
+“The citizens within this region deserve a high standard of service, and we aim to continue meeting their needs. The Green Party of Dulos, acting on our behalf, shall offer generous rewards for shipments of mined bromellite, samarium and gallite delivered to Smith Port in the Dulos system.”
+The corporate distributors within the region have agreed that whichever candidate is able to provide the greatest amount of materials will be awarded the contract for the next decade.</story>
+  </article>
+  <article>
+    <id>1d2a43a4-8a5a-4dd8-beb2-32f1266f69b5</id>
+    <link>/galnet/uid/61e0240f13b6b5474b0e7917</link>
+    <title> Materials Delivered for Colonia Bridge Starports</title>
+    <date>13 JAN 3308</date>
+    <story>*Pilots’ Federation ALERT*
+The third phase of Brewer Corporation’s Colonia Bridge project has proven successful, according to a recent announcement.
+Shipments of ceramic composites, computer components and thermal cooling units were transported in large numbers to Jaques Station in the Colonia system and Macdonald Settlement in the Alcor system. As a result, several new starports will be constructed along the travel corridor to Colonia.
+Brewer Corporation released this statement regarding the initiative:
+“Once again, we owe a great deal to the pilots who brought us so many vital resources. We can now proceed with constructing one starport in the vicinity of Colonia and 5 starports in systems branching out from Alcor. These will increase the value of the Colonia Bridge for travellers, tourists and commercial interests alike.”
+“The starport infrastructures are scheduled to be built by the 27th of January. Initially they will provide rearm, refuel and repair services, but will lack markets and other facilities. The distances involved in ferrying equipment to these locations means that these starports will become fully operational in stages over a period of weeks.”
+“Contributors will be able to collect their rewards from Jaques Station and Macdonald Settlement from the 14th of January. The proposed engineered frame shift drives for those eligible will follow at a later date. The dedicated pilots who provided the most deliveries in Alcor and Colonia will receive invitations to submit suggestions to name the new starports, subject to review.”</story>
+  </article>
+  <article>
+    <id>db8bb1c1-49e2-4ca5-a31a-bb7cee5da45a</id>
+    <link>/galnet/uid/61e172a178eff449466b83a1</link>
+    <title> Sirius Gov Enters the Alioth System</title>
+    <date>14 JAN 3308</date>
+    <story>Prime Minister Edmund Mahon has invited Sirius Corporation to establish a permanent presence within the Alliance.
+The Alliance Tribune’s political correspondent Vanya Driscoll reported:
+“Sirius Corporation’s new role as a strategic defence partner has expanded swiftly, with a Sirius faction established in the Alioth system to represent the megacorp. In addition, several megaships have arrived in other Allied systems to provide support.” 
+“The Alliance Defence Force and some government departments now have official advisors from Sirius Corporation on their staff. Prime Minister Mahon announced that these developments will streamline joint operations with the Sirius Navy, and in turn provide effective countermeasures against Thargoid aggression.”
+“But Councillor Nakato Kaine claims that the presence of Sirius Gov is illegal as it was not ratified by the Assembly. She has pointed out that since the defence pact makes this a classified military matter, any civil action to reverse Mahon’s executive decision has been deliberately blocked.”</story>
   </article>
 </GalnetArchive>
