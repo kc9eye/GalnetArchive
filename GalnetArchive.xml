@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <GalnetArchive>
-  <version>1.072</version>
+  <version>1.083</version>
   <article>
     <id>5ff5b9b37a37e</id>
     <link>
@@ -29103,5 +29103,231 @@ The Alliance Tribune’s political correspondent Vanya Driscoll reported:
 “Sirius Corporation’s new role as a strategic defence partner has expanded swiftly, with a Sirius faction established in the Alioth system to represent the megacorp. In addition, several megaships have arrived in other Allied systems to provide support.” 
 “The Alliance Defence Force and some government departments now have official advisors from Sirius Corporation on their staff. Prime Minister Mahon announced that these developments will streamline joint operations with the Sirius Navy, and in turn provide effective countermeasures against Thargoid aggression.”
 “But Councillor Nakato Kaine claims that the presence of Sirius Gov is illegal as it was not ratified by the Assembly. She has pointed out that since the defence pact makes this a classified military matter, any civil action to reverse Mahon’s executive decision has been deliberately blocked.”</story>
+  </article>
+  <article>
+    <id>14705cf1-e071-49d2-89e4-b50220cc0286</id>
+    <link>/galnet/uid/61e5692c15fb8b7d00110b43</link>
+    <title> Senate Blocks ACT Investigation</title>
+    <date>17 JAN 3308</date>
+    <story>There are claims that the Imperial Senate is preventing efforts to examine a potential link between the Empire’s security services and the NMLA.
+Captain Saskia Landau has publicly stated that the terrorists’ dark-comms network is closely related to the Omega Grid system used exclusively by Imperial Intelligence. She expanded on her theory in a statement to Vox Galactica:
+“Based on evidence and interrogation transcripts obtained by ACT, I believe that rogue elements within Imperial Intelligence were training and providing equipment to the NMLA. This would help explain the level of sophistication they achieved in coordinating their starport attacks and communicating without detection.”
+“There is certainly enough circumstantial proof to warrant a dedicated investigation. But the Senate is refusing to authorise this, which makes me wonder what they are trying to hide.”
+Senator Karl Nerva reiterated: “It is time for ACT to devolve and return much-needed resources to the Empire where they belong.” 
+However, Senator Caspian Leopold responded: “To alleviate any lack of confidence in our security services, we should examine Captain Landau’s allegation rigorously. Our citizens must be reassured that Imperial Intelligence exists solely for their protection.”
+</story>
+  </article>
+  <article>
+    <id>cdcd1f4d-14cf-45ff-b7fa-055f719c09f0</id>
+    <link>/galnet/uid/61e6ba29f6b3cd47d1758763</link>
+    <title> Superpowers Plan to Replace Aegis</title>
+    <date>18 JAN 3308</date>
+    <story>The Alliance, Empire and Federation have accepted the Baumann Report’s recommendation to permanently shut down Aegis.
+The independent inquiry’s findings on the organisation’s failings will result in Aegis being immediately shut down. However, Chief Administrator Carter Armstrong has cautioned that “full demobilisation of staff, ships and resources might take several months”.
+Senator Denton Patreus has successfully obtained senatorial approval for an increased military budget, to allow the Imperial Navy to directly take on the role played by Aegis.
+Fleet Admiral Tayo Maikori likewise confirmed that the Federal Congress has ordered the creation of a new naval strike force. On his own authority he has also commissioned an investigation into Salvation, following Ram Tah’s testimony regarding the nature of the anti-xeno superweapon.
+Admiral Nikolas Glass, who was recently appointed to the Council of Admirals, stated that the Alliance Defence Force and Sirius Navy will work in conjunction to fulfil Aegis’s purpose.
+Xenological research laboratories set up by Professor Alba Tesreau will now transfer their work to specialist departments in the Holloway Bioscience Institute, Imperial Science Academy and Olympus Village University. In 3304 the Thargoids made targeted strikes against Aegis’s labs, but all three institutions have made assurances that the new locations will have the highest security.
+</story>
+  </article>
+  <article>
+    <id>51343565-4052-436a-b601-f6d228322324</id>
+    <link>/galnet/uid/61e990e8f149e92c535802d2</link>
+    <title> The Missing Emperor?</title>
+    <date>20 JAN 3308</date>
+    <story>Princess Aisling Duval has discussed growing concerns over Emperor Arissa Lavigny-Duval’s lack of public engagements in recent months.
+In an interview with The Imperial Herald, she said:
+“Chancellor Blaine assures us that the Emperor has been kept in seclusion for nearly a year to protect her from the NMLA. But why has this prevented the Empire’s ruler from engaging with her citizens? After all, Hadrian Duval and his family were placed under the same senatorial protection without disappearing altogether.”
+“We know that the Emperor has communicated with the Senate on various matters during this time. Government channels are generally trusted thanks to Imperial Intelligence’s verification protocols. But Captain Landau’s recent testimony, which links Imperial Intelligence to the NMLA, has me concerned. How can I be sure that a breach to our most secure networks wasn’t responsible for the location and murder of my father, Prince Harold?”
+“Until Arissa appears in person, it is irresponsible to assume her safety is guaranteed. I will be most relieved to have my fears proved wrong.”
+Chancellor Anders Blaine responded:
+“With the greatest respect to Princess Duval, I have never had cause to believe that Her Majesty the Emperor is in any danger from her own security agencies. Her imminent return to public life should alleviate such concerns.”</story>
+  </article>
+  <article>
+    <id>722565a5-350a-4edf-b9b6-90283dab96be</id>
+    <link>/galnet/uid/61e95e03eae3b426364c4064</link>
+    <title> Caine-Massey Wins Mining Contract</title>
+    <date>20 JAN 3308</date>
+    <story>*Pilots’ Federation ALERT*
+The Caine-Massey corporation has beaten Torval Mining Ltd to retain a mining contract in the Dulos system.
+Competing campaigns were waged by the two rivals for the rights to supply ore and mined materials to many local subsidiaries.
+Johann Fleischer, vice president of Caine-Massey, declared their victory:
+“We wish to thank the large number of pilots who delivered bromellite, samarium and gallite. Thanks to your hard work, our contract has been renewed for another decade. I like to think that we have also secured the honour of the Federation by stalling the Empire’s plans.”
+Rewards for contributors to Caine-Massey are now available for collection at Smith Port in the Dulos system.
+Torval Mining Ltd also received many deliveries of materials but in insufficient quantities to secure the contract. Constantia Torval has confirmed that the pilots who supported their initiative can collect payment at the Pride of Bitterwood megaship.</story>
+  </article>
+  <article>
+    <id>83673d66-5c80-4eab-b4f5-0285ca563afb</id>
+    <link>/galnet/uid/61eaae9fc1b79e7e5c5e7091</link>
+    <title> Federal Government Plans for the Future</title>
+    <date>21 JAN 3308</date>
+    <story>President Zachary Hudson has delivered a speech to Congress on maintaining security for the Federation in the coming years.
+Excerpts from his address include the following:
+“In the last year, we have excelled at protecting Federal citizens from harm. The Proactive Detection Bureau proved its worth in locating terrorists before they could strike, and our security services played an instrumental role in the NMLA’s defeat.”
+“3308 is already bringing many challenges. The war against the Thargoids could escalate at any time, and we face the challenge of replacing Aegis with our own anti-xeno taskforce. We are also deeply concerned about increased infighting within the Alliance and Empire, which could easily spill over into our territory.”
+“My administration is holding high-level discussions about how best to keep the Federation strong and secure. We will soon make some brave proposals to continue meeting our people’s constitutional right to safety.”
+Shadow President Felicia Winters delivered this rebuttal:
+“President Hudson fails to mention his disastrous attempt to capture Yuri Grom, his former fleet admiral’s criminal conviction for destroying Starship One, or that his surveillance laws forced several systems to declare independence. I would argue that under his leadership, the Federation has never been weaker or less secure.”</story>
+  </article>
+  <article>
+    <id>f4c73295-1cc4-464c-b7ed-19475a5591cc</id>
+    <link>/galnet/uid/61eaaf193da577017e06bf44</link>
+    <title> The Return of the Alexandria </title>
+    <date>22 JAN 3308</date>
+    <story>*Pilots’ Federation ALERT*
+The Aegis megaship Alexandria, which vanished in hyperspace seven months ago, has been found in the Wregoe TC-X B29-0 system.
+A select group of independent pilots located the Alexandria following a search instigated by Professor Alba Tesreau, former head of research at Aegis. She was forced to resign as a result of the Baumann Report, which was instigated by the controversial loss of this megaship.
+In June 3307, the Alexandria was pursued by Thargoid vessels due to a considerable number of Guardian artefacts held on board. It initiated a hyperspace jump to the HIP 30944 system to offload its cargo but never arrived. The megaship was assumed to have been hyperdicted by the Thargoids, resulting in the death of all four thousand crewmembers.
+According to on-site witnesses, the remains of the Alexandria are currently scattered across the planetary rings of Wregoe TC-X b29-0 AB 2 A. Ships are investigating the debris, but so far have not reported finding any survivors or Guardian relics.
+Chief Administrator Carter Armstrong made a public statement:
+“Losing the Alexandria was as tragic as it was mysterious, but we now have an opportunity to learn what happened. Aegis should remain operational until a full analysis has been completed and we can understand the cause of the megaship’s destruction.”</story>
+  </article>
+  <article>
+    <id>d571f043-9cdb-4163-884a-fd8ca45d8656</id>
+    <link>/galnet/uid/61eea3531472af34742c6e4d</link>
+    <title> Reorte Resists Sirius Corporation</title>
+    <date>24 JAN 3308</date>
+    <story>The presence of Sirius Corporation in the Reorte system at the Alliance’s invitation has been challenged by the controlling faction.
+In its new role as a strategic defence partner, Sirius Corporation recently established itself in several Alliance systems. But its megaship in Reorte, Chariot of Rhea, has found itself blockaded by system security and refused permission to offload cargo or personnel.
+A broadcast was made by Fergus Cassidy, CEO of the Reorte Mining Coalition:
+“Councillor Kaine is right to say that Sirius is acting illegally. The prime minister did not consult us or any other Allied faction on working with them, and there’s good reason to be sceptical of their motives. We regard the Chariot of Rhea as an intruder and insist that it leaves immediately.”
+Li Yong-Rui has assured Alliance leaders that Sirius Corporation will only be collaborating on anti-Thargoid defence projects. He stressed that there will be no disruption to any local civil or commercial activity.
+The Alliance Tribune commented on the situation:
+“Many Allied systems welcomed the news that our military is being bolstered by Sirius Corporation. But others expressed disapproval, particularly among the Old Worlds where the populations tend to be more sceptical of change. What happens in Reorte could determine whether or not the new defence pact becomes widely accepted.”</story>
+  </article>
+  <article>
+    <id>4a9e2733-6f1c-497a-a9c7-4752eade334f</id>
+    <link>/galnet/uid/61f144dd054aae43500a8eff</link>
+    <title> Arissa Addresses the Empire</title>
+    <date>26 JAN 3308</date>
+    <story>The Imperial Senate has shared a personal message from Emperor Arissa Lavigny-Duval, who has been in a secure location for nearly a year.
+The brief statement was broadcast on all public channels:
+“Citizens of the Empire, be assured that your Emperor is alive and well. I regret that my temporary seclusion has lasted for so long, but I have remained in contact with the Senate during this time.”
+“I was advised to depart from Capitol when Imperial Intelligence warned me about a legitimate NMLA assassination attempt, and of Marlinist sympathisers within the highest levels of our government. Once the work of this loyal agency is complete, I will continue my work in leading us toward a prosperous future.”
+Eye on Achenar reported that this address was “welcomed by a relieved Empire”, adding that it was vital to “root out all Marlinist traitors”. The Imperial Herald noted that the Emperor seemed to absolve Imperial Intelligence of the allegations that it was secretly enabling the NMLA.
+However, a caution was sounded by Princess Aisling Duval:
+“Arissa has communicated with the Senate in the same manner for months, so this changes nothing. Only a public appearance will alleviate my concerns regarding her wellbeing. I would be delighted to host a suitable event if she will accept my invitation to attend in person.”</story>
+  </article>
+  <article>
+    <id>b05d46a4-7713-4ab4-a4ea-c4656c179564</id>
+    <link>/galnet/uid/61f29a5421fc420cc60d1cde</link>
+    <title> Conflict Erupts in the Reorte System</title>
+    <date>27 JAN 3308</date>
+    <story>*Pilots’ Federation ALERT*
+The Reorte Mining Coalition has declared its intent to remove the Sirius Corporation presence from its home system.
+The megaship Chariot of Rhea arrived in Reorte as part of Sirius Corporation’s new role as the Alliance’s strategic defence partner. But the system’s controlling faction ordered it to withdraw. The megaship’s non-compliance has resulted in skirmishes targeting Sirius forces.
+Fergus Cassidy, CEO of the Reorte Mining Coalition, announced:
+“We fully support Councillor Kaine’s position that Sirius Corporation is operating illegally under Alliance law. Therefore, we will defend our territory from this aggressive foreign entity.”
+A response was broadcast by Captain Delfina Dominguez of the Sirius Navy, who commands the Chariot of Rhea:
+“Our presence is authorised by the military contract between Sirius Corporation and the Alliance Defence Force. If local forces continue to attack, we will have no option but to defend our assets.”
+The fighting is not believed to have reached surface level and is expected to remain a ship-based conflict.
+To rally support from independent pilots, both factions are offering access to permit-locked systems. Reorte Mining Coalition will sponsor distribution of an Alioth system permit, while Sirius Corporation will authorise a permit to the Sirius system.
+Prime Minister Edmund Mahon has ordered the Reorte Mining Coalition to cease hostilities immediately. However, Councillor Ainsley Niven  – who represents Reorte in the Assembly and is a political supporter of Nakato Kaine – claims that the faction has the right to protect its territory, since it was not invited to ratify the defence pact.
+</story>
+  </article>
+  <article>
+    <id>68223faa-785b-45b0-8ada-eb0e2fa72bba</id>
+    <link>/galnet/uid/61f3e98279827f147f076634</link>
+    <title> New Starports Created for Colonia Bridge</title>
+    <date>28 JAN 3308</date>
+    <story>*Pilots’ Federation ALERT*
+The infrastructures of six starports have been completed along the travel corridor between Colonia and the core systems.
+Brewer Corporation has confirmed that five starport frames were constructed in systems branching out from Alcor, with a sixth closer to the Colonia system. The new stations are:
+Zerreiss Station in the Pru Euq WO-D b53-8 system
+Helgrind Gateway in the NGC 6530 Sector ZE-X b2-0 system
+Vladmir McDoogle's Triumph in the Flyiedge VN-W c4-51 system
+Canonn Complex in the Prua Phoe MI-B b17-5 system
+Venatores Hub in the Blua Eaec WW-E c14-1293 system
+Promium Relay in the Eoch Flyuae QK-E d12-2118 system
+At present the starports are not fully operational and only provide rearm, refuel and repair services. Basic commodity trading has also been established to accommodate pilots selling construction materials and to supply tritium fuel.
+A fourth phase of the Colonia Bridge project is scheduled to begin on the 10th of February, which will aim to complete construction and add a broader range of facilities.
+Brewer Corporation was able to meet all of its targets for phase three due to the considerable amount of raw materials delivered by the galactic community. The names of the new starports were selected by those pilots who made the greatest contributions to the initiative.
+</story>
+  </article>
+  <article>
+    <id>e2d82def-e39d-4ff6-98f8-16f33aa523dd</id>
+    <link>/galnet/uid/61f7efc4178bf54c8d5f609d</link>
+    <title> ‘Azimuth has Survived’ Warns Aegis</title>
+    <date>31 JAN 3308</date>
+    <story>Information recovered from the Alexandria has prompted Aegis to insist that it was not responsible for the loss of the megaship’s crew and cargo.
+The wreckage of the Alexandria was recently located in the Wregoe TC-X B29-0 system. There were no survivors, but fragments of the commanding officer’s log were found.
+Chief Administrator Carter Armstrong published this statement on behalf of Aegis:
+“The logs made by Captain Jacob Morales tell a bleak tale. The Alexandria was deliberately sabotaged to leave it stranded and powerless. They were met by an unidentified group posing as a rescue team, who slaughtered most of the crew and hijacked the Guardian artefacts. The survivors later made a desperate attempt to initiate the hyperdrive, which sadly led to their destruction.”
+“We can now prove that the Alexandria’s loss was not caused by negligence, as claimed by the Baumann Report. In reality, the megaship was snared in a trap laid by an organised quasi-military force.”
+“Furthermore, Captain Morales discovered that the raiders worked for someone they referred to as ‘the Witch’. That name was mentioned in logs discovered at HIP 22460 regarding Project Seraph – vile experiments perpetrated by Azimuth researchers to install human test pilots into Thargoid vessels.”
+“This evidence suggests that Azimuth Biochemicals has survived in some form over the last two hundred years, and remains focused on aggressive xenological research. Aegis must be reinstated immediately to counter this dangerous organisation before more lives are lost.”
+</story>
+  </article>
+  <article>
+    <id>7b8103a6-a77d-4d93-a2cc-ab7f0bcc7617</id>
+    <link>/galnet/uid/61f92e4dfcc3f73bc25b59dc</link>
+    <title> ACT Defies Imperial Decree</title>
+    <date>01 FEB 3308</date>
+    <story>The Affiliated Counter-Terrorism unit is actively investigating Imperial Intelligence, despite the Senate ordering it to cease operations.
+Inspector Mara Klatt, one of ACT’s co-leaders, told the media:
+“We are convinced that elements within Imperial Intelligence provided support to the NMLA. Our view is that a modified version of the Omega Grid software was supplied to the terrorists, allowing them to build their own dark-comms network. Thanks to Captain Saskia Landau’s inside knowledge, we are learning how to detect a unique identifier associated with the network employed by the NMLA.”
+“Our actions may have political repercussions, but this taskforce is dedicated to finding and destroying the NMLA. We must follow the trail wherever it leads.”
+Civil and military leaders in the Empire have reacted with outrage, including Senator Zemina Torval:
+“Are we expected to risk our citizens’ lives by letting our security services be compromised? How might the Alliance or Federation respond if we attempted to hack into Interpol or the FIA?”
+However, a plea for cooperation was made by Princess Aisling Duval:
+“If nefarious groups within our Empire have helped the NMLA, we must uncover the truth. I firmly believe that the Emperor herself remains in danger, and ACT might help us to learn her fate.”</story>
+  </article>
+  <article>
+    <id>f5001cba-46ac-46b9-b2ab-aa4747c3b803</id>
+    <link>/galnet/uid/61fbf222bc946221076daa5b</link>
+    <title> Help Needed to Crack the NMLA’s Network</title>
+    <date>03 FEB 3308</date>
+    <story>*Pilots’ Federation ALERT*
+The Affiliated Counter-Terrorism unit has launched an effort to locate and decipher the NMLA’s dark-comms network.
+The request was sent by Captain Saskia Landau, one of ACT’s co-leaders:
+“ACT is working to gain access to the Omega Grid version that was provided to the NMLA by its mysterious benefactors. Most of our agents seconded from the IISS have been recalled, and some Senate leaders are blocking our progress. Therefore, we urgently need support from independent pilots, which will contribute to our wider efforts to decrypt the network.”
+“To begin with, we have triangulated the possible location of an Omega Grid beacon somewhere within the HIP 290 system. If it can be found, this will validate our strategy and quickly lead to further discoveries.”
+“Messages relayed across this network are likely to be encrypted. Our analysts have put together a partial cipher key from other data. Any files recovered from the beacon may help with deducing the rest of the cipher.”
+“If the beacon in the HIP 290 system is found, any pilot who scans it can expect further instruction on subsequent days.”
+The partial cipher key is as follows:
+A = H
+B = G
+C = J
+E = L
+F = K
+L = Q
+M = T
+O = V
+P = U
+Q = X
+S = Z
+T = Y
+U = B
+V = A
+W = D</story>
+  </article>
+  <article>
+    <id>1be16b37-0638-4266-a844-ab215124b1f7</id>
+    <link>/galnet/uid/61fba223321af45edf642e6f</link>
+    <title> Sirius Corporation Ejected from Reorte </title>
+    <date>03 FEB 3308</date>
+    <story>*Pilots’ Federation ALERT*
+The Reorte Mining Coalition has succeeded in forcing Sirius Corporation to withdraw from the Reorte system.
+Despite the megacorp’s strategic defence pact with the Alliance, Reorte’s controlling faction claimed the Sirius megaship Chariot of Rhea was an illegal intruder. This resulted in open conflict, which has ended with Sirius Corporation’s defeat.
+Fergus Cassidy, CEO of the Reorte Mining Coalition, transmitted this message:
+“With the support of many brave pilots, we have prevented Sirius from sinking its claws into the Reorte system. I hope our victory will convince the Alliance’s leaders to think twice about their deal with the devil.”
+Captain Delfina Dominguez has confirmed that Sirius Corporation has started to withdraw from Reorte. The megaship Chariot of Rhea will leave Reorte and jump to the Leesti system pending further discussions with Allied leaders.
+Sources have confirmed that permits to the Alioth and Sirius systems have been allocated to independent pilots depending on the faction they supported during the conflict.
+The Assembly has held emergency meetings to debate this turn of events. Councillor Ainsley Niven, who represents the Reorte system, delivered a warning to Prime Minister Mahon:
+“You have invited Sirius Corporation to provide military aid against the Thargoids, but without seeking the approval of those we are pledged to protect. That is not the way of the Alliance, no matter how grave the threat.”</story>
+  </article>
+  <article>
+    <id>31408f84-614f-433c-a48c-ad52a43753d2</id>
+    <link>/galnet/uid/61fcedaa0d077c1bf936a08e</link>
+    <title> Hudson Attempts to Remove Presidential Limit</title>
+    <date>04 FEB 3308</date>
+    <story>The Federal government has announced plans to extend Zachary Hudson’s term as president beyond the legally allotted span.
+Every Federation president serves a single term of eight years. President Hudson assumed the role in June 3301, and is therefore due to step down in June 3309 following an election to select his replacement.
+Secretary of State Lana Berkovich delivered the proposal to Congress:
+“We live in extraordinary times, and all signs point to further challenges in the coming years. Our people deserve a steady hand at the helm rather than being forced to change political course, especially with the tempestuous developments found within our neighbouring superpowers.”
+“It is therefore in the public interest that we temporarily suspend the arbitrary eight-year limitation, to allow President Hudson to continue steering the Federation through the coming storms.”
+Shadow President Felicia Winters condemned the proposal:
+“Hudson has already violated the Federal Accord with his surveillance laws, but now we can see how little he values our constitution. This is the act of a dictator, not a democratically elected president.”
+A few Republican congressmen reluctantly agreed with Winters, joining calls for President Hudson to withdraw the proposal. However, political analysts believe that Hudson enjoys the support of his entire Cabinet and a majority of the Republican Party.</story>
   </article>
 </GalnetArchive>
