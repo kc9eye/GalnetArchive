@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <GalnetArchive>
-  <version>1.097</version>
+  <version>1.098</version>
   <article>
     <id>5ff5b9b37a37e</id>
     <link>
@@ -29687,5 +29687,34 @@ Political journalist Cassia Carvalho provided details for The Imperial Herald:
 “Members from all echelons of the Imperial aristocracy arrived at the palace with their entourages. Court ceremonies were held to reaffirm their fealty to Emperor Arissa, all with as much spectacle and grandeur as possible.”
 “Less public were Arissa’s closed sessions with representatives from the Imperial Diplomatic Corps. Laurentin Sharpe, the Empire’s senior ambassador to the Alliance, said: ‘The purpose of these briefings is to update Her Majesty on political developments that occurred during her absence, and to receive guidance for the future.’”
 “Alongside the parade of familiar faces was one very unexpected figure: Prime Consul Kayode Tau of the Marlinist Consulate. His megaship, Fairfax Vision, was afforded full diplomatic immunity when it arrived in the Achenar system. Considering the turbulent history between the Empire and the Marlinist Colonies, what might Arissa be planning?”</story>
+  </article>
+  <article>
+    <id>adebffa8-0557-40cb-ab92-d6e5a32ff33e</id>
+    <link>/galnet/uid/623aee1d75f7e20cd02d4c51</link>
+    <title> Taurus Mining Ventures Begins Scientific Study</title>
+    <date>23 MAR 3308</date>
+    <story>The megaships Musashi and Heart of Taurus have entered the Synuefe CE-R c21-6 system to perform a mining-related research operation.
+Taurus Mining Ventures is an independent mining corporation closely associated with Salvation. It has acted as his intermediary in recent months, directly supporting his efforts to combat the Thargoids.
+Dr Ruben Carpenter, head of the company’s research division, provided a statement:
+“We have recorded some unusual radioactive signatures in the Synuefe CE-R c21-6 system. This has had a transformative effect on the molecular structure of certain naturally occurring substances.”
+“Our objective is to perform a detailed analysis of these irradiated materials and determine if they have value as mineable resources. Customised laboratories have been set up aboard both megaships, and work is already underway.”
+The Empirical, an independent journal aimed at the scientific community, commented:
+“As yet, the detection of atypical radiation signatures within CE-R c21-6 has not been verified by secondary sources. Our editorial team has reached out to Taurus Mining Ventures for clarification.”</story>
+  </article>
+  <article>
+    <id>cbb645d4-c5cb-478a-a18b-823d807b84ba</id>
+    <link>/galnet/uid/623c6f79f17d7132fe2f52ea</link>
+    <title> Rival Initiatives to Decide Reorte’s Future</title>
+    <date>24 MAR 3308</date>
+    <story>*Pilots’ Federation ALERT*
+Deliveries to the Reorte Mining Coalition or the Reorte Pro-Alliance League will help determine the system’s status.
+The system’s controlling faction wishes to declare independence, in protest against Sirius Corporation’s proposed anti-xeno defence pact with the Alliance Defence Force. 
+The Reorte Mining Coalition’s CEO Fergus Cassidy announced:
+“Prime Minister Mahon’s insistence on working with Sirius leads us to believe our interests are best served outside of the Alliance. To prepare for Reorte’s potential transition to an independent system, we ask for shipments of advanced medicines, skimmer components and building fabricators to be delivered to Davies High starport.”
+It is expected that if Reorte Mining Coalition is successful, all systems currently under its governance would similarly be classified as independent.
+Another faction in the system, the Reorte Pro-Alliance League, broadcast a statement in opposition by chief administrator Louisa Leblanc:
+“Severing Reorte’s links with the Alliance over some misguided idealism would be hasty and short-sighted, given the Thargoid threat this pact is intended to prepare for. We believe that increasing supplies of advanced medicines, skimmer components and building fabricators will reassure the public of the benefits of membership.”
+“The Alioth Independents faction has kindly provided a megaship, the Trobairitz, where pilots can deliver these commodities.”
+Although Sirius Corporation is not officially involved with these competing initiatives, it is offering pre-engineered heat sink modules to independent pilots who make deliveries to the Trobairitz.</story>
   </article>
 </GalnetArchive>
