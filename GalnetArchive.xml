@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <GalnetArchive>
-  <version>1.099</version>
+  <version>1.100</version>
   <article>
     <id>5ff5b9b37a37e</id>
     <link>
@@ -29730,5 +29730,57 @@ Gliese 868 Services, which organised the counter-offensive against the pirates, 
 The Federal Times reported on the political repercussions from these events:
 “It is not just the security agencies that are embarrassed at relying on volunteers to protect trade in Gliese 868. Members of both the Republican and Liberal Parties have spoken out, claiming that this situation was completely unacceptable.”
 “This has led to fresh demands that President Hudson’s proposal to repeal the 77th amendment must be negotiated peacefully, without causing civil disturbance or placing citizens’ lives at risk. Congress is expected to make further statements soon.”</story>
+  </article>
+  <article>
+    <id>ea0be40f-4df4-4d92-9d75-51e5374e2aa7</id>
+    <link>/galnet/uid/6241b1933a7be948f512de10</link>
+    <title> Taurus Prepares Mining Operation</title>
+    <date>28 MAR 3308</date>
+    <story>*Pilots’ Federation ALERT*
+Plans for a new mining initiative by Taurus Mining Ventures in the Synuefe CE-R c21-6 system have been announced.
+The corporation’s megaship Heart of Taurus has been conducting scientific studies on ‘unusual radioactive signatures’ within the system. The next phase of this work is to identify mineable resources to learn more about the radiation’s effects.
+Dr Ruben Carpenter, head of the Taurus Mining Ventures research division, provided an update:
+“The source of the radiation found in Synuefe CE-R c21-6 has not yet been unidentified. But our team has theorised that naturally occurring ores in the system may have altered properties. If we are correct, that ore may have high commercial value once processed into usable metals and minerals.”
+A public statement was delivered by Commodore Morag Halloran:
+“It is paramount that we maintain positive relations with the community of independent pilots. Therefore, Taurus Mining Ventures will subcontract the forthcoming operation to members of the Pilots’ Federation. The company will be pleased to offer suitable rewards for mining these irradiated materials, details of which will be specified by Dr Carpenter in the next few days.”</story>
+  </article>
+  <article>
+    <id>0c6e5c93-4a06-4317-aee3-bedf7abb0d86</id>
+    <link>/galnet/uid/62432a685087283ca22ded3e</link>
+    <title> Empire Reaches Out to Marlinists</title>
+    <date>29 MAR 3308</date>
+    <story>Emperor Arissa Lavigny-Duval has outlined a plan for the Marlinist Colonies to be officially reconnected with the Empire.
+The Marlin Standard published an exclusive report from Prime Consul Kayode Tau, after he attended a diplomatic meeting on Capitol:
+“The essence of Emperor Arissa’s proposal is a pledge to grant the status of Imperial protectorate to the Marlinist Colonies, in return for swearing allegiance to the throne.”
+“In practice, local government would remain autonomous but the Imperial Navy and security agencies would have a permanent presence. There would be investment in trade, with Empire-based companies as preferred partners. New channels of transportation and communication would be opened between Marlinist and Imperial systems.”
+“Emperor Arissa and I discussed the issues at length. Following her experience with the Lords of Restoration, Her Majesty now accepts that most believers in Marlinism are not terrorists or revolutionaries. She has, however, insisted that the Empire must be watchful for any Neo-Marlinist resurgence.”
+“When I broached the topic that some senators had suggested absorbing the Marlinist Colonies by force, the Emperor assured me there would be no military action. She spoke of her ‘need to cleanse the wounds left by the NMLA’, and I believe this is a genuine sentiment.” 
+The Marlinist Parliament has received full details of the proposal and is preparing a response.</story>
+  </article>
+  <article>
+    <id>392543e1-ddf2-4c90-8c31-c859eb7f77e5</id>
+    <link>/galnet/uid/6245921a4f2fa94dc03d5ec7</link>
+    <title> Reorte System Remains Allied</title>
+    <date>31 MAR 3308</date>
+    <story>*Pilots’ Federation ALERT*
+The Reorte Pro-Alliance League’s success over the Reorte Mining Coalition means the system will stay in the Alliance.
+A greater quantity of advanced medicines, skimmer components and building fabricators were delivered to the Trobairitz megaship than to the opposing faction. As a result, Reorte will remain an Allied system.
+Pilots who contributed to the Reorte Pro-Alliance League’s initiative can now collect their rewards at the Trobairitz, along with the additional pre-engineered heat sink modules provided by Sirius Corporation.
+Chief Administrator Louisa Leblanc proclaimed:
+“I am deeply grateful to all those who helped convince our people that Reorte’s future is more secure with the Alliance. We look forward to working alongside Sirius Corporation on increasing defences against the Thargoids.”
+The Reorte Mining Coalition’s CEO Fergus Cassidy expressed his regret that their campaign to renounce membership of the Alliance failed to gather the necessary support. He thanked those who supported them, and confirmed that credit rewards for contributing pilots are now available at Davies High starport.</story>
+  </article>
+  <article>
+    <id>c812d54e-ff78-43a5-976e-209ce8714a6d</id>
+    <link>/galnet/uid/62459204eb5fe40641537c36</link>
+    <title> Taurus Mining Ventures Calls for Support</title>
+    <date>31 MAR 3308</date>
+    <story>*Pilots’ Federation ALERT*
+Taurus Mining Ventures has requested help with a mining and delivery operation in the Synuefe CE-R c21-6 system.
+In recent weeks, the mining corporation has performed research on what it claims are atypical radiation signatures detected within Synuefe CE-R c21-6. It now seeks shipments of the system’s native ores to explore commercially valuable applications of any molecular changes caused by this radiation.
+Dr Ruben Carpenter, head of the company’s research division, outlined the initiative:
+“I’m very excited to offer pilots this opportunity to support our scientific studies, which will hopefully prove lucrative for all involved. We require coltan, lithium hydroxide and methanol monohydrate crystal to be mined from locations within Synuefe CE-R c21-6 and delivered to the Heart of Taurus megaship.”
+“We will also pay for shipments of the same ores that have been mined from other systems. These will allow us to compare samples, in order to refine our commercial processes.”
+Taurus Mining Ventures is known for its close association with the anonymous anti-xeno specialist known as Salvation. However, there is no indication that this mining operation is connected to Salvation’s efforts to combat the Thargoids.</story>
   </article>
 </GalnetArchive>
