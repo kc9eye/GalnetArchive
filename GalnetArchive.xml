@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <GalnetArchive>
-  <version>1.100</version>
+  <version>1.101</version>
   <article>
     <id>5ff5b9b37a37e</id>
     <link>
@@ -29782,5 +29782,17 @@ Dr Ruben Carpenter, head of the company’s research division, outlined the init
 “I’m very excited to offer pilots this opportunity to support our scientific studies, which will hopefully prove lucrative for all involved. We require coltan, lithium hydroxide and methanol monohydrate crystal to be mined from locations within Synuefe CE-R c21-6 and delivered to the Heart of Taurus megaship.”
 “We will also pay for shipments of the same ores that have been mined from other systems. These will allow us to compare samples, in order to refine our commercial processes.”
 Taurus Mining Ventures is known for its close association with the anonymous anti-xeno specialist known as Salvation. However, there is no indication that this mining operation is connected to Salvation’s efforts to combat the Thargoids.</story>
+  </article>
+  <article>
+    <id>53a3a82c-1408-40a9-930e-7ff196452d55</id>
+    <link>/galnet/uid/6246bc1f98fd533ca70ec27b</link>
+    <title> Hudson Contravention Vote is Suspended</title>
+    <date>01 APR 3308</date>
+    <story>Federal Congress has temporarily postponed making a decision on whether to extend presidential term limits.
+President Zachary Hudson had proposed to repeal the 77th amendment of the Federal Accord, which specifies that a president can serve for a maximum of eight years. If approved, Hudson would become eligible for re-election in June 3309.
+A statement was delivered by President Hudson:
+“I have agreed that more time is needed to analyse the potential repercussions of this change to the Federation’s constitution. A congressional subcommittee will perform a detailed inquiry to investigate the civil and legal aspects.”
+“In addition, I am very conscious of the public disturbances caused by the Hudson Contravention. This delay should help to defuse political tension and provide our security services with an opportunity to keep the peace.”
+Shadow President Winters welcomed the president’s decision, and spoke of her eagerness to read the subcommittee’s report.</story>
   </article>
 </GalnetArchive>
