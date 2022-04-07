@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <GalnetArchive>
-  <version>1.101</version>
+  <version>1.102</version>
   <article>
     <id>5ff5b9b37a37e</id>
     <link>
@@ -29794,5 +29794,31 @@ A statement was delivered by President Hudson:
 “I have agreed that more time is needed to analyse the potential repercussions of this change to the Federation’s constitution. A congressional subcommittee will perform a detailed inquiry to investigate the civil and legal aspects.”
 “In addition, I am very conscious of the public disturbances caused by the Hudson Contravention. This delay should help to defuse political tension and provide our security services with an opportunity to keep the peace.”
 Shadow President Winters welcomed the president’s decision, and spoke of her eagerness to read the subcommittee’s report.</story>
+  </article>
+  <article>
+    <id>f1563f8e-4c5a-4259-af7e-cddcde8d8c0d</id>
+    <link>/galnet/uid/6246bc2696ea9925a02163c5</link>
+    <title> Marlinists Hold Public Referendum</title>
+    <date>05 APR 3308</date>
+    <story>The population of the Marlinist Colonies will vote to accept or decline the offer to become an Imperial protectorate.
+Emperor Arissa Lavigny-Duval’s proposal aims to build links between the independent colony systems and the Empire, from where the Marlinists originally fled as political refugees in 3306.
+The Marlin Standard ran an editorial summarising the situation:
+“Should the Marlinist Colonies remain an isolated republican society, or should we move beneath the Empire’s protective wing? It’s a question that most of us never expected to be asked.”
+“Many expressed fierce anger that Emperor Arissa has dared to ask for our allegiance. In her desperation to hunt down the NMLA she persecuted all believers in Marlinism, arresting thousands and displacing millions of her own citizens. Can we now trust her to welcome us back?”
+“Others are concerned that the Marlinist Colonies remain vulnerable, claiming that becoming a satellite nation of the Empire would provide military defences as well as economic boosts. And for those still holding on to their past lives, the attraction of reconnecting with friends and family in the Empire is strong.”
+“Whatever the outcome, First Minister Octavia Volkov’s swift decision to put this issue to a referendum is a splendid example of Marlinism in action. Votes are already being cast, and the result will be revealed at the end of this week.”</story>
+  </article>
+  <article>
+    <id>c55969e4-8c79-4b8c-9fe2-7d14d5365d2d</id>
+    <link>/galnet/uid/624eb95eb905994f2c41e6b3</link>
+    <title> Taurus Mining Ventures Operation Concludes</title>
+    <date>07 APR 3308</date>
+    <story>*Pilots’ Federation ALERT*
+A corporate initiative to mine and deliver ores to the Synuefe CE-R c21-6 system has ended successfully.
+Taurus Mining Ventures had performed scientific research within the system, claiming that the properties of some natural substances had been altered by an unknown type of local radiation.
+The company’s head of research Dr Ruben Carpenter announced: 
+“We now have sufficiently large quantities of coltan, lithium hydroxide and methanol monohydrate crystals mined from locations in Synuefe CE-R c21-6. These irradiated ores will be analysed to determine their potential commercial value. Samples that were provided from other systems will also be very useful in our comparative studies.”
+“To all the pilots who assisted in this endeavour: thank you! Your hard work is greatly appreciated. The Heart of Taurus megaship will remain in Synuefe CE-R c21-6 for several weeks, and you may collect your rewards from there.”
+Taurus Mining Ventures confirmed that studies to identify the source, effects and application of the local radiation are continuing. The scientific journal The Empirical has reiterated that these ‘atypical radioactive signatures’ have not been independently verified.</story>
   </article>
 </GalnetArchive>
