@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <GalnetArchive>
-  <version>1.103</version>
+  <version>1.104</version>
   <article>
     <id>5ff5b9b37a37e</id>
     <link>
@@ -29833,5 +29833,17 @@ First Minister Octavia Volkov announced the referendum’s results in the Marlin
 “Most of us are still haunted by the trauma of becoming refugees in 3306, when millions of innocent Marlinists were accused of supporting terrorist acts. We fled from an Empire that had become intolerant and abusive. This cannot be so easily forgotten.”
 “Nevertheless, we recognise that approximately a quarter of our population voted to accept the Emperor’s proposal. The ties to our homelands remain strong, and we still share much culture and history with the Empire. But the will of the masses is evident.”
 “I offer my thanks to Her Majesty for extending this offer, and call upon her to recognise and respect the decision of the Marlinist Colonies.”</story>
+  </article>
+  <article>
+    <id>5e8f7616-17a9-4b1a-9f37-fcc61229732f</id>
+    <link>/galnet/uid/624eaae8cad94d58f7697498</link>
+    <title> Arissa Accepts Marlinists’ Independence</title>
+    <date>12 APR 3308</date>
+    <story>Following a referendum by the Marlinist Colonies, Emperor Arissa Lavigny-Duval has formally recognised their autonomous status.
+Prime Consul Kayode Tau of the Marlinist Consulate reported on his latest meeting with the Emperor:
+“Her Majesty was clearly uncomfortable with the democratic way in which the ex-Imperial citizens in the colonies now govern themselves. But she gracefully acknowledged that the Marlinist population had declined her invitation to become an Imperial protectorate, and would thus remain independent.”
+“However, there was a proviso to Emperor Arissa’s acceptance of the decision. She insisted that the Marlinist Colonies must work with the Empire’s intelligence agencies to prevent any resurgence of the NMLA or similar terrorist groups.”
+It has since been agreed that Imperial Intelligence and the Marlinist Constabulary would collaborate on identifying Neo-Marlinist extremists. Colonel Saskia Landau and Major Milo Castile, both former co-leaders of ACT, have agreed to work together once again.
+In recognition of the minority who voted to rejoin the Empire, dedicated customs and immigration channels for registered Marlinist citizens will soon be established.</story>
   </article>
 </GalnetArchive>
