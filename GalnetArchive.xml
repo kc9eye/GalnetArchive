@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <GalnetArchive>
-  <version>1.113</version>
+  <version>1.114</version>
   <article>
     <id>5ff5b9b37a37e</id>
     <link>
@@ -30070,5 +30070,57 @@ JS: Some have claimed that Salvation prioritises victory over safety.
 HPA: Jade, dear: they are the same thing. The cost of war is human lives, and the Thargoids extract a heavy toll. Every invaded system. Every burning starport. Every ambushed convoy. Every ship lost to hyperspace. We have repeatedly driven the Thargoids back from our space, but the wretched things keep returning. That cost grows each day. Salvation’s superweapon has proven effective at wiping Thargoids from entire systems at a stroke. If Salvation calls that victory while you and I call it saving lives, then I’m comfortable with the difference in perspective.
 JS: Thank you for elaborating. Let’s take a break. We’ll be back after these messages.
 The rest of this interview is available to pilots arriving at the INV Succession in the Novas system.</story>
+  </article>
+  <article>
+    <id>1bd31722-efb1-4536-b2b4-68a342909f48</id>
+    <link>/galnet/uid/626bbc61303ed41d5248d6ea</link>
+    <title> The Sanderlyn Interviews (Part Three)</title>
+    <date>01 MAY 3308</date>
+    <story>The journalist Jade Sanderlyn of Vox Galactica was recently invited to conduct rare public interviews with admirals of the three superpowers. 
+This excerpt is from a conversation with Admiral Rachel Ziegler of the Alliance.
+Jade Sanderlyn: This is Jade Sanderlyn reporting for Vox Galactica. I am here with Admiral Rachel Ziegler of the Alliance. I’m pleased to have this opportunity to speak with you, Admiral.
+ Rachel Ziegler: You’re welcome.
+JS: We’re on board the Salote Charm, which is currently stationed in the Didio system. Two days ago, a large Thargoid force arrived here and began attacking human ships and ports. There are reports that Salvation has asked your fleet, and those of the other superpowers, to hold the Thargoid force at bay until the anti-xeno superweapon…
+RZ: Let me clarify your question before you finish it. My priority is the safety of the billions who call Didio home. We are not here to keep the Thargoid forces occupied. We are here to defeat them.
+JS: Understood, Admiral. Salvation has asked for time to prepare his superweapon, though?
+RZ: Yes, he has. But the Alliance does not operate with the assumption that Salvation will deliver on his promise.
+JS: Do you support Salvation’s methods? Critics have suggested he endangers lives by using a powerful weapon that has not been independently assessed by experts.
+RZ: Whether I support or do not support Salvation is immaterial. The fact is that, on two previous occasions, the superweapon has eliminated Thargoid fleets from entire systems. Rejecting such a powerful device would be unwise. Still, I think the question of risk is wholly appropriate. Military and political figures alike must not become complacent or over-reliant on Salvation’s technology. Particularly when we know so little about it.
+JS: Is that ambiguity a concern for the Alliance?
+RZ: It should be a concern for everybody. So far, Salvation has acted in our best interests. But a weapon that powerful would be considerably dangerous if recalibrated to damage human technology. Imagine what the NMLA could have done with such a device.
+ JS: Terrible things, no doubt. But your fleet in Didio could be seen as a tacit endorsement of Salvation by Allied leadership, regardless of your personal views.
+RZ: As I said, Salvation’s results are highly impressive.
+JS: Let’s hope they remain so. We’ll take a short break. Join us after these messages.
+The rest of this interview is available to pilots arriving at the megaship Salote Charm in the Didio system.
+</story>
+  </article>
+  <article>
+    <id>51112a66-acd8-43c8-b499-c923bb71c847</id>
+    <link>/galnet/uid/626a7dea20db64606060c864</link>
+    <title> Thargoid Warpath May Threaten Marlinists</title>
+    <date>02 MAY 3308</date>
+    <story>Voices in the Senate have argued that the Marlinist Colonies should have become an Imperial protectorate to shield them against the Thargoids.
+Senator Arturo Durant was quoted by The Imperial Herald:
+“The region containing the Marlinist Colonies sits relatively close to what is commonly regarded as Thargoid territory. A strike by the aliens would rapidly overwhelm the paltry security forces of a handful of under-developed systems.”
+“Naturally we respect Her Majesty’s decision to acknowledge their autonomy, but many feel that the Marlinists may regret the decision to sit outside our protective sphere. After all, these were once Imperial citizens. It’s our duty to defend them, whether or not they grant us permission.”
+First Minister Octavia Volkov published a response via The Marlin Standard:
+“The proximity of the Thargoids is an ever-present concern, and it’s true that we do lack a dedicated navy. But many authorised militias such as the Dark Wolf Marlinists have fought courageously to defend our people, and will do so again should the Thargoids turn their attention our way.”
+“I remind the senator that we have not only retained control of the original colonies, but also expanded into over two dozen neighbouring systems. Marlin Duval’s dream of forming an interstellar republic is finally flourishing, after centuries of being repressed within the Empire.”</story>
+  </article>
+  <article>
+    <id>b7fe9d59-1145-417f-ab5c-5fa8b2c8f5a7</id>
+    <link>/galnet/uid/626a7df270ee8670044bf0ca</link>
+    <title> An Interview with Zachary Rackham</title>
+    <date>04 MAY 3308</date>
+    <story>Sol Today hosted an interview with the multi-billionaire Zachary Rackham, who is rumoured to be moving into politics.
+From his villa at Lake Rackham, overlooking Homeland’s famous Singing Geysers, the entrepreneur spoke at length on various topics.
+On the rise of his business empire:
+“The hard-working folk at Rackham Capital Investments have done me proud in recent years. We’re currently holding financial talks to acquire a major starport company, so watch this space!”
+On his role with the Beta Hydri Corporation:
+“It’s a privilege to support my people in Beta Hydri, by helping to run their government. Things are already running smoother after I streamlined a few departments.”
+On suggestions that he will take part in the Federal presidential election:
+“I’m deeply flattered by calls to stand as an independent candidate. But really, an ordinary guy like me as president? I suppose it indicates that people are looking for something different to what Hudson and Winters offer.”
+On Bryanna Blanco’s claims that he was once a pirate:
+“Ah, you have to admire Ms Blanco’s tenacity! But ‘Calico Zack’ sounds like a character from an Olav Redcourt novel, doesn’t he? I should thank her for making me look a lot more impressive than I ever was.”</story>
   </article>
 </GalnetArchive>
