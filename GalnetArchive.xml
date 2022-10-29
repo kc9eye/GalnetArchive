@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <GalnetArchive>
-  <version>1.133</version>
+  <version>1.134</version>
   <article>
     <id>5ff5b9b37a37e</id>
     <link>
@@ -31824,5 +31824,43 @@ The Marlin Standard: “The proximity of the Thargoids to our democratic republi
 Sol Today: “We all know that you can’t trust the Imps or the Alliars. But at least they’re not vicious genocidal monstrosities. And as General Falkenrath famously said: ‘The enemy of my enemy is my disposable infantry.’”
 The Sovereign: “The xeno-peace movement, as espoused by our very own Heimar Borichev, is laudable. But many independent systems are demanding a less diplomatic strategy.”
 Vox Galactica: “The demands for a solution to the Thargoids are becoming more strident. According to unofficial reports, some low-level civil and military leaders have begun talking across the political divides, despite the lack of direction from their superiors. There is clearly a growing appetite for solidarity, whether through Aegis or some other means.”</story>
+  </article>
+  <article>
+    <id>908bd6d6-67e1-4ff2-a94a-8a898bfa8718</id>
+    <link>/galnet/uid/635a3f9cbe9d890dfc4f8d84</link>
+    <title> Thargoids Raid Nebula Colony</title>
+    <date>27 OCT 3308</date>
+    <story>The human enclave within the California Nebula has reported multiple attacks from Thargoid forces.
+Systems such as California Sector CQ-Y c5 and HIP 18077 have experienced direct assaults by large numbers of Thargoid vessels. Megaships in the area have also been attacked and left in disrepair, with surviving crews activating distress signals.
+Harrison Gladstone, a spokesperson for Turner Research Group which oversees Allied operations in the region, gave a statement to Vox Galactica:
+“We’re accustomed to the Thargoid encounters in the California nebula, but this time their aggression caught everyone by surprise. Research teams have been recalled from the region’s barnacle sites. It’s just become too dangerous to send our people out there.”
+Colonisation of the California Nebula took place in 3302 and focused primarily on harvesting meta-alloys from Thargoid barnacle sites. Although the enclave was initially established by the Alliance, the Kumo Crew’s expansion into the area last year brought tension.
+The Tau Ceti Journal reported that these latest attacks may directly impact the meta-alloy market. Some Federal corporations, which directly purchase this material from the Alliance, have warned that fresh sources of meta-alloys could be required to prevent commercial instability.</story>
+  </article>
+  <article>
+    <id>eacc5c7a-7730-4af2-b0c6-80470cc6ae88</id>
+    <link>/galnet/uid/63564ea29cf25b05cf707bf5</link>
+    <title> Xeno-Peace Project Gathers Support</title>
+    <date>27 OCT 3308</date>
+    <story>*Pilots’ Federation ALERT*
+Deliveries to the Andavandul system have enabled the Thargoid Advocacy Project to begin preparations for a diplomatic mission.
+Governor Dalton Chase, who is campaigning to become a member of the Federal Congress, arranged the initiative to create a non-partisan envoy vessel. Its objective will be to find ways to open communication with the Thargoids and make peaceful overtures to end the conflict.
+Polly  French, organiser of a Thargoid Advocacy Project rally in Andavandul, told the media:
+“War with the Thargoids represents multiple failures. A failure to imagine coexistence with another intelligent species. A failure to restrain our violent reactions to the unknown. By sending emissaries and opening diplomatic channels, we can prove that human civilisation is advanced enough to seek peace.”
+“I am grateful to Governor Chase for his generous funding and promotion of this project. Sincere thanks are also due to all the pilots who transported computer components, semiconductors and titanium, as well as those who fought hard to defend this operation. Personally, I’m very excited to see our new vessel for the first time.”
+Deutsche Elite Piloten Interstellar is now offering payment and combat bond reimbursement to all contributors from Blenkinsop Hub in the Andavandul system.</story>
+  </article>
+  <article>
+    <id>52b3dc25-2387-407c-8926-909fa25e83fd</id>
+    <link>/galnet/uid/635b8e2250005d32aa6da63e</link>
+    <title> Superpowers Discuss Unified Anti-Xeno Fleet</title>
+    <date>28 OCT 3308</date>
+    <story>Ambassadors of all three superpowers have held emergency talks following the California nebula attacks, with a united military fleet the primary topic.
+Political journalist Conrad Sterling provided this report for Vox Galactica:
+“The public demand to address the evolving Thargoid threat has led to key military personnel suggesting that the Allied, Federal and Imperial naval fleets could work in concert for the duration of the war. This once-inconceivable notion seems more plausible following the coalition in HIP 22460, despite the regrettable outcome of that operation.”
+“Sources have confirmed that Admiral Rachel Ziegler sought to contact Admiral Maxton Price directly, to discuss ways in which the Alliance Defence Force and Federal Navy might collaborate. Others have openly supported the idea of ‘a glorious grand armada to wipe out the alien hordes,’ as Vice Admiral Juno Rochester phrased it.”
+“However, there has been little in the way of political enthusiasm, with neither the Assembly nor Congress willing to debate the topic. Many leaders had their fingers burnt by aiding Salvation, which could dissuade them from extending the hand of comradeship once again.”
+“And then there is the Empire, which lacks any interest in further collaboration with outside governments or organisations. While the Emperor pursues her new path of Imperial isolationism, the Imperial Navy’s might cannot be relied upon to protect Allied, Federal or independent systems from Thargoid attack.”
+“Nevertheless, the prospect of resurrecting the anti-xeno agency Aegis continues to gain traction. Professor Tesreau’s recent symposium outlined plans for a new incarnation that would avoid the mistakes of the past. Even if we never see a grand human armada, the call for unity could manifest in a number of other ways.”</story>
   </article>
 </GalnetArchive>
