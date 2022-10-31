@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <GalnetArchive>
-  <version>1.134</version>
+  <version>1.135</version>
   <article>
     <id>5ff5b9b37a37e</id>
     <link>
@@ -31862,5 +31862,20 @@ Political journalist Conrad Sterling provided this report for Vox Galactica:
 “However, there has been little in the way of political enthusiasm, with neither the Assembly nor Congress willing to debate the topic. Many leaders had their fingers burnt by aiding Salvation, which could dissuade them from extending the hand of comradeship once again.”
 “And then there is the Empire, which lacks any interest in further collaboration with outside governments or organisations. While the Emperor pursues her new path of Imperial isolationism, the Imperial Navy’s might cannot be relied upon to protect Allied, Federal or independent systems from Thargoid attack.”
 “Nevertheless, the prospect of resurrecting the anti-xeno agency Aegis continues to gain traction. Professor Tesreau’s recent symposium outlined plans for a new incarnation that would avoid the mistakes of the past. Even if we never see a grand human armada, the call for unity could manifest in a number of other ways.”</story>
+  </article>
+  <article>
+    <id>9851c7d1-3767-4700-b378-4c49f48ae0c2</id>
+    <link>/galnet/uid/635b8e62c9c58d2ce221d0c4</link>
+    <title> Empire Dismisses Calls for Aegis Return</title>
+    <date>31 OCT 3308</date>
+    <story>The Imperial Senate has debated contributing to anti-xeno activities such as Aegis or a unified superpower fleet. 
+Senator Caspian Leopold initiated the discussions among his colleagues, stating:
+“One would never criticise Her Majesty’s priority to defend the Empire above all else. Nevertheless, we face an adversary that how shown no sign of understanding humanity’s many political, social or cultural distinctions. To them there is no Empire. Our citizens are simply more humans for the Thargoids to destroy.”
+“If we were to share our research and resources with a reformed Aegis, might we not end the Second Thargoid War sooner?”
+Imperial Admiral of the Fleet, Denton Patreus, responded:
+“Let me be clear: Aegis has been consigned to history. Likewise, the idea of unifying all three superpower fleets is a completely impractical fantasy. We can best serve the Empire by reinforcing the Imperial Navy and other military forces serving the Emperor.”
+“I assure you, senators, that we are closely monitoring Thargoid activity and the threat is currently contained. The anomalous signals moving towards the core systems are being tracked. But should any xeno force encroach upon Imperial territory, we are more than ready.”
+The issue was laid to rest Chancellor Anders Blaine:
+“Esteemed colleagues, there is great honour in exploring how best to protect our people from the alien foe. But I must remind you: a decree from the Emperor cannot be overruled, not even by this august chamber. The Empire will abstain from collaborating with the Alliance, Federation or any other foreign nation until Her Majesty wishes otherwise.”</story>
   </article>
 </GalnetArchive>
