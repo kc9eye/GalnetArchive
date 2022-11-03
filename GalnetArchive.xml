@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <GalnetArchive>
-  <version>1.135</version>
+  <version>1.136</version>
   <article>
     <id>5ff5b9b37a37e</id>
     <link>
@@ -31877,5 +31877,46 @@ Imperial Admiral of the Fleet, Denton Patreus, responded:
 “I assure you, senators, that we are closely monitoring Thargoid activity and the threat is currently contained. The anomalous signals moving towards the core systems are being tracked. But should any xeno force encroach upon Imperial territory, we are more than ready.”
 The issue was laid to rest Chancellor Anders Blaine:
 “Esteemed colleagues, there is great honour in exploring how best to protect our people from the alien foe. But I must remind you: a decree from the Emperor cannot be overruled, not even by this august chamber. The Empire will abstain from collaborating with the Alliance, Federation or any other foreign nation until Her Majesty wishes otherwise.”</story>
+  </article>
+  <article>
+    <id>e0445772-70a1-40f1-9cd6-7b5b259c55d4</id>
+    <link>/galnet/uid/635b8e6b50bf1e55b1032f59</link>
+    <title> Council of Admirals Divided Over Unified Fleet</title>
+    <date>01 NOV 3308</date>
+    <story>The Alliance Defence Force has been unable to reach a consensus over the proposal to combine the superpowers’ forces against the Thargoids.
+Admirals Liam Flanagan , George Varma and Rachel Ziegler all openly support the concept of a unified fleet formed of Allied, Federal and Imperial vessels. However, Admirals Nikolas Glass, Maristela Silva  and Tahir West have rejected this in favour of focusing on the strategic defence pact with Sirius Corporation.
+Fleet Admiral Hayley Sorokin, the highest ranking officer in the Alliance Defence Force, has yet to reveal her own view. When pressed by a journalist from the Old Worlds Gazette, she commented: “A decision of such magnitude is more political than military, and therefore the province of the Assembly.”
+There was a more forthright statement from Admiral Ziegler, who previously commanded an Allied anti-xeno taskforce:
+“This refusal to accept that we must come together to fight the Thargoids is enormously disappointing. Many of our counterparts in the Federal Navy are keen to increase links between militaries, and I firmly believe that we would soon convince the Empire to join us. We must not indefinitely rule out re-establishing Aegis or a similar anti-xeno initiative.” 
+In related news, Deputy Prime Minister Angela Corcoran has proposed a bill to the Assembly approving the reformation of Aegis. However, this has not received enough support to be formally debated and would achieve little without similar acts in the Federal Congress or Imperial Senate.</story>
+  </article>
+  <article>
+    <id>034b9674-dcea-475e-9beb-3bc585352d74</id>
+    <link>/galnet/uid/635b8e8a32504e41571c875f</link>
+    <title> Peace with the Thargoids?</title>
+    <date>02 NOV 3308</date>
+    <story>The rise of the xeno-peace movement has caused a number of public figures to discuss coexisting peacefully with the Thargoid race.
+With military options currently under discussion in the political capitals of all three superpowers, calls for diplomacy have sought to keep pace. Professor Shamus Madigan, Head of Xenology at Olympus Village University, is one of several figures to have weighed in on the matter: 
+“The ancient records of the Guardians, as deciphered by Ram Tah, describe how they learned enough of the Thargoids’ language to make peaceful overtures. These were rejected in favour of total war. Though millions of years have passed, it seems improbable that the Thargoids will view humanity any differently - particularly since we actively deploy Guardian-based weaponry against them.”
+Federal Governor Dalton Chase: 
+“Assuming the communications barrier can be broken, I see no reason why we cannot have non-violent relations with these obviously intelligent beings. The recently consigned pro-peace megaship will help demonstrate to the Thargoids that we are not a single-minded warlike race, but a fellow advanced civilisation.” 
+Jaya Chaudhary , host of historical ICE-cast ‘Ghastly Pasts’:
+“Human-Thargoid diplomacy might have been possible when our two species first encountered each other. But since then we have made two attempts to eradicate them, first with the mycoid compound and then with the Proteus Wave superweapon. Let’s be honest: would we want to talk to an alien race that did that to us?”
+Ambassador Jasmina Halsey, former president of the Federation:
+“We have discovered a little about the Thargoids’ history, behaviour and technologies. But their thought processes and reasoning may be utterly different to our own. I have no idea if they even comprehend what diplomacy is, let alone whether we could find common ground. But I do know that we must try, if only to prove to ourselves that we can do better.”</story>
+  </article>
+  <article>
+    <id>34cec7f2-3837-465d-a587-eb4de5709541</id>
+    <link>/galnet/uid/636382fc087a4e084124ed98</link>
+    <title> Azimuth to Expand Operational Assets</title>
+    <date>03 NOV 3308</date>
+    <story>Azimuth Biotech has announced a campaign in the Wandrama system to expand its military and surface facility capacity.
+The controversial weapons developer has seen a recent downturn in fortunes, due to fierce opposition by independent pilots protesting Azimuth’s history of illicit research. The failure of Salvation to bring an end to the war has also soured public sentiment towards the corporation.
+Azimuth Biotech CEO Torben Rademaker announced the initiative:
+“After a period of reflection, it is time for Azimuth to once again step forward and assume a position of support for the brave pilots engaging Thargoid forces wherever they are encountered. To do this, we shall establish a new megaship equipped to operation in Thargoid-tainted systems. The tragic loss of the Bright Sentinel and Heart of Taurus in HIP 22460 must not hinder our ambition any further.”
+“We also intend to operate several surface outposts to aid our research projects. We aim to contribute to humanity’s military options once again, being careful not to repeat the mistakes of our former figurehead.”
+Pilots contributing to Azimuth’s campaign, hosted at the Musashi megaship in Wandrama, will be granted the Mbooni permit and access to the company’s range of anti-xeno weaponry. Rademaker has promised that a successful campaign will allow for the Glorious Prospect to offer the Mbooni permit from the T-Tauri system permanently.
+Within hours of the announcement, opponents of Azimuth Biotech had organised a counter-campaign to prevent deliveries from reaching Wandrama. Combat between Azimuth security forces and anti-Azimuth activists has been reported in the system. It is believed efforts to derail the campaign are being directed from MacLean City by Wandrama Purple Council. 
+In an effort to rally combat pilots to their respective causes, both factions are offering module rewards. Azimuth Biotech is offering its overcharged Guardian plasma charger, while Wandrama Purple Council promises a rapid-fire multi-cannon with phasing sequence.</story>
   </article>
 </GalnetArchive>
