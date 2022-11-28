@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <GalnetArchive>
-  <version>1.146</version>
+  <version>1.147</version>
   <article>
     <id>5ff5b9b37a37e</id>
     <link>
@@ -32100,5 +32100,19 @@ Vox Galactica published this on-the-scene report from field correspondent Ernest
 “As news of the tragedy spreads, it has triggered a vociferous backlash against the Thargoid Advocacy Project. This fringe group recently gained a degree of respectability with the involvement of Congressman Dalton Chase and other media figures. But now there is widespread anger that, as Sol Today’s editorial put it, ‘Thousands of people were sent to die based on a vague hope that these alien warmongers might suddenly play nice.’”
 “Congressman Chase himself told the press that he is reviewing the latest reports from Hyades Sector YO-Q b5-1, and cannot yet make any official comment. As the public face of the Kingfisher mission, it’s likely that any formal demands for accountability will be directed his way.”
 “Meanwhile, Taranis draws ever closer to human-inhabited space. The Kingfisher’s destruction proves definitively that the rogue signal sources are of Thargoid origin, and that their intentions are hostile. With the prospect of the Second Thargoid War escalating to new levels, tensions throughout the core systems have never been higher.”</story>
+  </article>
+  <article>
+    <id>883c8662-4533-4424-8a16-2c9eea9a0ae9</id>
+    <link>/galnet/uid/63808ee1d269220cbb322485</link>
+    <title> Militaries on Alert as Taranis Approaches</title>
+    <date>28 NOV 3308</date>
+    <story>The Hyades Sector FB-N b7-6 system has been identified as the location where the rogue signal source named Taranis will finally arrive.
+Professor Ishmael Palin gave a statement to confirm the findings of several scientific groups:
+“Data correlated from many long-range scans proves that the anomaly’s velocity is reducing steadily. At its present rate of descent, Taranis will arrive at Hyades Sector FB-N b7-6 in approximately 24 hours. I have sent a research team, led by my colleague Dr Leroux, to gather data on its arrival.”
+Admiral Maxton Price of the Federal Navy commented:
+“Fortunately, this particular system is uninhabited so no populations are directly at risk. We are monitoring the situation rather than deploying capital ships. Civilian traffic is ordered not to enter Hyades Sector FB-N b7-6 until we know more about Taranis’s capabilities.”
+The Alliance Defence Force issued a similar announcement from Admiral Rachel Ziegler:
+“The Thargoids’ overall strategy remains unknown, as does the true nature of these rogue signal sources. But there is certainly no reason to place ourselves in their path intentionally. It’s possible that, as with HIP 22460, the Hyades Sector FB-N b7-6 system could become a no-go zone occupied by an overwhelming number of Thargoid vessels.”
+Despite making no official statement, it is believed that the Imperial Navy is likewise holding back from deploying a military fleet to the Taranis anomaly. Independent analysts have suggested that the destruction of the Kingfisher megaship in Hyades Sector YO-Q b5-1 has contributed to the superpowers’ caution, with capital ship losses in HIP 22460 also fresh in the memory. </story>
   </article>
 </GalnetArchive>
