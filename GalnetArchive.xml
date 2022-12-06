@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <GalnetArchive>
-  <version>1.150</version>
+  <version>1.151</version>
   <article>
     <id>5ff5b9b37a37e</id>
     <link>
@@ -32181,5 +32181,32 @@ Vox Galactica also published a selection of soundbites from various civilians es
 “It all happened so fast. Our family was eating together when the whole port seemed to shake. My son had befriended a trader who’d landed a few days ago, and he convinced her to take us on board her Hauler. The lurches as we weaved through Thargoid ships almost made me bring up the food we’d been enjoying minutes earlier.”
 “I was at a starport observation window when their ships, those weird star-shaped things, zipped right past. Then the other side of the habitat ring just vanished. Fire and splinters of metal... All the sirens blared, and the crowds surged toward the bays. Heat filled the corridors and smoke clogged our lungs. I didn’t even see the ship I ended up on, only a sea of panicked faces smeared with grime.”
 “I’m looking for my dad. He was injured when I last saw him. Burns from that green corrosive stuff that punched through our quarters. The Commander didn’t have room on his ship for everyone. I convinced him to take my dad first. But now I can’t find him. The medics don’t have time to talk to me. I hope he’s here somewhere. He’s got to be here somewhere.”</story>
+  </article>
+  <article>
+    <id>3265d50b-1336-4ae5-8b25-e396545e1fe8</id>
+    <link>/galnet/uid/638f8249a5a18c4dd54041a6</link>
+    <title> Plans for Enhanced AX Weaponry Accelerate</title>
+    <date>06 DEC 3308</date>
+    <story>Two leading engineers have revealed designs to improve the stock anti-xeno weaponry available to pilots.
+Liz Ryder and Zacariah Nemo have provided module modifications for many years, specialising in explosive and kinetic weapons respectively. Over the past year they have collaborated privately on the AX weapon designs introduce by Aegis in 3303, seeking to improve the efficiency of delivering a compound, hazardous to Thargoid vessels, which tips AX ammunition.
+While something of a pet project between the two, the recent invasion of human space by Thargoid forces has made the need for these designs far more urgent. Ryder explained to The Imperial Herald:
+“Zac and I share a passion for weapon upgrades, and have often used this project as a way to unwind after a long week’s work. He’s a weird guy but fascinating to work with. But when the Taranis signal arrived and the Thargoid forces started taking control of systems, we knew we had to reveal the designs to the public.”
+“They’re not quite ready to go, though, which is why we’re only announcing the project now. We’re going to need help from independent pilots to finish off the prototypes and get a manufacturing base set up.”
+The designs would improve the effectiveness of both the fixed and turreted AX multi-cannon and missile rack designs. A gimballed AX multi-cannon is also scheduled, with a campaign to introduce this coming next week.
+Details about each weapon’s project is available from most mission boards.</story>
+  </article>
+  <article>
+    <id>4b4b3c8b-9425-4ae4-8b2a-248fb233a525</id>
+    <link>/galnet/uid/638881eb59577715904f27da</link>
+    <title> Chase Admits Kingfisher Mission ‘A Mistake’</title>
+    <date>06 DEC 3308</date>
+    <story>Congressman Dalton Chase has made a public statement regretting his involvement with the Thargoid Advocacy Project.
+Chase became a member of Congress after an electoral campaign focusing on inter-species diplomatic relations. He was a key organiser and fundraiser for the Kingfisher megaship, which attempted to open communications with the Taranis entity but was subsequently destroyed with no survivors.
+In a press statement delivered from Olympus Village on Mars, Congressman Chase announced:
+“The tragic fate that befell the Kingfisher has affected me deeply. I now recognise that sourcing the means for those activists to intercept Taranis was, however well intentioned, a mistake. Such an endeavour should not have been attempted by inexperienced citizens, no matter their courage and tenacity.”
+“In honour of those brave people, I pledge to focus on proposals to introduce xeno-diplomacy as Federal policy. Rather than civilians needing to risk their lives, we should be bringing such operations to the Federal Navy at a congressional level.”
+Secretary of State Lana Berkovich has petitioned Congress to launch an investigation into Chase’s involvement with the xeno-peace movement. She described his role in the loss of over 3,000 lives as “beyond reckless”.
+Although the Thargoid Advocacy Project has faltered following the Kingfisher incident, some of its core members were recently involved in organising anti-authoritarian rallies. According to former spokesperson Timothy Culver: 
+“The superpowers’ involvement in the massacre at HIP 22460, when they supported Salvation’s attempted xenocide, makes them responsible for the Thargoids launching this counterstrike. We need to bring our leaders to account.”</story>
   </article>
 </GalnetArchive>
