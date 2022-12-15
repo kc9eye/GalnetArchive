@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <GalnetArchive>
-  <version>1.153</version>
+  <version>1.154</version>
   <article>
     <id>5ff5b9b37a37e</id>
     <link>
@@ -32236,5 +32236,32 @@ Old Worlds Gazette: “This is the most severe Thargoid attack ever recorded. Hu
 Citizens' Chronicle: “The speed with which our navy responded to defend Imperial citizens against the Thargoids must be applauded. However, it is becoming harder to ignore the screams from less fortunate systems. Might their cries melt our Emperor’s heart enough for her to consider extending the Empire’s protective wings?”
 The Empirical: “The hazardous nature of the Maelstroms has challenged all efforts at scientific examination. In terms of scale and composition they resemble small nebulae yet are surely artificial. Their highly corrosive clouds share chemical signatures with known Thargoid technology, but prevent all scans from identifying what generates them.”
 The Sovereign: “The Kingfisher tragedy has been eclipsed by the current conflicts, but one detail we felt worthy of note was the discovery of Thargoid Sensors among the megaship’s wreckage. The leading theory is that one of the volunteer crewmembers smuggled these aboard, in the hope of attracting the Thargoids’ attention to the megaship’s peaceful communications. This misguided individual was likely unaware that Thargoid vessels can become hostile upon detecting their technology on human ships. One hopes that nothing more sinister was in play.”</story>
+  </article>
+  <article>
+    <id>d568c8ff-cd4d-45a4-95c6-fe74feca3885</id>
+    <link>/galnet/uid/639af26018fe162fba0b09fa</link>
+    <title> Enhanced AX Weapon Update</title>
+    <date>15 DEC 3308</date>
+    <story>Pilots’ Federation ALERT
+The continued project to provide enhanced AX weaponry for all ships has announced its latest progress update.
+Independent pilots have been tasked with establishing a manufacturing base at select locations in the core systems. Thanks to these focused efforts, the following weapons are now available for purchase:
+Enhanced AX Multi-cannon (Turreted)
+Enhanced AX Missile Rack (Turreted)
+Enhanced AX Multi-cannon (Fixed)
+These modules are offered at all rescue megaships, which can be found using the Galaxy Map filter. Ships looking to engage Thargoid forces are advised to equip these weapons, particularly in Maelstrom systems where Guardian-based technology has proven ineffective.
+Work continues on the other enhanced weapons, based on designs by the engineers Liz Ryder and Zacariah Nemo which improve the original Aegis models. A further update will be provided next Thursday, unless no additional modules have been established during the week.</story>
+  </article>
+  <article>
+    <id>3e0000fc-0995-4f95-aaeb-a7edd3cfe9ec</id>
+    <link>/galnet/uid/6399f657ab867f31614cf653</link>
+    <title> Corrs Toy Emporium Calls for Help</title>
+    <date>15 DEC 3308</date>
+    <story>*Pilots’ Federation ALERT*
+Sandra Corrs, CEO of the largest manufacturer of children’s toys in the core systems, has requested help this holiday season.
+Many parents will be familiar with Sandra’s Workshop, recognising the company logo stamped across countless datapads, interactive suites and tactile play sets designed for youngsters. But the joy of this year’s festive season is at risk, with the recent Thargoid invasion impacting the Workshop’s distribution chain.
+In an interview with Vox Galactica, Corrs explained:
+“We typically use a fleet of transports provided by our partner company, Dolph’s Routes, to deliver presents to good children all across the bubble. But those transports have been assigned to provide evacuation support to 63 Tauri. Entirely understandable, and I applaud the company for its brave work. But it does leave many presents without a sleigh, as my grandfather used to say!”
+“I’m hoping that independent pilots will fill the vacancy left to deliver festive gifts to the children in time for the upcoming holidays. Arrangements will be made to provide a variety of wonderful rewards for those pilots who help keep youthful spirits high in these troubling times.”
+Pilots willing to help Sandra’s Workshop can collect festive gifts from the Frost Dock outpost in the Njambalba system. A beacon outside Frost Dock will distribute delivery information when scanned.</story>
   </article>
 </GalnetArchive>
