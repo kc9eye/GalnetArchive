@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <GalnetArchive>
-  <version>1.155</version>
+  <version>1.156</version>
   <article>
     <id>5ff5b9b37a37e</id>
     <link>
@@ -32276,5 +32276,17 @@ Pilots who attempt to investigate the Maelstroms have been warned that the highl
 All eight Maelstroms are now established at their destinations, positioned in a broad semi-circle along the fringe of the core systems. Each of these entities has become the centre of an expanding Thargoid sphere of influence. Populated systems in the surrounding regions have been dominated by extremely hostile Thargoid vessels, causing enormous casualties and catastrophic damage. Many more inhabited systems are at risk of invasion. 
 Eleven rescue megaships have entered service at key locations to aid and process the millions of refugees fleeing these attacks. These ships also act as hubs for defence operations to support those systems struggling to resist the Thargoid fleets.
 The Alliance, Empire and Federation have deployed capital ships equipped with anti-xeno weaponry to defend their respective territories. As yet there appears to be no technology or strategy capable of engaging the ominous power of the Maelstroms directly.</story>
+  </article>
+  <article>
+    <id>6ff9fbdf-41d3-415e-a964-0788ab18cc5d</id>
+    <link>/galnet/uid/6399f66e4dca435a63783f75</link>
+    <title> The Supercruise Factor</title>
+    <date>19 DEC 3308</date>
+    <story>Thargoid vessels are interdicting human ships travelling through systems that have been occupied by their fleets.
+The Thargoids’ ability to force craft to drop out of hyperspace is well documented. Over the past couple of weeks, pilots have reported that the interdiction ability used by human ships in supercruise is also being utilised by the alien forces.
+Colonel Bris Dekker, an engineer who specialises in frame shift drive technology, submitted his analysis to The Federal Times:
+“Being intercepted by the Thargoids mid-way through an interstellar journey is certainly a disturbing experience, but not necessarily a fatal one. Many ships have survived such encounters, unless they happen to be carrying Guardian or Thargoid artefacts. By contrast, these more recent incidents are uniformly acts of aggression, with ships being wrenched out of supercruise and immediately fired upon.”
+“We don’t know precisely how the Thargoids achieve this, though some theories are gathering support. But the intention is clear: to make the hunting of humans vessels easier. Anti-xeno pilots should note that they can no longer escape the Thargoid blasting though their shields by simply entering supercruise.”
+“Possibly, this is more of a shift in tactics than a new technological development. All reported interdictions have taken place in recently invaded systems close to the Maelstroms, rather than in the aliens’ more well-known haunts. Whatever the reason, the invading Thargoid force has adapted to more efficiently catch its prey.”</story>
   </article>
 </GalnetArchive>
