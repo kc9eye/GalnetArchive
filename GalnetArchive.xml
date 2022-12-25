@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <GalnetArchive>
-  <version>1.156</version>
+  <version>1.157</version>
   <article>
     <id>5ff5b9b37a37e</id>
     <link>
@@ -32288,5 +32288,19 @@ Colonel Bris Dekker, an engineer who specialises in frame shift drive technology
 “Being intercepted by the Thargoids mid-way through an interstellar journey is certainly a disturbing experience, but not necessarily a fatal one. Many ships have survived such encounters, unless they happen to be carrying Guardian or Thargoid artefacts. By contrast, these more recent incidents are uniformly acts of aggression, with ships being wrenched out of supercruise and immediately fired upon.”
 “We don’t know precisely how the Thargoids achieve this, though some theories are gathering support. But the intention is clear: to make the hunting of humans vessels easier. Anti-xeno pilots should note that they can no longer escape the Thargoid blasting though their shields by simply entering supercruise.”
 “Possibly, this is more of a shift in tactics than a new technological development. All reported interdictions have taken place in recently invaded systems close to the Maelstroms, rather than in the aliens’ more well-known haunts. Whatever the reason, the invading Thargoid force has adapted to more efficiently catch its prey.”</story>
+  </article>
+  <article>
+    <id>cceb09df-38e3-4fe1-9350-e52cecb44586</id>
+    <link>/galnet/uid/6399f677250edd22c67a0743</link>
+    <title> The Voice of the Empire</title>
+    <date>20 DEC 3308</date>
+    <story>On the Empire’s homeworld Capitol, fears over imminent Thargoid invasion sparked a public gathering outside the Imperial Palace.
+Cassia Carvalho, political journalist for The Imperial Herald, reported from the scene:
+“The arrival of the Thargoid Maelstroms has triggered protests on many Allied, Federal and independent worlds. The Empire is rarely troubled by such disruption, so the spontaneous march by tens of thousands of citizens through Capitol’s streets caught the media and security services by surprise.”
+“Chancellor Anders Blaine addressed the crowd, his image projected above us all. He spoke of the Imperial Navy’s swift response to the Thargoid threat, making assurances that our systems were protected and we were all safe.”
+“But this wasn’t enough to quell the increasingly strident demands that more should be done. I saw anger, frustration and fear etched into those shouting faces. The newsfeed images of burning and broken starports, of Thargoid vessels laying waste to ordinary people’s homes, were all too clear in everyone’s minds.”
+“I genuinely wasn’t sure which way this impromptu demonstration would go. Might the crowd’s strong emotions even transmute into violence? And then a new voice rang out across the square: the unmistakable tones of Emperor Arissa Lavigny-Duval herself, standing tall as she slowly descended the palace steps toward us.”
+“‘Remember this: we are Imperials,’ she told her people, her commanding voice amplified for all to hear. The crowd parted in silence as she neared, allowing her to stride amongst us. ‘We possess the strongest civilisation, the grandest achievements, and the most courageous hearts. We shall meet anything that dares to threaten us, human or alien, and we will defeat it. Our Empire will endure!”
+“By the end of her address, which lasted some ten minutes, emotions had indeed been transmuted – into exultant, cheering jubilation. Our Emperor had stood with us in person, reminded us all of our heritage and our duty. The Thargoids will undoubtedly come. But in that moment we were determined to face them together.”</story>
   </article>
 </GalnetArchive>
