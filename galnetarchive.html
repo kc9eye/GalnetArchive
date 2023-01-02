@@ -12,25 +12,42 @@
                 </div>
             </div>
         </div>
-        <div class="row">
-            <div class="col" id="articles">
+        <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+            <div class="container-fluid">
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="collapse navbar-collapse" id="navbarSupportContent">
+                    <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+                        <li class="nav-item">
+                            <a class="nav-link" id="indexLink" href="#">Index</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" id="allArticlesLink" href="#">All Articles</a>
+                        </li>
+                    </ul>
+                </div>
             </div>
+        </nav>
+        <div class="container-fluid">
+            <div class="row">
+                <div class="col" id="articles">
+            </div>
+        </div>
         </div>
         <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
         <script>
             (async function(){
-                /////////////////////////////////////////////////////////////
-                // Change this variable to the root of the server of the xml archive file
-                let serverRoot = "https://raw.githubusercontent.com/kc9eye/GalnetArchive/master/";
-                /////////////////////////////////////////////////////////////
+                document.getElementById("indexLink").addEventListener("click", listIndex);
+                document.getElementById("allArticlesLink").addEventListener("click",allArticles);
+                window.xmlDOM = await getArchiveXmlDOM();
+                listIndex(null);
+            })();
+            
+
+            function allArticles(event) {
                 let articleSpace = document.getElementById("articles");
-                let xmlArchiveFile = await fetch(serverRoot+"/GalnetArchive.xml",{method:"GET"});
-                let xmlArchive = await xmlArchiveFile.text();
-
-                let parser = new DOMParser();
-                let archiveDOM = parser.parseFromString(xmlArchive,"text/xml");
-                let articles = archiveDOM.getElementsByTagName("article");
-
+                let articles = xmlDOM;
                 let output = "";
                 for(let i = (articles.length - 1); i >= 0; i--) {
                     output +=
@@ -43,7 +60,56 @@
                     '</div>'
                 }
                 articleSpace.innerHTML = output;
-            })();
+            };
+
+            function listIndex(event) {
+                let output = '<ul class="list-group">';
+                let articleSpace = document.getElementById("articles");
+                let articles = xmlDOM;
+                for(i=(articles.length-1);i>=0;i--) {
+                    output+=
+                    '<li class="list-group-item">'+
+                        '<b>'+articles[i].getElementsByTagName("date")[0].childNodes[0].nodeValue+'</b>&#160;'+
+                        '<a href="#" name="articleLink" onclick="getArticle(\''+articles[i].getElementsByTagName("id")[0].childNodes[0].nodeValue+'\')">'+
+                            articles[i].getElementsByTagName("title")[0].childNodes[0].nodeValue+
+                        '</a>'+
+                    '</li>';
+                }
+                output+='</ul>';
+                articleSpace.innerHTML = output;
+            }
+
+            function getArticle(id) {
+                let articleSpace = document.getElementById("articles");
+                let articles = xmlDOM
+                for(i=0;i<articles.length;i++) {
+                    if (articles[i].getElementsByTagName("id")[0].childNodes[0].nodeValue == id) {
+                        articleSpace.innerHTML = 
+                        '<div class="card m-2">'+
+                            '<div class="card-body">'+
+                                '<h3 class="card-title bg-dark text-light rounded">'+articles[i].getElementsByTagName("title")[0].childNodes[0].nodeValue+'</h3>'+
+                                '<h6 class="card-subtitle m-1"><i>'+articles[i].getElementsByTagName("date")[0].childNodes[0].nodeValue+'</i></h6>'+
+                                '<p class="card-text">'+articles[i].getElementsByTagName("story")[0].childNodes[0].nodeValue+'</p>'+
+                            '</div>'+
+                        '</div>';
+                        break;
+                    }
+                }
+            }
+
+            async function getArchiveXmlDOM() {
+                /////////////////////////////////////////////////////////////
+                // Change this variable to the root of the server of the xml archive file
+                let serverRoot = "https://raw.githubusercontent.com/kc9eye/GalnetArchive/master/";
+                /////////////////////////////////////////////////////////////
+
+                let xmlArchiveFile = await fetch(serverRoot+"/GalnetArchive.xml",{method:"GET"});
+                let xmlArchive = await xmlArchiveFile.text();
+
+                let parser = new DOMParser();
+                let archiveDOM = parser.parseFromString(xmlArchive,"text/xml");
+                return archiveDOM.getElementsByTagName("article");
+            }
         </script>
     </body>
 </html>
