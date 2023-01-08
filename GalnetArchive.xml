@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <GalnetArchive>
-  <version>1.160</version>
+  <version>1.161</version>
   <article>
     <id>5ff5b9b37a37e</id>
     <link>
@@ -32354,5 +32354,48 @@ These modules are offered at all rescue megaships, which can be found using the 
 “HIP 22460 was the system chosen to construct the Proteus Wave. This interfaced Guardian technology with a Thargoid ground settlement, and was designed to deliberately attract the Thargoids before wiping them out. During July and August, upgraded capital ships along with independent pilots defended Azimuth Biotech’s operation from swarms of Thargoid vessels.”
 “After weeks of intense combat and delivering vital supplies, the Proteus Wave was activated on 9th August. Initially it seemed successful, rendering the Thargoids powerless, but an unexpected second energy pulse from the planetary site had the same effect on all human ships. The resulting massacre saw the Thargoids take control of the HIP 22460 system, establishing a permanent presence.”
 “Salvation was dead. Azimuth Biotech’s plans had failed. The superpowers were in retreat. And speculation grew about an unearthly alien screech heard in HIP 22460, dubbed the ‘Thargoid roar’.”</story>
+  </article>
+  <article>
+    <id>1ededcce-dd22-4c5d-b4eb-f1eaf2991814</id>
+    <link>/galnet/uid/63a19bbef4a81d234b1ab525</link>
+    <title> A Retrospective of 3308 (Part Three)</title>
+    <date>02 JAN 3309</date>
+    <story>The concluding article in a series by historian Sima Kalhana, providing an overview of last year’s key events.
+“The aftermath of the Battle of HIP 22460 was an unsettling time. With Salvation dead, Azimuth Biotech fell under new management and struggled to maintain prominence. The Empire withdrew from further collaborations with the other superpowers. And despite widespread fears of Thargoid reprisals, a xeno-peace movement sought diplomacy with the aliens to prevent further conflict.”
+“September brought further mysteries with sightings of eight swirling anomalies in deep space, detectable by ship scanners within a certain range. Initially assumed to be stellar phenomena, these rogue signal sources were later discovered to be travelling faster than light.”
+“Professor Alba Tesreau continued to call for Aegis to be reinstated, and held a symposium in October to outline her plans. This was gatecrashed by a woman named Seo Jin-ae, formerly Subject D-2 in Azimuth’s notorious Project Seraph experiments. Her neural link to a Thargoid vessel provided a degree of insight into the aliens’ behaviour. With Tesreau’s help, she later claimed the rogue signal sources were of Thargoid origin, summoned in response to events in HIP 22460.”
+“The Far God cult was overjoyed by the Thargoids’ recent victory, but its radical True Chapters sect was accused of sharing classified media from HIP 22460 which included the ‘Thargoid roar’. The Federation outlawed the religion, forcing the True Chapters megaships to flee.”
+“By November, it was confirmed that all eight rogue signal sources were approaching the core systems. Congressman Dalton Chase arranged for the xeno-peace movement to outfit the Kingfisher megaship, which was sent to meet and communicate with one of the so-called ‘stargoids’. It was swiftly destroyed, establishing a grim prelude for the bloodshed to follow.”
+“Taranis, the first of the anomalies, arrived in Hyades Sector FB-N b7-6 on 29th November, manifesting as a colossal gas cloud. This Maelstrom immediately unleashed vast numbers of Thargoid vessels into neighbouring systems, ferociously attacking all orbital and planet-based habitats.”
+“The remaining seven Maelstroms arrived during December, empowering the Thargoids to invade and conquer systems. Superpower militaries, anti-xeno squadrons and independent pilots rushed to their defence, but were clearly unprepared for an onslaught of such magnitude.”
+“By the end of 3308, Thargoid forces were raging across the core systems, causing millions of casualties and displacing millions more from their homes. The cataclysmic events of the past year have cast a chilling shadow over the future, with only one certainty: that 3309 will be dominated by the Second Thargoid War.”</story>
+  </article>
+  <article>
+    <id>25687a91-6154-4168-a74e-89162fe19cf8</id>
+    <link>/galnet/uid/63a19be07fdcb32979196012</link>
+    <title> Azimuth Conducts AX Weapons Research</title>
+    <date>03 JAN 3309</date>
+    <story>The corporation Azimuth Biotech has outlined its plans to support the war effort against the Thargoids by improving ship anti-xeno firepower.
+CEO Torben Rademaker was interviewed on The Tau Ceti Journal’s official ICE-cast, where he explained:
+“As you may recall, one of the many reasons Aegis became redundant was its poor record in improving AX armaments past the initial rush of designs. Azimuth Biotech has established a research and development division specifically designed to correct their failings at a steady, sustainable pace.”
+“One of the inherent limitations with Aegis’s designs is the maximum number of AX weapons that a ship can be outfitted with. The enhanced versions based on Ryder and Nemo’s designs share this limitation. We seek to increase the upper limit of AX weapons a ship can utilise, and our research teams are already reporting promising results.”
+One of the ICE-cast’s interactive audience questions asked why Azimuth was not working with Proteus Wave technology to build more anti-xeno superweapons. Rademaker replied:
+“Under my guidance, the corporation has moved away from Salvation’s esoteric field of research and adopted a more conventional direction. It seems clear to me that the superweapon project led by my predecessor was, ultimately, a failure.”
+Rademaker also answered an accusation that Azimuth was responsible for the loss of life in HIP 22460, and that he should face trial for ‘causing the Thargoid Maelstroms’:
+“Sadly, I often come across such simplistic blame-seeking from those with limited comprehension of the issue. The plain fact is that nobody could have predicted the Thargoids’ excessive reaction to our activities in HIP 22460. The Proteus Wave was deemed an acceptable means of ending the war, approved by individuals with far more military experience than Salvation could claim.”
+Rademaker’s only response to a subsequent barrage of abuse from a member of Operation Wych-Hunt was less verbose. The interview feed was terminated.</story>
+  </article>
+  <article>
+    <id>16a4fdb0-6fb0-4a0d-9840-5ee691933242</id>
+    <link>/galnet/uid/63a19bef41675f639f668a03</link>
+    <title> Subject D-2 Departs on Lone Mission</title>
+    <date>05 JAN 3309</date>
+    <story>Mystery surrounds the unexpected disappearance of Seo Jin-ae, who has reportedly departed the facility she’d been staying at.
+Professor Alba Tesreau provided a statement to the media:
+“Seo Jin-ae’s mental and physical health have improved over the past three months, with the discomfort caused by her cortical implant significantly reduced. This afternoon, I learned that she failed to attend a routine therapy appointment, and was soon found to have left the facility altogether. Somehow Seo managed to depart without logging her ID at the primary entry point.”
+“Initially I feared that she had been abducted by Azimuth operatives, sent by the company which subjected her to horrific neurosurgical procedures. But I soon received a time-delayed communiqué from Seo explaining her departure was voluntary. She offered heartfelt thanks to me and other former Aegis members for our help, but declared: ‘I have unfinished business with Salvation.’”
+“I don’t know what this refers to, since Salvation died in HIP 22460. Seo is a headstrong and determined individual who clearly prefers operating alone. I believe she should not be travelling without protection, though. Her ability to interpret the Thargoids’ actions could make her a target for those who mean her harm. I urge anyone who encounters her to alert local authorities.”
+Azimuth Biotech offered a response from Director Nassim Qadir , head of the corporation’s medical research division:
+“This erratic activity from Ms Seo displays typical characteristics of delusion and paranoid obsession with Salvation, whose death has been confirmed by eyewitness reports. We must question what type of ‘medical help’ she has been subjected to, if it forced her to abscond in this fashion. She would receive far more effective therapeutic care at our facilities.”</story>
   </article>
 </GalnetArchive>
