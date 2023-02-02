@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <GalnetArchive>
-  <version>1.165</version>
+  <version>1.166</version>
   <article>
     <id>5ff5b9b37a37e</id>
     <link>
@@ -32516,5 +32516,43 @@ Archon Delaine, warlord of the Kumo Crew, announced:
 The Pegasi Sentinel newsfeed published a request for populations not to impede Kumo Crew activity, suggesting that fleet mobilisation is ‘a temporary measure to provide a coordinated resistance against the Thargoids’. It is thought Kumo Crew’s megaship, the Mictlan, is preparing to deploy in support of these efforts.
 This message was rejected by Turner Research Group, which controls several of the invaded systems. The scientific organisation was established by the Alliance in 3302 to study the barnacles discovered in the region. Harrison Gladstone, the group’s spokesperson, declared: “Delaine is obviously using the Thargoid attacks as a pretence for a power grab. There is no chance that these pirates will defend our systems out of the goodness of their blackened hearts. We’ll know what Delaine’s real plan is soon enough.”
 The California Nebula has witnessed several Thargoid attacks, most recently last October, but this is the first marked increase in hostilities following the arrival of the Maelstroms.</story>
+  </article>
+  <article>
+    <id>62b9959a-e333-41fb-b9d8-1b55bd80b798</id>
+    <link>/galnet/uid/63d242e829a73c08c7700470</link>
+    <title> Admiral Tanner Withdraws from Federal Navy</title>
+    <date>30 JAN 3309</date>
+    <story>Admiral Aden Tanner has formally resigned his commission with the Federal Navy, mere weeks after a presidential pardon overturned his court martial.
+He had returned to naval service following an executive order from President Zachary Hudson. But this unexpected resignation means he is no longer a member of the military, although he retains the honorific of ‘admiral’.
+Admiral Tanner released a personal statement, which was published by The Federal Times:
+“I must begin by expressing my gratitude to President Hudson, and thank all those who supported my actions in the T Tauri system. History has proven that Salvation was willing to sacrifice millions of lives in his personal vendetta against the Thargoids, and we are suffering the after-effects of that obsession today.”
+“The Federal Navy was once my home, but my disillusionment has grown over recent years. Politics and commercial influences hold this great institution back from safeguarding the Federation to its fullest capability. Now that the Thargoid threat has reached such a colossal degree, I find such restrictions frustrating to a point that I would likely be a nuisance to my fellow admirals. I have too much respect for every person serving the navy to offer anything less than my best – that best is now prohibited by bureaucracy. Therefore I am stepping down for the benefit of all.”
+“As per the presidential pardon’s terms, I will continue developing anti-xeno strategies as an independent military specialist. I will liaise directly with Fleet Admiral Tayo Maikori to contribute to the navy’s war efforts, while also collaborating with other organisations down the line. I remain dedicated to saving lives and bringing this war to an end as soon as possible.”
+“To any Thargoids who may be listening: you haven’t seen the last of me yet.”</story>
+  </article>
+  <article>
+    <id>3a7330f7-993d-4c85-bf1c-c8b9032b9690</id>
+    <link>/galnet/uid/63d242e8f34b807bea2e18ba</link>
+    <title> Emperor Approves Aisling’s Plan for Aegis</title>
+    <date>31 JAN 3309</date>
+    <story>Princess Aisling Duval met with Emperor Arissa Lavigny-Duval in person to discuss an Imperial contribution to the reformation of Aegis.
+The Imperial Herald’s political journalist Cassia Carvalho reported on events:
+“Aisling Duval’s arrival at the Imperial Palace was completely unexpected, according to several dignitaries whose appointed meetings with the Emperor were abruptly cancelled. One senatorial aide described how the princess ‘burst into the throne room so suddenly that I’m surprised the Imperial Guard didn’t shoot her’.”
+“Despite visible irritation, Emperor Arissa acceded to Princess Aisling’s demand for urgent talks. The two royals held a private conversation behind closed doors for many hours. I heard claims of raised voices at one stage, but nobody was willing to go on record to confirm this.”
+“Eventually, Her Majesty call for the media to assemble, which we did eagerly. The Emperor made it clear that her decree to isolate from the other superpowers remained active. However, if Aegis were to be re-established, a limited number of scientists and naval vessels would be allocated to the anti-xeno agency. Princess Aisling would take ownership of the endeavour, and coordinate with both Imperial and foreign organisations.”
+“Senators and Imperial Navy officials were surprised by this exception to the Emperor’s policy. But political analysts remarked on the shrewdness of making Princess Aisling personally responsible for the proposed anti-xeno collaboration, thereby distancing the Emperor from any potential failures.”
+“Insiders claim that Princess Aisling has already requested members for her delegation including Senator Caspian Leopold, Vice Admiral Skylar Anderson  and xenological specialist Ivano Colombera. She has also tasked the Imperial Diplomatic Corps with re-opening diplomatic channels to the Alliance and Federation, specifically to share information about Alba Tesreau’s respective proposals for a reformed Aegis.”</story>
+  </article>
+  <article>
+    <id>da81304d-feb6-48c3-92dc-82545a521fb1</id>
+    <link>/galnet/uid/63daa075910c0125f016a764</link>
+    <title> Class 5 Experimental Weapons Stabiliser Released</title>
+    <date>01 FEB 3309</date>
+    <story>*Pilots’ Federation ALERT*
+Azimuth Biotech has commercially launched a new module that allows two additional AX weapons to be added to large ships.
+The experimental weapons stabiliser increases the number of AX weapons which can be installed on a ship. The class 3 variant released last week increases the limit to five, whereas the class 5 variant released yesterday increases it to six. 
+Both versions entered mass production following Azimuth Biotech’s highly successful resource drive in the LHS 1163 system. CEO Torben Rademaker issued a statement to accompany the product launch:
+“Our proprietary technology has bypassed the inherent design flaws of Aegis’s AX weaponry. The experimental weapons stabiliser will play a vital role in the ongoing defence of the core systems.”
+“I can only assume that the current chatter about reforming Aegis is due to misplaced nostalgia. How quickly people forget the Baumann Report, which laid bare the organisation’s inefficiency and incompetence. The logical path to victory is to employ the most accomplished anti-xeno specialists, such as those found here at Azimuth Biotech.”</story>
   </article>
 </GalnetArchive>
