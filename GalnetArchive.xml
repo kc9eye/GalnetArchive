@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <GalnetArchive>
-  <version>1.168</version>
+  <version>1.169</version>
   <article>
     <id>5ff5b9b37a37e</id>
     <link>
@@ -32623,5 +32623,60 @@ President Hudson delivered a short address to mark the occasion:
 Congressman Tom Gillespie has volunteered to coordinate the Federation’s involvement with any unified anti-xeno activities. Professor Shamus Madigan of Olympus Village University will continue to lead on xenological research. The Federal Navy has assigned Rear Admiral Daniel Parry to act as its military liaison, a reduced version of the role formerly occupied by Admiral Aden Tanner.
 Professor Alba Tesreau has publicly thanked the leaders of the Alliance, Empire and Federation for their “renewed faith in the ideals that Aegis represents”.
 </story>
+  </article>
+  <article>
+    <id>2a79fa56-f6e0-489d-b6b3-27e9ea335561</id>
+    <link>/galnet/uid/63e4c497959a4017d116c2dd</link>
+    <title> Aegis Returns</title>
+    <date>13 FEB 3309</date>
+    <story>The anti-xeno agency Aegis has been officially reformed by the Alliance, Empire and Federation.
+Aegis was initially founded in 3303 to centralise research into the Thargoids, as well as coordinate defence and rescue operations. It was disbanded in 3308 following accusations of incompetence in the wake of the Alexandria disaster and the subsequent findings of the Baumann Report. The recent escalation of the Thargoid War and calls for renewed collaboration between the superpowers have led to a reversal of that decision.
+Professor Alba Tesreau will serve as the head of the revived organisation. She provided details at a press conference:
+“Aegis remains humanity’s best hope of ending this calamitous war with the Thargoids. Its priority is to better understand the alien species through scientific research, and to utilise those findings to improve our defensive and weapon capabilities.”
+“Each superpower has appointed an individual to oversee its contributions: Deputy Prime Minister Angela Corcoran for the Alliance, Princess Aisling Duval for the Empire, and Congressman Tom Gillespie for the Federation. We have also invited many independent specialists to partner with Aegis, including Professor Ishmael Palin, Ram Tah and a previous key member of Aegis, Aden Tanner.”
+“Criticism from the Baumann Report has been taken on board. Our new organisational structure follows the streamlined approach used by the Affiliated Counter-Terrorism Unit to great success. To improve coordination, a limited application of Omega Grid networking will facilitate rapid and secure communications between key members.”
+“Aegis’s first research project is already underway. The engineer Petra Olmanova has approached us with preliminary designs for a method of allowing ships to survive longer within the Maelstroms’ corrosive clouds. We have assigned several metallurgy and chemistry experts to develop this further.”</story>
+  </article>
+  <article>
+    <id>4d38e53a-56ee-4190-ae17-6b3d25883142</id>
+    <link>/galnet/uid/63ee0326af89a75e68565e2c</link>
+    <title> Thargoids Devastate Witch Head Enclave</title>
+    <date>16 FEB 3309</date>
+    <story>*Pilots’ Federation ALERT*
+Populated systems in the Witch Head Nebula have been overrun by Thargoid fleets, resulting in widespread chaos.
+Thargoid vessels have directly targeted starports and planetary bases, leaving tens of thousands of casualties. With the nebula located hundreds of light years from the core systems, rescue services are struggling to aid the fleeing survivors.
+Vox Galactica published a fragmented message transmitted by the engineer Chloe Sedesi:
+“…emergency SOS from the Shenve system. The Thargoids… full-scale invasion. They’ve hit us hard. The… evacuated my team and abandoned Cinder Dock. We’re trying to get clear from… swarms of them, in every direction we turn. If anyone’s receiving this, we’re…”
+Captain Warren Lamar, head of security for the Alliance Expeditionary Pact, made this statement:
+“In recent years we’ve fought off several Thargoid strikes, but the sheer scale of these attacks is unprecedented. The Golden Stag megaship in Onoros has been destroyed, with most of our forces scattered. I’ve urgently requested reinforcements from the Alliance, but we are desperate for immediate support.”
+The Witch Head Enclave was established in 3305 following the discovery of barnacle sites, which were commercially exploited by the Alliance as sources of meta-alloys. Dr Maximo Fonseca and other leading xenologists believe that securing barnacle-rich systems is part of the Thargoids’ expansion strategy.</story>
+  </article>
+  <article>
+    <id>a9afaa64-7e2b-4922-beee-0c5b2414c771</id>
+    <link>/galnet/uid/63ee03268938e9055f44c707</link>
+    <title> Princess Aisling ‘Understood Risk of Speaking Out’</title>
+    <date>17 FEB 3309</date>
+    <story>Princess Aisling Duval has assumed oversight of the Empire’s contributions to the tri-superpower agency Aegis.
+She discussed her new role during an interview with The Imperial Herald:
+“Loathe though I was to defy the Emperor’s decree, every instinct told me that the Aegis initiative can develop methods of protecting the Empire from enormous losses in this war. I’m grateful that Arissa recognised the value of my plea.”
+“I’ve been liaising with Professor Alba Tesreau, as well as Dr Fonseca, Vice Admiral Anderson and the rest of my team. Our challenge is to make the most of the Imperial resources allocated to Aegis.”
+“It’s true that I was critical of Aegis’s effectiveness in the past, but I’ve always believed that cooperation with other superpowers can bring mutual benefits. The mass slaughter inflicted by the Thargoids eclipses the NMLA’s atrocities – a challenge we faced together. We must trust each other now as we did then.”
+The newsfeed also featured a response from Hadrian Augustus Duval:
+“It’s gratifying to see that Patreus and Torval aren’t as influential as they think they are. Yet that doesn’t mean Aisling is right. The Empire must not chain itself to the Alliance and Federation once again. The Emperor can be ruthless when it suits her, as I know only too well, but in this case she lacks the courage of her convictions.”
+Royal correspondent Gudrun Vestergaard observed:
+“This is a calculated move by Emperor Arissa Lavigny-Duval. If Aegis fails, her isolationist policy will be vindicated. If Aegis succeeds, she can claim credit for permitting this exception. The risk is whether the public would credit an Aegis-assisted victory over the Thargoids to the Princess. Such an outcome would increase Aisling’s popularity and political capital to a level Arissa is unlikely to tolerate for long.”</story>
+  </article>
+  <article>
+    <id>28c0929d-8e1d-4ffa-8a55-f8415937cb7d</id>
+    <link>/galnet/uid/63ee0327272baf2c36668577</link>
+    <title> Maelstrom Protection Technology Undergoes Testing</title>
+    <date>20 FEB 3309</date>
+    <story>Aegis has produced a prototype module that increases a ship’s ability to survive within caustic environments.
+Professor Alba Tesreau, head of the newly reformed agency, published this statement:
+“The blueprints provided by Petra Olmanova have been rapidly developed by Aegis’s newly acquired chemical engineers, metallurgists and ship technicians. Utilising their combined skills, they have constructed a working prototype.”
+“This new module functions along similar lines to a heatsink launcher. It is designed to channel the corrosive reaction experienced within a Thargoid Maelstrom to specific replaceable anodes prior to ejection, thereby extending a ship’s range and operating time. We hope this will allow more data to be acquired about these mysterious objects.”
+“Aden Tanner has volunteered to personally pilot the ship in the live tests taking place this week. Time is of the essence, since the humanitarian cost of the Thargoid invasions rises every day.”
+Rear Admiral Daniel Parry, the Federal Navy’s military liaison to Aegis, commented:
+“I’ve served under Admiral Tanner, and his involvement with these test flights doesn’t surprise me one bit. He takes pride is never sending personnel on assignments he wouldn’t undertake personally. But he’s also sending a message: Aegis will no longer rely so heavily on independent pilots risking their lives. While Commanders of the Pilots’ Federation are still our most adaptable and reliable field agents, Aegis will seek to work alongside them wherever possible.”</story>
   </article>
 </GalnetArchive>
