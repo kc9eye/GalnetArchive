@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <GalnetArchive>
-  <version>1.171</version>
+  <version>1.172</version>
   <article>
     <id>5ff5b9b37a37e</id>
     <link>
@@ -32746,5 +32746,46 @@ Dr Maximo Fonseca, head of xenological research at Gateway Laboratories, publish
 “The Thargoids have developed powerful defences to prevent their enemies reaching the heart of the Maelstroms. The dangerously caustic gas clouds are an effective deterrent, and have sadly claimed the lives of many intrepid pilots.”
 “So, the caustic sink launcher is an exciting breakthrough that will both save lives and facilitate vital data recovery. Now that ships can survive for longer within the clouds, the acquisition and study of tissue samples and caustic shards should increase. The next priority for Aegis is to study the massive energy surges that prevent access to the inner region of a Maelstrom.”
 Aegis has invited all pilots who took part in the delivery initiative to collect their rewards from the Orunmilla in the Duamta system.</story>
+  </article>
+  <article>
+    <id>78c1a964-2e99-4953-a66e-36320370134e</id>
+    <link>/galnet/uid/6400bf3349c1ec1ab128d939</link>
+    <title> Marlinists Facing ‘Increasingly Grave’ Future</title>
+    <date>06 MAR 3309</date>
+    <story>The Marlinist Colonies are struggling to survive the harsh realities of independence while preparing for the impact of the Thargoid war.
+An editorial in The Marlin Standard summarised their situation:
+“In recent months, our noble goal of building a Marlinist Republic has been harshly curtailed. Many of the original eight colony systems, among them the capital Concordia, are now dominated by outsiders including Federal and Sirius-aligned corporations. We have survived persecution, civil war and terrorism, only to find our people exploited by the opportunism of neighbouring factions.”
+In the Empire, the prevalent viewpoint is that the Marlinists are suffering the consequences of their own actions. As Senator Arturo Durant remarked: “They voted to reject the Emperor’s offer to become an Imperial protectorate, so now they must pay the price.”
+Compounding this is the increasing danger posed by the Thargoids as their fleets penetrate deeper into the core systems. The Citizens’ Chronicle newsfeed has published concerned messages from some Imperial citizens for their Marlinist cousins. One viral commenter proclaimed: “The colonists aren’t enemies! They were once our loved ones, our friends and family, driven away for their political beliefs. How can we turn our backs on them?”
+The Marlinist Parliament has signalled a willingness to contribute to Aegis, but its priority is to establish control over its chartered systems. First Minister Octavia Volkov has admitted: “Without a dedicated military to achieve this, our future prospects look increasingly grave.”
+The Marlinists’ situation is mirrored elsewhere, as noted by war reporter Ernesto Rios for Vox Galactica:
+“Vulnerability to Thargoid attack is a universal concern among independent systems. Many non-superpower factions are banding together in small clusters to cooperate on anti-xeno operations and share resources. A spirit of camaraderie has arisen in the face of annihilation. But will that be enough against the overwhelming might of the Thargoids?”</story>
+  </article>
+  <article>
+    <id>c65c645d-1a87-41e3-8d29-e9f437790bc4</id>
+    <link>/galnet/uid/6400bf3feb3ba14bb72b5d96</link>
+    <title> Alliance Sends Warning to Kumo Crew</title>
+    <date>07 MAR 3309</date>
+    <story>Recent activities by the Kumo Crew syndicate in the California Nebula have been formally condemned by the Alliance.
+Councillor Jed Trager  supervised an investigation into the Kumo Council’s attempt to take control of several systems, ostensibly to defend them against a wave of Thargoid attacks. He summarised its findings during a session of the Assembly:
+“Intelligence provided by Alliance Interpol agents proves that the underlying objective of the Kumo Crew’s anti-xeno militia was to dominate the California Nebula. The syndicate had gathered ships and infiltrated civil institutions weeks earlier, using bribery and coercion to pave the way for their takeover.”
+“Further Thargoid attacks in the region were seen as inevitable, based on past behaviour and the prevalence of barnacle sites. When they occurred the Kumo Crew mobilised their pre-prepared forces, overthrowing local authorities under the pretence of ‘emergency security measures’.”
+“Our investigation has concluded that this was a brazen act of aggression against Allied factions. The Kumo Crew illegally attempted to hijack the Alliance’s assets and impose direct rule over our colonies.”
+Prime Minister Edmund Mahon delivered a public statement:
+“The Kumo Council’s opportunistic attempt to profit from the horrors of a Thargoid invasion is a truly despicable act. But it has not gone unnoticed that they have suffered setbacks in Haithis, Kolabinates and Saontiana since this misguided effort to disrupt Allied operations. I am grateful to the communities within the California Nebula, and to those independents who aided them, for resisting these criminals.”
+“My message to Archon Delaine is this: The Alliance is watching you.”</story>
+  </article>
+  <article>
+    <id>4ca09d63-8b02-4d70-8460-614dedc9a140</id>
+    <link>/galnet/uid/6408b165f2c4c53a23250189</link>
+    <title> Archon Delaine Counters Mahon’s Rebuke</title>
+    <date>09 MAR 3309</date>
+    <story>Archon Delaine has rejected Prime Minister Mahon’s warning over an alleged attempt to gain control of systems in the California Nebula.
+“Wake up, Old Man Mahon!” Delaine said in a public broadcast. “The Kumo Crew migrated into the nebula with help from some mutual friends of ours… people you now consider allies. You like to portray us as criminals lusting for power and influence, but the real crooks are much closer to home. Rather than watching us, you should try looking over your shoulder.”
+Independent journalist Flint ‘Firemaker’ Lafosse published his observations via the Rewired network:
+“Watching two of Sirius Corporation’s business partners openly fight like this must be making Li Yong Rui cringe as much as his poker face allows. What’s that? You never heard of the most powerful megacorp in history dealing with pirates? Surely not!”
+“Delaine is clearly referring to 3307, when he somehow convinced Kavanagh Spaceframes to build him five Orbis stations. One of these, California Freeport in HIP 18390, planted the Kumo flag in the nebula and served as the base for the gang’s recent attempt to seize Allied assets there.”
+“It was never revealed how the syndicate funded the construction of the starports. Or why Sirius Corporation subsidiaries appeared in those systems around the same time. But you don’t have to hire the Wallglass Agency to find a connection there.”
+“Oh and by the way, Kavanagh Spaceframes was renamed Rackham Spaceframes following its purchase by Rackham Capital Investments last year. What’s that? The trillionaire and the pirates working together as well? Surely not!”</story>
   </article>
 </GalnetArchive>
