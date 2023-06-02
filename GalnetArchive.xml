@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <GalnetArchive>
-  <version>1.178</version>
+  <version>1.179</version>
   <article>
     <id>5ff5b9b37a37e</id>
     <link>
@@ -33251,5 +33251,44 @@ Dr Maximo Fonseca, the Allied scientific liaison to Aegis, outlined the initiati
 “In response, Aegis has fast-tracked a project to modify the xeno scanner originally developed by Professor Ishmael Palin. This adaption utilises the electromagnetic technology found in pulse wave analysers, casting the scanner’s range over a much broader area.”
 “Simulated tests show that the pulse wave xeno scanner should be able to identify points of interest on a Titan’s hull. But the research effort requires as many pilots as possible to verify our findings out in the field. We are therefore gathering the supplies needed to manufacture the module in large quantities.”
 Aegis will reward pilots who transport shipments of ceramic composites, polymers, gallium and indium to Muller Terminal in the Rabh system. These will be used to establish manufacturing centres for pulse wave xeno scanners, which will then be rapidly distributed to all rescue megaships. A secondary campaign will reward pilots for protecting deliveries from pirates.</story>
+  </article>
+  <article>
+    <id>9666ebd4-d735-4083-a2cd-89403aa8a7f0</id>
+    <link>/galnet/uid/646f1d738c5187172a5010ec</link>
+    <title> Thargoid War Update: May 3309</title>
+    <date>29 MAY 3309</date>
+    <story>Vox Galactica’s Jade Sanderlyn reports on the discovery of the Titans, and new Thargoid craft both in space and on occupied worlds.
+“The true scale of the challenge facing humanity became evident this month, when we finally learned what was within the Maelstroms. It has long been theorised that the Thargoids have ‘motherships’ of some kind. But few were prepared for the shocking reality of the Titans, squatting at the centre of the corrosive clouds like bloated spiders in their webs. I can’t be the only one whose guts knotted with fear when I first saw those floating monstrosities.”
+“The Maelstroms also revealed a new type of Thargoid vessel, the aggressive Glaive-class hunter. Resembling multi-bladed throwing knives, these quickly drew blood as they hurled viciously into our midst. There are reports of Glaives sighted within systems that have fallen to the Thargoid invasion fleets, interdicting any ship that crosses their path.”
+“Further surprises were to come within those systems, when ground troops became stalked by heavily armed drones. The Revenants, as they have been named, seem to be actively defending abandoned settlements from human intruders. Again, this contributes to the impression that the Thargoids desire a permanent presence on our worlds.”
+“On a positive note, Aegis’s forthcoming pulse wave xeno scanner should prove instrumental in gathering data about the Titans. A well-received public address by Professor Alba Tesreau cemented the significance of Aegis in the war, despite Azimuth Biotech’s CEO Torben Rademaker somewhat predictably criticising it as ‘self-congratulatory hot air’.”
+“With such technological breakthroughs and fierce resistance on the front line, there’s a long way to go before the Thargoids can lay claim to the core systems. This is Jade Sanderlyn for Vox Galactica. Stay safe out there.”</story>
+  </article>
+  <article>
+    <id>f2f1cb45-06df-446a-8911-2649009447ea</id>
+    <link>/galnet/uid/646f1d9250ddc80830327ec0</link>
+    <title> Hadrian Duval Remarks on ‘Weak Emperor’</title>
+    <date>30 MAY 3309</date>
+    <story>An interview with Hadrian Augustus Duval has caused ripples in Imperial society for his direct criticism of Emperor Arissa Lavigny-Duval.
+Speaking to Paresa News Network, the former Nova Imperium leader discussed the Empire’s commitment to Aegis:
+“I have always known that the Empire is stronger alone, especially when protecting our people from the Thargoid hordes. Supposedly, Emperor Arissa felt the same – until a visit from Princess Aisling turned her head. Suddenly her principles were cast aside, and our valuable resources pledged to more foreign military projects.”
+“I can only wonder when the Emperor became so easily swayed. Was it during her year in captivity? Did all that time in suspended animation drain her resolve? We cannot afford to allow the Empire to be governed by someone with a weak spirit. Our citizens deserve a strong, determined ruler.”
+Gudrun Vestergaard, royal correspondent for The Imperial Herald, commented:
+“The anticipated friction between the Duval cousins has now become a reality. Hadrian clearly took great offence at how swiftly Aisling engineered an exception to the Empire’s isolationist policies. But openly denigrating Her Majesty is a dangerous game, especially from the young revolutionary who once attempted to usurp her throne.”
+“Meanwhile, Princess Aisling has thrown herself into the role of overseeing the Imperial contribution to Aegis. Court insiders claim that she spends much of her time with military experts, absorbing information about the Thargoid conflict. Regularly communications with her opposite numbers in the Alliance and Federation have become part of the daily routine. Some still see this as a high-profile PR exercise on her part, but others wonder if Aisling might become the wartime leader the Empire needs. Skeptics who believe she lacks the strategic talents necessary to succeed may yet find themselves surprised by her apparent enthusiasm for Aegis’s work.”</story>
+  </article>
+  <article>
+    <id>1cca2efd-bbda-47a1-8284-df401b04dbde</id>
+    <link>/galnet/uid/6478564455e5f80c143edab9</link>
+    <title> Pulse Wave Xeno Scanner Now Available</title>
+    <date>01 JUN 3309</date>
+    <story>*Pilots’ Federation ALERT*
+An initiative in Rabh has enabled Aegis to begin manufacturing a module that gathers data about the Titans.
+Deliveries of ceramic composites, polymers, gallium and indium were immediately put to use mass-producing the pulse wave xeno scanner. Distribution is underway and rescue ships have already begun stocking the module.
+Professor Alba Tesreau, head of Aegis, released a statement:
+“The Thargoid Titans represent not only the greatest threat to humanity, but also the greatest scientific opportunity in a generation. Learning more about these enormous constructs could be crucial to our understanding of the Thargoid species, which I still believe is the only path to ending the war.”
+“A coalition of Allied, Federal and Imperial technicians worked around the clock to modify Professor Palin’s xeno scanner using pulse wave technology. Thanks to the dedication of independent pilots in providing resources, the new module has been made available in excellent time.”
+“Aegis has a keen interest in all information that can be gleaned about the Titans. I sincerely hope that the data we acquire will add to our scant knowledge about the Thargoids and lead to further discoveries.”
+Rewards are now available at Muller Terminal in the Rabh system for all those who transported supplies for this project.</story>
   </article>
 </GalnetArchive>
