@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <GalnetArchive>
-  <version>1.186</version>
+  <version>1.187</version>
   <article>
     <id>5ff5b9b37a37e</id>
     <link>
@@ -33576,5 +33576,20 @@ Executive Agent Jalen Locke of the Federal Intelligence Agency told the media:
 “These are little more than unsubstantiated rumours, of course, and not something I would usually include in a factual report. But we know so little about the Thargoids that even circumstantial changes in their behaviour might be significant. And I can’t be the only one who finds such tales chilling.”
 “Otherwise, the most significant news this month was Azimuth Biotech’s corporate convention and the launch of its AX module redesign. Aegis clearly has the lead in both public sentiment and government support at this time, but it seems like Azimuth has no intention of ceasing its contributions to the war effort anytime soon.”
 “This is Jade Sanderlyn for Vox Galactica. Stay safe out there.”</story>
+  </article>
+  <article>
+    <id>9f4585cd-f34e-41e7-aa37-2c838dbb54c6</id>
+    <link>/galnet/uid/64c91f2b9961f4a4750444c7</link>
+    <title> The Fate of the Dedicant</title>
+    <date>03 AUG 3309</date>
+    <story>*Pilots’ Federation ALERT*
+The lost megaship Dedicant has been located in HIP 19600, with signs of Thargoid attack and all inhabitants missing. 
+The Dedicant was being prepared by Federal authorities to deport imprisoned members of the Order of the Far God when it unexpectedly jumped into hyperspace. Pilots who helped decipher its fragmented distress call were informed of the recent discovery by the Imperial Navy.
+Executive Agent Jalen Locke of the Federal Intelligence Agency issued a statement:
+“We can confirm that the Dedicant has been discovered adrift in the HIP 19600 system. There is evidence that the Thargoids penetrated the hull in multiple locations, and thousands of escape pods were launched. Unusually, there are no bodies onboard and we have not been able to locate any of the escape pods. The whereabouts of all three FIA security teams and over 8,000 Far God cultists cannot be determined.”
+“A series of personal logs, portraying some harrowing experiences, are helping us to piece together what happened during the Dedicant’s disappearance. We are liaising with military intelligence to learn more.”
+In related news, Aegis made an announcement on all public channels:
+“Independent observers have detected a new type of Thargoid vessel operating within the Maelstroms. Little is known of their capabilities as yet. They have been provisionally classified as a ‘hunter’ due to their size, which is similar to the Glaive.”
+“Aegis has only corroborated sightings of these ships in close proximity to the Thargoid Titans. However, we have received reports that they may be active elsewhere. Pilots are advised to exercise maximum caution if they encounter these vessels.”</story>
   </article>
 </GalnetArchive>
