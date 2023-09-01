@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <GalnetArchive>
-  <version>1.191</version>
+  <version>1.192</version>
   <article>
     <id>5ff5b9b37a37e</id>
     <link>
@@ -33751,5 +33751,18 @@ In response, The Federal Times published a personal article by Bryanna Blanco:
 “Several pilots told me that this is still normal Thargoid behaviour near some of our populated nebula colonies. But xeno-peace activists feel that this discovery presents an opportunity. The Holloway Bioscience Institute is already planning an independent research expedition to the area. We’ll be watching what happens there very closely.”
 “This is Jade Sanderlyn for Vox Galactica. Now more than ever, stay safe out there.”
 </story>
+  </article>
+  <article>
+    <id>a4185c18-5c9c-4c9e-97c2-29fe43297e03</id>
+    <link>/galnet/uid/64f0b5208fde58eb8b04ff16</link>
+    <title> Human Presence Causes Thargoid Withdrawal</title>
+    <date>31 AUG 3309</date>
+    <story>The Thargoids have unexpectedly abandoned the region around Wregoe BU-Y b2-0, mere days after being discovered.
+They were believed to be present due to an ancient site on the planet Wregoe BU-Y b2-0 1 c, which hosted a conflict between Guardian and Thargoid forces millions of years ago. Aegis has confirmed reports that all Thargoids have now disappeared from that area of space. Aden Tanner delivered a summary:
+“Our pilots can no longer detect a single Thargoid ship anywhere in that region. In military terms, they have undertaken a full tactical withdrawal. It usually requires overwhelming firepower to drive out Thargoid forces, especially from multiple systems. In this case, there was no fleet action or anti-xeno operation sufficiently large to cause this response.”
+Dr Jeong-Hui Shin of the Holloway Bioscience Institute observed:
+“This is atypical behaviour for the Thargoid species. Their territorial instincts are usually aggravated by the arrival of humans, as witnessed in several of the nebula colonies. It is unprecedented for them to avoid engaging us in battle. We can only theorise that their purpose for being in this region was interrupted, perhaps even invalidated, by our presence.”
+Dev Venkatesh, a prominent xeno-peace advocate and former lecturer at Orion University, told Vox Galactica:
+“Frankly, this is a disappointing development. Here was a chance to observe this intelligent race in a non-combat environment, but it’s clear that our ships disrupted the Thargoids’ plans. I find it encouraging, however, that they chose to simply retreat instead of fight. We must hope that a similar opportunity will one day present itself, and perhaps we can approach it with greater caution.”</story>
   </article>
 </GalnetArchive>
