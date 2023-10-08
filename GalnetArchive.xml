@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <GalnetArchive>
-  <version>1.195</version>
+  <version>1.196</version>
   <article>
     <id>5ff5b9b37a37e</id>
     <link>
@@ -33954,5 +33954,48 @@ Gudrun Vestergaard, royal correspondent for The Imperial Herald, analysed the si
 “This is a delicate subject, but one of enormous importance. The Imperial Mother’s recent illness has brought into focus the passing of the torch through each generation of Duvals. Every Emperor of the last thousand years has had one or more children. The public has a certain expectation that an Emperor will produce healthy heirs to continue the Duval line, and each new birth is proudly celebrated across the Empire.”
 “However, there has never been any indication that Arissa has a partner, or entertains marriage prospects of any kind. Princess Aisling Duval’s romantic liaisons – including, famously, a Federal ambassador – took the media spotlight for years. Hadrian Duval is married with a baby son, and others such as Archduke Otto Lombardo-Duval have multiple offspring. But Her Majesty seems content to rule alone.”
 “Senator Courcelle has raised a valid question: how long can this continue? And if Arissa remains childless, who will be the next Emperor?”</story>
+  </article>
+  <article>
+    <id>b5ca9761-fb42-4dfe-8a3c-fc19b73a34f2</id>
+    <link>/galnet/uid/651d8401b00afd2c10031467</link>
+    <title> Celebrations in Sol for Federal Election</title>
+    <date>05 OCT 3309</date>
+    <story>*Pilots’ Federation ALERT*
+A series of public events to celebrate the forthcoming presidential election are being held in the Sol system.
+Congress approved a request by President Zachary Hudson to finance a range of festivities, concerts and shows across the home system of the Federation.
+Billions of people are expected to attend, leading to a request for supplies of Crystalline Spheres, Gerasian Gueuze Beer, Indi Bourbon, LTT Hyper Sweet and Pantaa Prayer Sticks to be delivered to Li Qing Jao starport in orbit over planet Earth. Congress also agreed to authorise a temporary two-week permit for all Pilots’ Federation members to access the Sol system.
+President Hudson announced the events across all Federal news channels, where he said:
+“Now we approach the time, as determined centuries ago by the Federal Accord, of our civilisation’s most profound tradition: the peaceful transfer of power. I have been deeply honoured to serve as your president for the past eight years. And you, the people of the galaxy’s largest ever democracy, deserve to celebrate all that we have accomplished together.”
+Vox Galactica’s political journalist Conrad Sterling observed:
+“This is clearly a high-profile attempt to boost public morale, one that allows President Hudson to leave office on a positive note. Political critics are viewing it as a way to distract the citizens from the prolonged Thargoid war, the recent Rackham scandal, and various other challenges besetting the Federation. But the eagerness of most citizens to embrace the sentiment proves one fact remains true: everyone loves a party.”
+Voting will open next Thursday for Federal citizens to choose either Vice President Jerome Archer or Shadow President Felicia Winters as their next president. The election winner will be announced at the start of the following week.</story>
+  </article>
+  <article>
+    <id>4fec8d40-02bb-4a92-aea7-493b2fe52207</id>
+    <link>/galnet/uid/65143603bb546666f0044d47</link>
+    <title> Aegis Produces Sub-Surface Extraction Missiles</title>
+    <date>05 OCT 3309</date>
+    <story>*Pilots’ Federation ALERT*
+Rescue megaships now stock Aegis’s modified mining tool, designed to extract bio-storage capsules from Thargoid Titans.
+The sub-surface extraction missiles went into rapid production following a delivery initiative in the Senlu system. Aegis has confirmed that pilots who transported CMM composites, neofabric insulation and osmium to Springer Gateway can now collect their rewards. Bounty vouchers for all wanted ships destroyed during the past week will also be redeemed at the same location.
+Aden Tanner discussed tactics for using the new module:
+“These specialised devices are designed to be used alongside the pulse wave xeno scanner, which can now pinpoint human life signs beneath the hull of a Titan. If accurately targeted, an extraction missile should penetrate far enough into the outer hull to jettison the pod-like structures containing captives. Assuming the extraction is successful, these capsules can then be taken onboard via cargo scoop.”
+“All pilots who achieve this should deliver recovered capsules to the nearest search and rescue contact. Aegis has provided instructions to medical and military teams standing by at these locations. These personnel will place capsules into high-security quarantine before attempting to revive the occupants.”
+“Once again, I remind pilots to outfit their ships to deal with the Maelstroms’ caustic effects, defensive barriers and Thargoid patrols. Deploying the extraction missiles might also trigger counterattacks from the Titans themselves. These are perhaps the most dangerous rescue missions ever attempted. But I am confident that we can bring many of our people home.”
+The first wave of ships equipped with sub-surface extraction missiles are already making their initial forays into the Maelstroms.</story>
+  </article>
+  <article>
+    <id>972dadb5-38a5-4fa4-b55f-ab4aef5dd70d</id>
+    <link>/galnet/uid/651d84027820350c9003c585</link>
+    <title> Scientists Study Thargoid Barnacle Matrix Sites</title>
+    <date>06 OCT 3309</date>
+    <story>Aegis xenologists are focusing their efforts on the mysterious alien growths reported on multiple planets and moons in the Trianguli sector.
+These have been designated ‘Thargoid barnacle matrix sites’, due to their resemblance to the barnacles that produce meta-alloys, but are far greater in size and complexity. 
+Commander Yoselin Aquino  described visiting one of these sites to Vox Galactica:
+“This wasn’t an easy place to explore, since I had to avoid Revenant drones and the occasional Thargoid scout. Once I did get up close, I found it unsettling as all hell. Each barnacle clump was a mound-like structure over a kilometre across, with several rounded peaks. Spaced around these were weird coral trees, which squeeze out a caustic sap-like stuff and dropped bizarre-looking ‘fruits.”
+“What really made me nervous were the spear roots in the middle of the site. They’re made of some toughened substance in a sort of segmented spike, like gigantic skeletal fingers reaching up through the ground. If you ask me, these things are alive in some way. The noises my audio converter picked up made me feel like they were moving, closing around me to drag me down.”
+Professor Shamus Madigan, Federal scientific liaison to Aegis, published a project update:
+“Barnacle matrix sites emit a significant amount of electromagnetic interference which, coupled with aggressive Thargoid defenders, has prevented a detailed underground analysis. However, Aegis is now devoting extra resources to investigate why these organic structures exist.”
+“I can report that geological sensors have detected vibrations resulting from sub-surface activity, with occasional quakes rippling across the ground. This suggests that violent chemical or physical processes are taking place internally. The prevailing theory is that these sites are still not completely formed, but we cannot yet determine their nature or purpose.”</story>
   </article>
 </GalnetArchive>
