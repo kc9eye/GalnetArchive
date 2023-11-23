@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <GalnetArchive>
-  <version>1.199</version>
+  <version>1.200</version>
   <article>
     <id>5ff5b9b37a37e</id>
     <link>
@@ -34266,5 +34266,19 @@ From the press suite on Curbeam Hub starport, Ms Torval gave an announcement fro
 “A Torval Mining Ltd mining laser will also be awarded to those pilots who make a concerted effort to support our endeavours.”
 Anton Lagorio, business correspondent for The Imperial Herald, reported:
 “This announcement confirms rumours that Constantia Torval had been allowed to take the reins in managing the family company. Under her guidance, Torval Mining Ltd has expanded its sphere of operations and obtained many lucrative new contracts. Whereas Zemina Torval’s policy was to manage as much as possible in-house, her daughter seems keen to build corporate relationships with subsidiaries within the Empire.”</story>
+  </article>
+  <article>
+    <id>ef4d11c6-eb3c-45e1-818b-74ff3adda1bc</id>
+    <link>/galnet/uid/6554fe5ee7f64c92930d3754</link>
+    <title> Alliance Reviews Sirius Defence Pact</title>
+    <date>20 NOV 3309</date>
+    <story>The Alliance Assembly has approved a formal evaluation of its strategic defence pact with Sirius Corporation.
+The vote to launch an independent inquiry was led by Councillor Nakato Kaine, who summarised:
+“This partnership has been in effect for nearly two years. What tangible military support have we seen? Sirius Corporation has done little to protect Allied populations from attack or abduction. The capital ships promised to the Alliance Defence Force remain on the drawing board. The Sirius Navy isn’t even engaging the Thargoid fleets on the front line of this war. How much longer must we endure Li Yong-Rui’s empty promises?”
+Admiral Nikolas Glass, the megacorp’s representative on the Council of Admirals, disputed these claims:
+“In truth, an enormous amount of work is taking place behind the scenes. Sirius technicians have retrofitted many ageing ADF ships with modern weaponry and internal systems. We’ve invested significantly in new AX modules, such as the anti-xeno missile rack and pre-engineered heatsink. And our blueprints formed the basis for Aegis’s sub-surface extraction missile, which has helped rescue so many from the Titans.”
+An editorial piece in the Old Worlds Gazette speculated:
+“The strategic defence pact has led to some successes, such as the Operation Tyndareus taskforce that repulsed a Thargoid incursion in Allied territory. But that was over a year ago, and the vision of a Sirius-backed Alliance Navy to rival the Empire or Federation has not materialised.”
+“As displeasure grows in the Assembly, the option to renegotiate the pact has been raised alongside Councillor Kaine’s proposal to terminate it entirely. Prime Minister Mahon faces political pressure to abandon his commitment to Sirius Corporation, especially now that a reformed Aegis is leading anti-xeno technology development.”</story>
   </article>
 </GalnetArchive>
