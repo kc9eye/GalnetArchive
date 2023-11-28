@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <GalnetArchive>
-  <version>1.200</version>
+  <version>1.202</version>
   <article>
     <id>5ff5b9b37a37e</id>
     <link>
@@ -34280,5 +34280,46 @@ Admiral Nikolas Glass, the megacorp’s representative on the Council of Admiral
 An editorial piece in the Old Worlds Gazette speculated:
 “The strategic defence pact has led to some successes, such as the Operation Tyndareus taskforce that repulsed a Thargoid incursion in Allied territory. But that was over a year ago, and the vision of a Sirius-backed Alliance Navy to rival the Empire or Federation has not materialised.”
 “As displeasure grows in the Assembly, the option to renegotiate the pact has been raised alongside Councillor Kaine’s proposal to terminate it entirely. Prime Minister Mahon faces political pressure to abandon his commitment to Sirius Corporation, especially now that a reformed Aegis is leading anti-xeno technology development.”</story>
+  </article>
+  <article>
+    <id>16a8b928-bc64-42d5-9ae0-9db6816d1657</id>
+    <link>/galnet/uid/6554fe8c436f86e7020bcf3b</link>
+    <title> Mining Campaign in LHS 3872 Concludes</title>
+    <date>23 NOV 3309</date>
+    <story>*Pilots’ Federation ALERT*
+Torval Mining Ltd has announced that sufficient quantities of mined resources were delivered to its subsidiary faction.
+The Aristocrats of Cuacocha, who control the LHS 3872 system, received the shipments of mined lithium hydroxide, painite, praseodymium and tritium. They have confirmed that all participating pilots can now collect their rewards at Curbeam Hub.
+Constantia Torval, the corporation’s recently appointed CEO, gave a statement:
+“With this successful event, Torval Mining Ltd advances toward even greater prestige and profitability. I offer sincere thanks to our partners and contributors.”
+The campaign’s background was discussed by Gwendolyn Nash, Empire correspondent for Vox Galactica:
+“Senator Zemina Torval handing Torval Mining Ltd to her oldest daughter is the latest of several curious developments in recent years. She established the company by branching out from Mastopolos Mining, severing connections with more distant family members. She also transferred many investments to her other daughter Petra Torval, who is also a senator, and grandson Titus Torval, an Imperial Intelligence captain.”
+“Coupled with the fact that she has missed several Senate meetings recently, speculation is rife that the 132-year-old has entered the twilight of her corporate and political careers. But as even her sternest opponents would attest, it is never wise to underestimate Zemina Torval’s willpower.”</story>
+  </article>
+  <article>
+    <id>a1b3e73c-b2d8-4fc4-b3ce-6451d0fdc463</id>
+    <link>/galnet/uid/655dcca5bab5c886080ade4f</link>
+    <title> Azimuth Biotech: ‘We Can Serve Alliance’</title>
+    <date>24 NOV 3309</date>
+    <story>Azimuth Biotech has suggested that it can replace Sirius Corporation as the Alliance’s anti-xeno military partner.
+The move follows the Alliance Assembly’s decision to reevaluate its strategic xeno defence pact with Sirius, amid concerns that the megacorp has not sufficiently protected Allied systems from the Thargoids.
+CEO Torben Rademaker offered the following statement during a recent shareholder presentation:
+“Azimuth Biotech is – and always has been – the only corporation to specialise in anti-xeno weapons tech. Sirius Corporation, once the trend-setter in so many fields, has become complacent and is now best described as a household goods manufacturer with delusions of grandeur. Aegis is a loosely connected gang of publicity-seekers playing war games with technology developed by uncredited researchers. But Azimuth specialists have been diligently researching the Thargoid species ever since we made first contact with them two centuries ago.”
+“We can supply the Alliance Defence Force with weaponry and defensive technology guaranteed to be a match for anything in the Thargoids’ arsenal. I’m prepared to meet with Prime Minister Mahon personally to work out the details of our proposal.”
+The Alliance Assembly has not yet formally responded, but Councillor Hildegard Dressler said: “Our vulnerability to Thargoid attacks means Azimuth should be seriously considered to reinforce our security.” Councillor Ainsley Niven took the opposite view: “There will be mass uprisings if we collaborate with the most notoriously immoral company in history, one soaked in the blood that Salvation spilled in his pursuit of greatness.”
+Leon Banerjee, science correspondent for Vox Galactica, observed:
+“It’s worth noting what Azimuth is not offering the Alliance: the anti-xeno superweapons that once cleared entire systems of Thargoids. Resurrecting Proteus Wave technology after HIP 22460 would cause a public outcry, but that wouldn’t greatly concern Rademaker. Therefore, we can deduce that Azimuth’s ability to weaponise Guardian artefacts died along with Salvation, leaving the corporation struggling for relevancy following his death.”</story>
+  </article>
+  <article>
+    <id>dfa99593-e479-44af-affa-a31cb059c6af</id>
+    <link>/galnet/uid/655dccc8a810b7fbd60375c3</link>
+    <title> Thargoid War Update: November 3309</title>
+    <date>28 NOV 3309</date>
+    <story>Renowned war correspondent Jade Sanderlyn provides her regular summary of the latest news regarding the Thargoid conflict.
+“It is now a whole year since the Thargoid Titans arrived and unleashed their fleets upon us. It’s pleasing to report that humanity’s resistance remains strong. New invasions are rare, and Thargoid vessels are being driven out of occupied systems. Nobody is under any illusions that this war might end soon, and it remains to be seen how the Thargoids adapt to the current situation. But among independent pilots and anti-xeno squadrons, morale is high – as it absolutely deserves to be.”
+“The Thargoid spire sites have also brought cause for cautious optimism. Having received huge volumes of samples for testing, Ishmael Palin proved that spire compounds and Titan hull fragments share genetic commonalities. Whatever these eerie alien growths are, evidence is growing that their industrial processes are related to the Thargoid motherships in some way.”
+“Professor Palin has now concocted a biological impurity, which should disrupt the spires’ biochemistry when inserted into their processing chain. Many pilots are signing up to undertake missions to deliver this contaminant, despite the inevitability that some volunteers will not return. It’s too soon to determine whether or not this will impact the Thargoid war machine, but hopes are high.”
+“Meanwhile, the many thousands of people rescued from captivity within the Titans remain in strict quarantine. Debate continues over how quickly they should be returned to society, but so far nobody seems to be taking any chances.”
+“That could change following Felicia Winters’ victory in the Federal presidential election. Via my political colleagues, I’ve heard that the president-elect plans to send home all returnees with Federation citizenship when her term of office begins next year. So we might soon score the greatest of victories: allowing those who were so cruelly abducted to return to their normal lives.”
+“This is Jade Sanderlyn reporting for Vox Galactica. Stay safe out there.”</story>
   </article>
 </GalnetArchive>
