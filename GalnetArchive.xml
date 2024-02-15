@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <GalnetArchive>
-  <version>1.213</version>
+  <version>1.214</version>
   <article>
     <id>5ff5b9b37a37e</id>
     <link>
@@ -34584,5 +34584,33 @@ Professor Alba Tesreau, head of Aegis, explained more at a press conference:
 “I am well aware that obtaining these substances from the Thargoid spire sites has doubtless cost lives. But the importance of this work cannot be overstated. Without resistance to the Maelstroms’ electromagnetic fields, the weapon based on Ram Tah’s theory is doomed to failure.”
 “The Alliance, Empire and Federation have all agreed to redirect the majority of Aegis funding to the anti-Titan project. We have also drafted in extra help to construct prototypes and fast-track testing procedures. Although details remain classified, if the results continue to be positive, we may be able to go public in as little as a week.”
 Aegis has confirmed that all those who contributed to this initiative can now collect their rewards from Austen Town Station in the Arque system.</story>
+  </article>
+  <article>
+    <id>2679d944-1462-40f3-8364-67ebeb962126</id>
+    <link>/galnet/uid/65cb4f4d67b93ce8570f49d8</link>
+    <title> Catastrophic Earthquakes Strike Rhea 3</title>
+    <date>13 FEB 3310</date>
+    <story>A series of high-magnitude earthquakes on the planet Rhea 3 have caused widespread devastation and millions of casualties.
+Massive seismic activity across the northern continent has effectively shattered dozens of towns and cities, including the capital New Greenacre. The intense tremors also triggered tsunamis in the surrounding oceans, which have wrecked coastal regions on other land masses.
+Local journalist Len Kennelly  published a summary for Vox Galactica: 
+“The only disaster on this scale that we’ve seen in Rhea was when NMLA terrorists bombed Ito Orbital. This time, however, the death toll could run into tens of millions. Urban skylines have crumbled like sandcastles, with vast jagged pits opening up to swallow entire neighbourhoods.”
+“Federal Liberal Command has declared the highest state of emergency, calling for volunteers to help rescue trapped citizens. We’re seeing direct support from other factions in the system, and Federal Navy specialists are coordinating relief efforts. The humanitarian organisation Safeguard Interstellar is also here in force, providing supplies and temporary shelters for survivors.”
+Sofia Trevino, political correspondent for The Federal Times, reported:
+“As soon as this news broke, President-elect Felicia Winters – a native of Rhea 3 and the system’s representative in Congress – immediately cancelled her schedule and travelled to her homeworld. Unverified reports claim that contact has been lost with members of her family, most of whom lived in the capital.”
+“Speculation has already begun that this might cause further delays to the beginning of Winters’s term of office. Vice President-elect Isolde Rochester made a statement asking for patience, claiming: ‘Our focus right now should be on aiding those affected by this tragedy.’”</story>
+  </article>
+  <article>
+    <id>ee2e0aed-0104-4b6b-8036-7df86f8fa223</id>
+    <link>/galnet/uid/65cc8263badb1095910575d3</link>
+    <title> Guardian Nanite Torpedoes Enter Production</title>
+    <date>15 FEB 3310</date>
+    <story>*Pilots’ Federation ALERT*
+Deliveries are urgently needed to begin manufacturing a new weapon capable of causing severe damage to Thargoid Titans.
+Professor Ishmael Palin has been leading on the project, using theories developed by Ram Tah. Aegis released an official statement on all newsfeeds:
+“We can now reveal the results of Ram Tah’s experiments into Guardian relics. These ancient objects were crystalline supercomputers that relayed data across the Guardians’ information networks. His theory was that their transformation into Unclassified relics at Thargoid surface sites was caused by an inbuilt defence mechanism, which could perhaps be weaponised.”
+“Ram Tah discovered that exposure to certain electromagnetic frequencies caused Guardian relics to open and activate clusters of microscopic nanites. These react aggressively against Thargoid biotechnology by disrupting it on the molecular level. Most significantly, tests proved that these nanites are unaffected by the anti-Guardian field generated within Maelstroms.”
+“Professor Palin, aided by Aegis technicians, has used Guardian-hybrid engineering to construct a ‘soft’ warhead that delivers a nanite payload. The torpedo is armoured using organic compounds from Thargoid spire sites, to prevent anti-Guardian fields affecting it in flight. Our strategists believe that these weapons could affect a Titan’s heat regulation systems, causing internal damage and eventually even total destruction.”
+“Mass production of the Guardian nanite torpedo and its launcher module has begun. But further supplies are needed to construct enough for simultaneous attacks against all eight Thargoid motherships.”
+Aegis has asked for shipments of neofabric insulation, ion distributors and energy grid assemblies  to be delivered to Clement Orbital in the YZ Ceti system. The initiative is being managed by YZ Ceti Blue Galactic and Co, which aims to protect deliveries by redeeming bounty vouchers on all wanted ships.</story>
   </article>
 </GalnetArchive>
