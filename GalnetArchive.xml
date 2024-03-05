@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <GalnetArchive>
-  <version>1.214</version>
+  <version>1.215</version>
   <article>
     <id>5ff5b9b37a37e</id>
     <link>
@@ -34612,5 +34612,46 @@ Professor Ishmael Palin has been leading on the project, using theories develope
 “Professor Palin, aided by Aegis technicians, has used Guardian-hybrid engineering to construct a ‘soft’ warhead that delivers a nanite payload. The torpedo is armoured using organic compounds from Thargoid spire sites, to prevent anti-Guardian fields affecting it in flight. Our strategists believe that these weapons could affect a Titan’s heat regulation systems, causing internal damage and eventually even total destruction.”
 “Mass production of the Guardian nanite torpedo and its launcher module has begun. But further supplies are needed to construct enough for simultaneous attacks against all eight Thargoid motherships.”
 Aegis has asked for shipments of neofabric insulation, ion distributors and energy grid assemblies  to be delivered to Clement Orbital in the YZ Ceti system. The initiative is being managed by YZ Ceti Blue Galactic and Co, which aims to protect deliveries by redeeming bounty vouchers on all wanted ships.</story>
+  </article>
+  <article>
+    <id>d9832039-4998-4d8a-a80a-8d8760821dc6</id>
+    <link>/galnet/uid/65cc826f49b1d035d90bf249</link>
+    <title> Winters Pauses Inauguration After Rhea Disaster</title>
+    <date>21 FEB 3310</date>
+    <story>President-elect Felicia Winters has delayed the start of her term of office, in response to devastating earthquakes on the planet Rhea 3.
+The following statement was delivered by her office to a special session of Congress:
+“The terrible events on Rhea 3 have not only demanded President-elect Winters’s full attention, but also brought personal tragedy. It seems that most of the Winters family, plus many close friends, lost their lives when the capital city of New Greenacre was levelled by the earthquakes.”
+“The president-elect therefore requests permission to temporarily suspend the inauguration ceremony. This will allow her to focus on coordinating emergency operations, and also process the unexpected loss of her nearest and dearest.”
+President Zachary Hudson agreed to a short extension of his presidential term, thereby allowing the motion to be passed by Congress. Vice President-elect Isolde Rochester will assume leadership of the Liberal Party on an interim basis until Felicia Winters is available.
+Vox Galactica published an update from local reporter Len Kennelly:
+“Rescue operations on the northern continent have intensified in recent days, as more ships and equipment arrive from across the Federation. I’m told that nearly a million survivors, albeit many injured, have now been recovered. But continual aftershocks are still toppling unstable buildings, leaving entire cities lying in dust.”
+The Empirical scientific journal also discussed the cause of the disaster:
+“High-magnitude earthquakes are extremely rare on terraformed planets such as Rhea 3. Initial geological surveys usually detect this type of tectonic instability, to avoid establishing settlements in dangerous regions. These destructive tremors prove that despite having tamed many worlds with our technology, nature can still be unpredictable.”</story>
+  </article>
+  <article>
+    <id>fa9a28d5-f13f-4a62-8b05-25150fff618a</id>
+    <link>/galnet/uid/65cc826eddff7c47b20c26fb</link>
+    <title> Target the Titans – Guardian Nanite Torpedoes Released</title>
+    <date>26 FEB 3310</date>
+    <story>*Pilots’ Federation ALERT*
+Aegis is preparing concerted attacks against Thargoid Titans using the new weapons now available at rescue megaships.
+A successful delivery campaign brought in enough supplies of neofabric insulation, ion distributors and energy grid assemblies to mass-produce the Guardian nanite torpedoes. YZ Ceti Blue Galactic and Co, acting on Aegis’s behalf, is distributing rewards and reimbursing bounty vouchers from Clement Orbital in the YZ Ceti system.
+A press conference was held by Aegis leadership, including a statement from Professor Alba Tesreau:
+“The Guardian nanite torpedo is our most important invention yet. Once again, we are utilising the advanced sciences of the Thargoids’ ancient adversary. And once again, we are relying on pilots’ skill and determination to face the Titans at close quarters.”
+“I am painfully aware that many abducted people are still in captivity aboard the Thargoid motherships. Scan results suggest that the majority have now been rescued, but those remaining may not survive these attacks. We are forced to accept that their sacrifice will result in fewer deaths than if the Titans are allowed to remain operational.”
+Anti-xeno strategist Aden Tanner discussed Aegis’s tactical approach:
+“These torpedoes must be aimed at the thermal vents on a Titan’s hull. A sufficiently large payload of Guardian nanites should paralyse these vents. The mothership will be forced to discharge the colossal heat it generates by exposing its inner regions to space. That will provide us with sensitive targets for more conventional weaponry to inflict serious – hopefully critical – damage.”
+“Aegis has marshalled Allied, Federal and Imperial ships to undertake this mission, but we calculate they will not be enough. Only with the support of independent Commanders can we hope to deliver enough nanites to affect each Titan. This could prove to be the most important victory in humanity’s history… or our most devastating defeat. Now, more than ever, we need you all.”</story>
+  </article>
+  <article>
+    <id>2c0bb606-56f9-4cec-83a4-1f6aed159c1b</id>
+    <link>/galnet/uid/65e59e7da5c564c9be0a3b2a</link>
+    <title> Thargoid War Bulletin: Titan Destroyed</title>
+    <date>04 MAR 3310</date>
+    <story>Titan Taranis, one of the eight Thargoid motherships, is presumed destroyed after a concerted attack using Guardian nanite torpedoes.
+The journalist Jade Sanderlyn published a bulletin via Vox Galactica:
+“We’re receiving incredible news from the Hyades Sector FB-N b7-6 system, where independent pilots were supporting Aegis’s assaults against the Titans. The new Guardian nanite torpedoes have proved effective against the Titans’ thermal vents, forcing their hulls to open and vent internal heat. And that has allowed Commanders to target the core of each gigantic ship.”
+“What were believed to be Taranis’s death throes were closely observed. A massive release of energy repulsed all ships, followed by further explosions. At present the Titan’s status cannot be verified, due to an intensely corrosive gas cloud that prevents ships from approaching. Aegis is confident, however, that the detonations were fatal.”
+“It’s too early to analyse what this means for the ongoing Thargoid war. But this looks like a significant victory, proving that these giants can be toppled after all. As attacks continue against the seven remaining Titans, we will follow these developments closely.”</story>
   </article>
 </GalnetArchive>
