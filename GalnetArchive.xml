@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <GalnetArchive>
-  <version>1.216</version>
+  <version>1.217</version>
   <article>
     <id>5ff5b9b37a37e</id>
     <link>
@@ -34664,5 +34664,19 @@ Science correspondent Leon Banerjee summarised for Vox Galactica:
 “Research on Titans has been ongoing since their first appearance, and understanding how they function has been considered crucial to humanity’s survival in the Thargoid war.”
 “I have spent time with everyone from the smallest private research bodies to the largest corporations in the past few years, and the common anxiety amongst the scientific community is still how little we truly understand about the Titans.”
 “What answers does the caustic remnant of Taranis contain? What might have survived the destruction? When the wreckage is safe enough to enter, the additional data to be found there will doubtless benefit humanity in some form.”</story>
+  </article>
+  <article>
+    <id>7c7fe054-f034-412c-b7bb-fc0439eb2a4f</id>
+    <link>/galnet/uid/65f46647f99ef9f042027bca</link>
+    <title> The Assault on Leigong</title>
+    <date>15 MAR 3310</date>
+    <story>*Pilots’ Federation Alert*
+Titan Leigong is under siege. This is an urgent call to all independent pilots to aid in the complete defeat of a second Titan.
+The key modules for the assault continue to be readily available at all Rescue Megaships:
+• Thargoid Pulse Neutraliser – To break through the maelstrom defence wave.
+• Caustic Sink Launchers – To protect your ship from caustic effects of the maelstrom.
+• Guardian Nanite Torpedo Pylon – To hamper the Titan’s vents and make it vulnerable to damage.
+Rewards have been requisitioned for all Commanders able to participate in ending the Titan threat.
+Good luck, Commanders.</story>
   </article>
 </GalnetArchive>
