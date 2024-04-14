@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <GalnetArchive>
-  <version>1.218</version>
+  <version>1.219</version>
   <article>
     <id>5ff5b9b37a37e</id>
     <link>
@@ -34699,5 +34699,39 @@ Their research has been centred on the method used by the Thargoid Titans to tra
 A spokesperson for Achilles Aerospace had this to say:
 “For so long now, the means of space travel have been controlled by one company in a strict monopoly. Under that monopoly, progress seems to have stagnated entirely. But Achilles is a corporation built on the iteration and refinement of technology, and we intend to bring space travel into a new age.”
 “We have been limited to observational data alone so far, but that is no longer the case. The remnant of Taranis is now accessible, and within it lies the missing component to our work. We urge pilots to venture to the wreckage of the destroyed Titan and try to obtain one of the rare Titan Drive Components. Achilles Aerospace will pay generously for any that are sold to Bloch Station in the Ethgreze system.” Experts warn that the Taranis site remains extremely dangerous. Caustic sinks should be equipped, and care should be taken due to reports of Thargoid ships active in the area.</story>
+  </article>
+  <article>
+    <id>b4f1631b-4a75-4b8c-8524-c434509bea1c</id>
+    <link>/galnet/uid/660eab9a0c699a944600209c</link>
+    <title> Titan Oya deploys a surprise fleet of Orthrus vessels</title>
+    <date>04 APR 3310</date>
+    <story>The Titan known as Oya appears to have deployed a large fleet of Orthrus vessels into star systems farther from their own territory breaking expected behaviour.
+Analysts noted that the locations in which Orthrus vessels have been tracked didn’t appear to have any particular importance, instead suggesting that this may be a new tactic or possibly a simple panic response to the mounting pressure on its fleet.
+Titan Oya has been steadily losing territory to large numbers of AX-equipped human forces. These forces, spearheaded by coalitions known as ‘AXI’ and ‘XSF’ have been reclaiming ground from the Titans successfully for some time and were pivotal in the recent successful campaigns against the now-destroyed Titans, Taranis and Leigong.
+The Pilots’ Federation have issued an alert to all independent pilots for each of the star systems where Orthrus vessels have been detected:
+“If Oya can be prevented from reclaiming territory, then it’s likely that this third Titan will fall within mere weeks. We encourage all pilots to track and eliminate any Orthrus vessels found patrolling these star systems before the Thargoids can move their assault forces into these footholds.”</story>
+  </article>
+  <article>
+    <id>a17c1346-e701-465d-81d4-a14ea57001e0</id>
+    <link>/galnet/uid/660e6e81bab2df7ee7070840</link>
+    <title> Prototype Frame Shift Drive almost production ready, competitor sceptical</title>
+    <date>04 APR 3310</date>
+    <story>Material gathered from the Titan Taranis wreckage has reportedly allowed Achilles Aerospace to complete the research on their prototype Frame Shift Drive.
+The recent initiative sponsored by Achilles Aerospace saw over 5000 independent pilots enter the hazardous wreckage of Titan Taranis, retrieving enough Titan Drive Components to allow Achilles to allegedly design a new type of Frame Shift Drive based on Titan technology.
+A spokesperson for Achilles Aerospace gave the following update:
+The Achilles Corporation would like to commend every brave pilot that responded to our request. The data we are gathering from the collected materials is staggering, and our work has progressed at an astonishing rate. Our teams are hard at work getting the prototype ready for production as I speak, and we are eager to show you all the fruits of our labour very soon.
+Sirius Corporation, the current sole manufacturer of Frame Shift Drives, was asked for comment on this research:
+“Sirius recognises Achilles’ claims of ‘revolutionising’ an extremely advanced technology in a relatively short span of time, but we remain unconvinced of their substance. If Achilles can produce something other than words we will be happy to comment further.”</story>
+  </article>
+  <article>
+    <id>e0d4fe45-f47e-4869-921a-352ee8a9bb3f</id>
+    <link>/galnet/uid/66169acbc56a55c6a80e15d8</link>
+    <title> New Supercruise Overcharge module enters the market, a “turning point for humanity”</title>
+    <date>10 APR 3310</date>
+    <story>Achilles Aerospace have begun mass distribution of their own Frame Shift Drive modules, capable of what their marketing is calling an ‘Overcharged’ Supercruise.
+This news follows the corporation urging pilots to gather Titan Drive Components from the dangerous remnants of destroyed Titans. The data gathered from the components seems to have been the catalyst to finalise what were previously only theoretical designs.
+The new modules are capable of incredible speeds, much like the Titans themselves. The power of this new Frame Shift Drive does, however, put immense pressure on a ship when used.
+In a speech at the private launch event for the module, held at Achilles headquarters, Achilles Aerospace chairman Maxine Patro said:
+“As of right now, our new modules have been distributed across the galaxy, and we fully expect that this will not only be a turning point in history for Achilles, but for the whole of humanity. We have truly revolutionised supercruise and, with this leap, we take another step out from under the Thargoids’ technological shadow. Thank you, Achilles engineers.”</story>
   </article>
 </GalnetArchive>
