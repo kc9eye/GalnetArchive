@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <GalnetArchive>
-  <version>1.219</version>
+  <version>1.220</version>
   <article>
     <id>5ff5b9b37a37e</id>
     <link>
@@ -34733,5 +34733,43 @@ This news follows the corporation urging pilots to gather Titan Drive Components
 The new modules are capable of incredible speeds, much like the Titans themselves. The power of this new Frame Shift Drive does, however, put immense pressure on a ship when used.
 In a speech at the private launch event for the module, held at Achilles headquarters, Achilles Aerospace chairman Maxine Patro said:
 “As of right now, our new modules have been distributed across the galaxy, and we fully expect that this will not only be a turning point in history for Achilles, but for the whole of humanity. We have truly revolutionised supercruise and, with this leap, we take another step out from under the Thargoids’ technological shadow. Thank you, Achilles engineers.”</story>
+  </article>
+  <article>
+    <id>9d54dc50-18e9-4581-8783-0c47b9a71269</id>
+    <link>/galnet/uid/662280b4c95f97100200d125</link>
+    <title> Anti-Guardian field project yields breakthrough - New modifications available</title>
+    <date>19 APR 3310</date>
+    <story>*Pilots’ Federation ALERT*
+The engineer Ram Tah has discovered a method of immunising existing Guardian modules against the effects of anti-Guardian fields.
+Earlier this year, Ram Tah discovered that certain Guardian relics revealed and activated nanite clusters when exposed to specific electromagnetic frequencies. These nanites proved disruptive to Thargoid technology on a molecular level and, importantly, were entirely unaffected by anti-Guardian fields unlike other Guardian technology.
+In an urgent press conference, Aegis leadership announced a breakthrough in researching that latter quality.
+The following statement was given by Professor Alba Tesreau:
+“Our knowledge of the Thargoids’ ancient adversary, the Guardians, is still so very limited, and yet Guardian technology has once again paved a way forward for humanity.”
+“We urge pilots to use the modifications we are producing to utilise any powerful Guardian modules in their possession. Use them to push back against the Thargoid threat. Use them to win this war.”
+Aegis went on to announce that the modifications can now be made at Ram Tah’s workshop in the Meene system.</story>
+  </article>
+  <article>
+    <id>8cc62ac2-aea3-417a-8228-c331c99b5fe5</id>
+    <link>/galnet/uid/662270761d71549d5c09ab70</link>
+    <title> The Assault on Oya</title>
+    <date>19 APR 3310</date>
+    <story>*Pilots’ Federation Alert*
+Titan Oya is under siege. This is an urgent call to all independent pilots to aid in the complete defeat of the third Titan.
+The key modules for the assault continue to be readily available at all Rescue Megaships:
+• Thargoid Pulse Neutraliser – To break through the maelstrom defence wave.
+• Caustic Sink Launchers – To protect your ship from caustic effects of the maelstrom.
+• Guardian Nanite Torpedo Pylon – To hamper the Titan’s vents and make it vulnerable to damage.
+Rewards have been requisitioned for all Commanders able to participate in ending the Titan threat.
+Good luck, Commanders.</story>
+  </article>
+  <article>
+    <id>f74b747b-130b-41a1-b77a-82b0a8b11946</id>
+    <link>/galnet/uid/6629134abb81257970023ef6</link>
+    <title> Thargoid War Bulletin: Oya Successfully Attacked</title>
+    <date>24 APR 3310</date>
+    <story>Titan Oya in the Cephei Sector BV-Y B4 system has been confirmed as destroyed by Aegis, leaving five still operational.
+Aden Tanner, Aegis’s lead anti-xeno strategist, delivered a cautionary statement:
+“I must remind all Commanders that these missions are highly dangerous and cannot be undertaken lightly. Entering a Maelstrom and flying close to a Titan requires your ship to be outfitted with caustic sink launchers and Thargoid pulse neutralisers. AX weaponry will also prove useful, as will Guardian nanite torpedoes to target the Titans’ thermal vents.”
+“Be warned that your combat skills will be tested. Counter-attacks by Thargoid vessels become more frequent as the Titans take damage , and the mothership’s own turrets are deployed more aggressively. I would like to see veteran anti-xeno pilots passing on their knowledge to less-experienced pilots, to prevent unnecessary risks.”</story>
   </article>
 </GalnetArchive>
