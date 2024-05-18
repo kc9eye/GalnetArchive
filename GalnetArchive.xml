@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <GalnetArchive>
-  <version>1.220</version>
+  <version>1.221</version>
   <article>
     <id>5ff5b9b37a37e</id>
     <link>
@@ -34771,5 +34771,43 @@ Good luck, Commanders.</story>
 Aden Tanner, Aegis’s lead anti-xeno strategist, delivered a cautionary statement:
 “I must remind all Commanders that these missions are highly dangerous and cannot be undertaken lightly. Entering a Maelstrom and flying close to a Titan requires your ship to be outfitted with caustic sink launchers and Thargoid pulse neutralisers. AX weaponry will also prove useful, as will Guardian nanite torpedoes to target the Titans’ thermal vents.”
 “Be warned that your combat skills will be tested. Counter-attacks by Thargoid vessels become more frequent as the Titans take damage , and the mothership’s own turrets are deployed more aggressively. I would like to see veteran anti-xeno pilots passing on their knowledge to less-experienced pilots, to prevent unnecessary risks.”</story>
+  </article>
+  <article>
+    <id>1d43c25e-1da5-4b63-847e-37b762a32ea3</id>
+    <link>/galnet/uid/6634cc41ac897f7797068849</link>
+    <title> Ship manufacturers must “rise to the challenge” of Supercruise Overcharge</title>
+    <date>03 MAY 3310</date>
+    <story>Users of the Supercruise Overcharge function of Achilles’ new Frame Shift Drives have reported that the module puts ships under immense mechanical and thermal stress, often causing severe hull damage. Ship manufacturers throughout the galaxy are now diverting research towards overcoming this issue.
+Stent Jackson, a ship engineering and design consultant, spoke to Vox Galactica about this new surge of research:
+“Now don’t get me wrong, every manufacturer I’ve spoken to considers Supercruise Overcharge to be a great thing, but it’s also ripping our hulls apart. The good with the bad, as always.”
+“Funny thing is, every manufacturer is realising all at once that there are some crucial things about ship construction that they’ve all taken for granted. When you get down to brass tacks, we assume certain thresholds, right? Before, we didn’t need to worry about exceeding certain temperatures or hitting high levels of hull stress regularly. Now that’s all out the window.”
+“I haven’t seen such a single-minded focus from ship manufacturers for a long time. They’re all clawing to be first to market with a ship that can alleviate Overcharge stress, and it’s not long before one of them really does rise to the challenge.”
+"My hat’s off to them, Achilles have changed the game in the industry for good.”</story>
+  </article>
+  <article>
+    <id>60993c35-a337-49b0-8991-2f6022ea098b</id>
+    <link>/galnet/uid/663a30d76f1e89eea60761f6</link>
+    <title> Python Mk II Released: Faulcon DeLacy announces collaboration with Achilles Aerospace</title>
+    <date>07 MAY 3310</date>
+    <story>The first ever ship built entirely around Achilles’ new Frame Shift Drive has released today, the Python Mk II. Marketing materials are pushing the tagline: “Built for Supercruise Overcharge”.
+Faulcon DeLacy, the widely respected manufacturer behind this new ship, released a statement this morning:
+“The original Python is an incredibly versatile ship, serving countless pilots in countless roles around the universe. For the Mk II, we wanted to create something more specialised and focused, and so we are coming to market with a ship that truly excels in battle conditions...  but that’s not all.”
+“Thanks to a fruitful collaboration with our friends at Achilles Aerospace, the Python Mk II has been designed from the ground up to better handle their new Frame Shift Drive.”
+“It has improved heat management, better handling, reduced fuel consumption, and even better acceleration and deceleration capacity.”
+“With the Python Mk II, we are breaking almost every speed record humanity has set. This is truly the flagship of a new era, and we cannot wait for you to try it.”
+Faulcon DeLacy famously has a well-established relationship with the other main manufacturer of Frame Shift Drives, Sirius Corporation. Vox Galactica reached out for a comment on this announcement, but Sirius rejected the request.</story>
+  </article>
+  <article>
+    <id>ee4d37e9-ae3e-479d-b656-c60a54bbd8f9</id>
+    <link>/galnet/uid/663cae1c352d17edc70ca7b2</link>
+    <title> Achilles Aerospace releases full selection of Supercruise Overcharge modules</title>
+    <date>09 MAY 3310</date>
+    <story>A suite of new Supercruise Overcharge Frame Shift Drives entered the market earlier this week alongside several other upgrades to the new modules.
+To celebrate the company’s recent success, Dr. Namin Tirel, Achilles Aerospace’s Head of Research and Development, offered a rare interview to Vox Galactica:
+“It boggles the mind, truly. We were working in secret on what would eventually become our Supercruise Overcharge technology for over a year now. We had mountains of data and plenty of theories still to test, but we were struggling to make headway on anything that had real practical application. When we got hold of some of the actual parts of the Thargoids’ drive-like technology, all that time, energy, and financial investment finally paid off. We were able to make huge strides in a short time frame, as you’re now seeing.”
+“We purposefully made these drives difficult to modify as they’re still using very new technology, but, with how well the drives are holding up, we saw fit to relax this restriction.”
+“Our latest firmware update also removes the prototype safety limiter on jump range which goes hand-in-hand with some brilliant fine-tuning we achieved during development. Not only are our drives capable of Supercruise Overcharge but we saw a few optimisations we could make over Sirius’ aging technology. If you want to go both faster and further, switch to an Achilles drive.”
+“Finally, we have our work with Faulcon DeLacy on their Python Mk II. This is something that both companies are immensely happy with, and we want to offer this same collaborative approach to other manufacturers too.”
+“Supercruise Overcharge has been a highlight of my career, and being a part of its continued development is a privilege. Thank you to my team helping to create the next phase of space travel, and a special thank you to the independent pilots who brought us the key pieces of technology that made all of this possible.”</story>
   </article>
 </GalnetArchive>
