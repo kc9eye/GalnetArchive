@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <GalnetArchive>
-  <version>1.221</version>
+  <version>1.222</version>
   <article>
     <id>5ff5b9b37a37e</id>
     <link>
@@ -34809,5 +34809,19 @@ To celebrate the company’s recent success, Dr. Namin Tirel, Achilles Aerospace
 “Our latest firmware update also removes the prototype safety limiter on jump range which goes hand-in-hand with some brilliant fine-tuning we achieved during development. Not only are our drives capable of Supercruise Overcharge but we saw a few optimisations we could make over Sirius’ aging technology. If you want to go both faster and further, switch to an Achilles drive.”
 “Finally, we have our work with Faulcon DeLacy on their Python Mk II. This is something that both companies are immensely happy with, and we want to offer this same collaborative approach to other manufacturers too.”
 “Supercruise Overcharge has been a highlight of my career, and being a part of its continued development is a privilege. Thank you to my team helping to create the next phase of space travel, and a special thank you to the independent pilots who brought us the key pieces of technology that made all of this possible.”</story>
+  </article>
+  <article>
+    <id>0706fa7e-406f-4c31-8509-9c69f368eb71</id>
+    <link>/galnet/uid/664df70da962908fd60ede3e</link>
+    <title> The Assault on Hadad</title>
+    <date>24 MAY 3310</date>
+    <story>*Pilots’ Federation Alert*
+Titan Hadad is under siege. This is an urgent call to all independent pilots to aid in the complete defeat of the fourth Titan.
+The key modules for the assault continue to be readily available at all Rescue Megaships:
+• Thargoid Pulse Neutraliser – To break through the maelstrom defence wave.
+• Caustic Sink Launchers – To protect your ship from caustic effects of the maelstrom.
+• Guardian Nanite Torpedo Pylon – To hamper the Titan’s vents and make it vulnerable to damage.
+Rewards have been requisitioned for all Commanders able to participate in ending the Titan threat.
+Good luck, Commanders.</story>
   </article>
 </GalnetArchive>
