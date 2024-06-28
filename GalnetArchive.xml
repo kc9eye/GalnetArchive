@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <GalnetArchive>
-  <version>1.224</version>
+  <version>1.225</version>
   <article>
     <id>5ff5b9b37a37e</id>
     <link>
@@ -34863,5 +34863,18 @@ Jerome Archer offered his thanks in an announcement this morning:
 “Is she a president capable of maintaining peace, when aggressors are increasingly appearing from all sides?”
 “Or is she a president who puts her ideals before the lives of her people?”
 “I once again urge congress to reconsider allowing Zachary Hudson another term as President of the Federation in light of Winters’ ongoing, conspicuous, absence.”</story>
+  </article>
+  <article>
+    <id>2e02c3fe-a4be-4589-9406-2a3acbc3b5ee</id>
+    <link>/galnet/uid/6673f55765b759c34d05973b</link>
+    <title> Achilles Aerospace facility targeted by malicious agents</title>
+    <date>20 JUN 3310</date>
+    <story>The Alioth-based facility housing production of Achilles’ new Supercruise Overcharge capable Frame Shift Drives came under attack today.
+The crime was perpetrated by a small group of individuals piloting a ship loaded with high-impact explosive weaponry, seemingly with the intention of sabotaging SCO drive production.
+The group piloting the ship had posed as Achilles’ Aerospace engineers and had somehow gained high-level clearance to bring the vehicle deep into the facility. Achilles themselves are unsure how this could have been possible, stating to reporters that the malicious agents would have required “incredibly sophisticated technology” to forge the appropriate passes.
+The group were able to bypass the facility’s first checkpoint before the automated security robots identified them as a potential threat. The malicious agents apparently opened fire on the facility, preventing the robots from attempting a peaceful resolution.
+There were no survivors of the conflict, and none of the malicious agents were identifiable in any active database.
+Achilles reports that they have increased security tenfold since the incident, and that this should be considered a testament to the quality of the security robots produced by their Robotics division.
+Achilles also reassures consumers that the incident has had no impact on Supercruise Overcharge module manufacturing.</story>
   </article>
 </GalnetArchive>
