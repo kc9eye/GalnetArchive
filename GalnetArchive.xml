@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <GalnetArchive>
-  <version>1.225</version>
+  <version>1.226</version>
   <article>
     <id>5ff5b9b37a37e</id>
     <link>
@@ -34876,5 +34876,71 @@ The group were able to bypass the facility’s first checkpoint before the autom
 There were no survivors of the conflict, and none of the malicious agents were identifiable in any active database.
 Achilles reports that they have increased security tenfold since the incident, and that this should be considered a testament to the quality of the security robots produced by their Robotics division.
 Achilles also reassures consumers that the incident has had no impact on Supercruise Overcharge module manufacturing.</story>
+  </article>
+  <article>
+    <id>ef635e40-6856-48a1-8394-17bdcb7fa78c</id>
+    <link>/galnet/uid/668573180e44beec450d0d8a</link>
+    <title> Aegis confirm change in Thargoid Strategy</title>
+    <date>04 JUL 3310</date>
+    <story>Aegis has continued to monitor the recently shifting Thargoid behaviour and have confirmed a clear pattern.
+Expansion efforts have slowed in recent weeks, with experts theorising that this change in the Thargoids was a precursor to a change in overall strategy. Aegis researchers have now gathered enough evidence to confirm a tactical shift.
+The Thargoids have adopted a more defensive stance, reinforcing their current position rather than expanding outward. They are also targeting and invading populated systems exclusively, sometimes without their normal scouting operations.
+Dr. Jeong-Hui Shing of the Holloway Bioscience institute offered the following view:
+“That lack of scouting is the most fascinating element of this change to me. A military man may claim it to be a desperate enemy lashing out at its opponent, but I see something deeper.”
+ “Foregoing expansion to prioritise the defence of their remaining Titans is intelligent, not desperate. These attacks seem just as calculated: they are gathering data. Probing our defences. Analysing where their remaining resources may be best used...”
+As a tactical response, various organisations will be sending strike teams to designated counterstrike systems around the Titan with the least systems under Thargoid control. Where possible, these teams plan to reactivate a single port within each system to provide a forward operating base for anti-xeno operations.
+Pilots are being encouraged to take up arms and participate in the defence of these forward ports.</story>
+  </article>
+  <article>
+    <id>b609a59e-23e4-45cb-8dec-721777728c2a</id>
+    <link>/galnet/uid/6686ccec8f4f79745c0ab4d1</link>
+    <title> The Assault on Indra</title>
+    <date>05 JUL 3310</date>
+    <story>*Pilots’ Federation Alert* 
+Titan Indra is under siege. This is an urgent call to all independent pilots to aid in the complete defeat of the fifth Titan.
+The key modules for the assault continue to be readily available at all Rescue Megaships:
+• Thargoid Pulse Neutraliser – To break through the maelstrom defence wave.
+• Caustic Sink Launchers – To protect your ship from caustic effects of the maelstrom.
+• Guardian Nanite Torpedo Pylon – To hamper the Titan’s vents and make it vulnerable to damage.
+Rewards have been requisitioned for all Commanders able to participate in ending the Titan threat.
+Good luck, Commanders.</story>
+  </article>
+  <article>
+    <id>e6272654-d61c-4016-a75f-c67f54b3b8cb</id>
+    <link>/galnet/uid/6686cb171767fcb137096580</link>
+    <title> Anti-Guardian field project perfected</title>
+    <date>06 JUL 3310</date>
+    <story>*Pilots’ Federation ALERT*
+The engineer Ram Tah has perfected his modifications to immunise Guardian modules against the effects of anti-Guardian fields.
+Discoveries related to the anti-Guardian field resistant nanite clusters led to the first iteration of these modifications. Ram Tah has since described the methodology as “immature and limited” though, referring to an inability to apply the modifications to all Guardian modules, and a reduction in effectiveness for the weapon modules that could be modified.
+Aegis has now announced that Ram Tah has refined the technology significantly, and the new iteration of these modifications resolves both issues.
+Weapons with these modifications applied no longer have their damage reduced while still being resistant to anti-Guardian field effects.
+The methodology used is also much less limited and can be applied to all Guardian modules without penalty to their functionality.
+Aegis stated that they expedited availability of the modifications to aid in the fight against Titan Indra. They can currently be made at Ram Tah’s workshop in the Meene system.</story>
+  </article>
+  <article>
+    <id>0bb7e417-3abc-4fa8-894d-03a913f3a31a</id>
+    <link>/galnet/uid/668d0995e0ef0a7641035335</link>
+    <title> Superpowers Talk on the Financial Impact of War</title>
+    <date>09 JUL 3310</date>
+    <story>Vox Galactica has released an in-depth piece about the economic impact of the Thargoid war on the galaxy’s superpowers.
+Senior Political Journalist Vanya Driscoll compiled the piece over several months after witnessing the increasing strain and instability in systems galaxy-wide. The report boasts interviews with high-ranking individuals across the galaxy, talking candidly about the impact of the war.
+Excerpts from the piece follow.
+Federation Vice President Jerome Archer said, when asked about strain in Federation space:
+“The Federation has put a lot of resources into ending the war as quickly as possible, but that inevitably spreads what we have left thin. Because of that, we’ve seen more and more opportunistic attacks on systems in our space and we’ve nullified just as many threats through the PDB. Every citizen deserves protection, and any criminal that thinks exploiting a state of war is smart will pay dearly when things return to normal.”
+By contrast, when asked about fragility from the war in Empire space, Senator Zemina Torval said:
+“What fragility? The Empire persists as it always has, war or no, because we understand more than the Federation or Alliance how to govern. When a body is trying to burn out an infection, how does it do so? Does it keep blood flowing throughout the whole body and hope that everything will work out. No! It keeps the vital organs warm first. If the extremities feel cold, it is the small and temporary price to pay for an organism that survives. So, too, do we guarantee the Empire’s survival. There is an infection in the universe, but so long as the vital governance of the Empire is maintained then we are as strong as ever.”
+On being questioned about the war’s impact on the Alliance, Prime Minister Edmund Mahon had this to say:
+“It is impossible to separate the financial impact we’re seeing from the human impact. Any damage to an economy is damage to its citizens, and that should never be forgotten. The Alliance is strained as any other superpower is, but our democracy is our strength, and it is that mutual support that has led to our citizens facing fewer opportunistic attacks than the Federation’s, for example. And the less I say about the Empire’s ‘elite first’ economic strategy, the better. Humanity is stronger together. It is how the Alliance will stay strong, and it is how we as a species will win this war.”</story>
+  </article>
+  <article>
+    <id>68593b56-2822-4cdb-a120-58403082be6a</id>
+    <link>/galnet/uid/668d449e448d1cdfa700f2a2</link>
+    <title> Thargoid War Bulletin: Slaying the Dragon</title>
+    <date>10 JUL 3310</date>
+    <story>As Titan Indra in the HIP 20567 system was attacked, Vox Galactica reporter Jade Sanderlyn published her eye-witness account.
+“Watching the Thargoid mothership’s last hours had my guts in knots. Caustic gas and debris spurted from its vents like blood from multiple wounds. Violent vibrations and bioluminescent pulses gave the impression of a creature shuddering its last. And our ship’s sensors picked up horrific creaks and groans, part collapsing starship and part dying animal.”
+“The Titan appeared to begin building energy for its electromagnetic attack but it seemed to go out of control. I was half-blinded by a sudden flash  that sent our ship spinning out into the black. It continued to explode with a series of increasingly intense releases of energy, and then the most intense blast I think I will ever bear witness to.”
+“This dragon, which had once carried off our people and destroyed our homes with fire, had been slain.”</story>
   </article>
 </GalnetArchive>
