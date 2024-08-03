@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <GalnetArchive>
-  <version>1.226</version>
+  <version>1.227</version>
   <article>
     <id>5ff5b9b37a37e</id>
     <link>
@@ -34942,5 +34942,72 @@ On being questioned about the war’s impact on the Alliance, Prime Minister Edm
 “Watching the Thargoid mothership’s last hours had my guts in knots. Caustic gas and debris spurted from its vents like blood from multiple wounds. Violent vibrations and bioluminescent pulses gave the impression of a creature shuddering its last. And our ship’s sensors picked up horrific creaks and groans, part collapsing starship and part dying animal.”
 “The Titan appeared to begin building energy for its electromagnetic attack but it seemed to go out of control. I was half-blinded by a sudden flash  that sent our ship spinning out into the black. It continued to explode with a series of increasingly intense releases of energy, and then the most intense blast I think I will ever bear witness to.”
 “This dragon, which had once carried off our people and destroyed our homes with fire, had been slain.”</story>
+  </article>
+  <article>
+    <id>48fac607-008c-4cc7-8301-4c560f95b7df</id>
+    <link>/galnet/uid/668d10cd7d789b858f024ef2</link>
+    <title> Deliver Critical Aid for the Rhea Disaster</title>
+    <date>11 JUL 3310</date>
+    <story>*Pilots’ Federation ALERT*
+The Federation has requested shipments of supplies in the Rhea system to help rebuild critical infrastructure.
+Intense seismic activity across Rhea 3’s largest continent demolished entire cities and townships late last year, causing widespread death and injury. Rescue operations have saved over a million people, but local infrastructure has been compromised and vital construction supplies are running low.
+President-Elect Felicia Winters spoke publicly for the first time since leaving for Rhea 3 to announce a support initiative:
+“I know that there are individuals out there who have tried to use my absence from office to undermine the will of the Federation’s people by calling for a re-election. Of course they have. To them I say simply this: to care for your home planet, for your people, is not a weakness.”
+“But unfortunately, I have now reached the limit of what I can do to help through private channels, so I am humbly requesting the aid of our galaxy’s pilots. Please, provide crucial materials to support Rhea 3’s recovery.”
+Federal Liberal Command, the controlling faction, has called for pilots to transport Power Generators, Aluminium, and Titanium to Ito Orbital in the Rhea system.
+In related news, the formation of a new Federal government by the Liberal Party continues to be delayed with no confirmed inauguration in sight. Proposals for a re-election, or for President Hudson to remain in office for another term, have been rejected by Congress once again.</story>
+  </article>
+  <article>
+    <id>c6e1b3a7-68f0-4f8e-afc5-ff842cf389d4</id>
+    <link>/galnet/uid/668d10d7d98b751c220c75ee</link>
+    <title> Vital Reconstruction Supplies Arrive for Disaster Survivors</title>
+    <date>18 JUL 3310</date>
+    <story>*Pilots’ Federation ALERT*
+Large quantities of construction shipments to support disaster recovery operations on Rhea 3 have been delivered to Ito Orbital.
+The Federation is still treating and supporting survivors from the catastrophic earthquakes that destroyed many urban centres on the planet. A spokesperson from Federal Liberal Command, the Rhea system’s controlling faction, said:
+“This has been a beacon of hope and support for a planet besieged by misfortune, and these supplies will be of enormous help. Thank you. We have now authorised the delivery of rewards at Ito Orbital for all pilots who took part in this initiative.”
+President-elect Felicia Winters gave a statement to the press from a newly built medical facility outside the recovering capital city New Greenacre:
+“I can find no words to describe the horror of what happened here. Nor can I fully express my gratitude to everyone who provided aid and assistance. To the people of the Federation: thank you for allowing me time to grieve. Planning has resumed for the inauguration, and I hope that my administration will officially begin soon.”
+Political opinions regarding Felicia Winters delaying her term of office have been varied. Many Republican officials claimed that this showed weakness, as expressed by Congressman Thandeka Qwabe: “A president should put the Federation as a whole before their own personal situation.”
+The Liberal Party supported the decision, with Congressman Bai Zheng insisting: “Nobody could be expected to perform their duties while mourning the deaths of so many family members. Let’s not chastise our new president for being more human than the last one.”</story>
+  </article>
+  <article>
+    <id>6f0567e4-2f98-4f64-8b7d-4938458a97b0</id>
+    <link>/galnet/uid/669f757ed7dd5a808205a48f</link>
+    <title> Lakon Spaceways Discusses Supercruise Overcharge Challenge</title>
+    <date>30 JUL 3310</date>
+    <story>A shareholder's function hosted by Lakon Spaceways has revealed further details of its recently announced Type-8 trader.
+Several hundred individuals with significant financial ties to the ship development corporation gathered at Lakon Spaceways Central on Alioth 1 a. The stylish presentation of the Type-8 was met with enthusiastic applause, with one attendee claiming the ship should prove ‘remarkably capable’ in its position as a specialised medium freighter.
+Chairperson Naomi Landseer discussed the design challenges posed by the recently released SCO Frame Shift Drive:
+“Lakon invested heavily in research and design initiatives to incorporate Achilles’ frame shift drive variant. The drive's potential to accelerate in-system travel goes beyond anything previously imagined. We had to ensure Lakon could provide a design capable of minimising the incredible stress placed on ships by the supercruise overcharge tech.”
+“So, with the Type-8 just weeks away from the prototype stage, we moved the project back to the theoretical stage and invited solutions from our industry-leading engineers and technicians. Our adjustments resulted in the largest ship frame to retain a size classification of medium. I'm incredibly thankful to Lakon's remarkable staff for the countless hours worked over the past couple of months, adapting the hull within deadline for our initial test batch.”
+"It is pleasing to say that the SCO frame shift drive will function far more effectively in the Type-8 than with any other dedicated trade vessel on the market today. I look forward to announcing the Type-8's official release soon.”</story>
+  </article>
+  <article>
+    <id>08788a27-715f-4fd5-b74a-97dffd52da0e</id>
+    <link>/galnet/uid/66ab6bb3600f80264c02f3bc</link>
+    <title> Aegis Confirm Reports of Thargoid Spire Reactivation</title>
+    <date>01 AUG 3310</date>
+    <story>Pilots engaged with Thargoid forces around Titan Thor have reported unexpected activity from previously dormant Spire sites.
+Renowned xenologist Professor Shamus Madigan, part of the Federal delegation to Aegis, offered this update:
+“This morning, our operatives verified multiple claims of energy readings from two inactive spire sites. It appears that the Thargoids have restarted industrial efforts at these locations.”
+“It’s possible that the aliens have developed a method of cleansing the spires of our sabotage compounds. The spires’ internal functions may have been repurposed by other means. What we know, however, is that further contamination of these sites will be needed to shut them down for good.”
+In addition, AX fleets on the front line around Titan Thor also confirmed the withdrawal of Thargoid fleets from several unpopulated systems in the area. Madigan noted that Aegis’s ‘special advisor’, Seo Jin-ae, believes the relocation of these forces and the reactivation of these spire sites is not coincidental.
+The two reactivated spire sites are located in the following systems:
+Col 285 Sector PB-E b12-3
+Col 285 Sector OG-E b12-1</story>
+  </article>
+  <article>
+    <id>0909d8bc-9ab0-4f92-bbd3-d7f4ab2fc3e1</id>
+    <link>/galnet/uid/669f6e8181f081b02c001ab4</link>
+    <title> Emperor Arissa Ambushed in Cubeo System</title>
+    <date>02 AUG 3310</date>
+    <story>Emperor Arissa has survived an assault on her convoy in the Cubeo system. Imperial Guard pilots fought off the perpetrators in a brief but intense firefight.
+The Emperor was returning from a state visit to Cubeo 3, where communities across the planet were hosting a biennial harvest festival in her honour. On route to the orbiting INV Achenar’s Valour, a squadron of unidentified ships dropped out of supercruise and attacked her shuttle amidst the dozen Imperial Guard vessels protecting it.
+Colm Tornquist wrote the following for the Imperial Herald:
+“As far as we’ve been able to ascertain, the conflict between these shameless aggressors and the Imperial Guard was significant. There is no doubt that the Emperor was the target of a mission in which no participant expected to survive.”
+“Thankfully, the overwhelming skill and firepower of the brave Imperial Guard were able to screen the Emperor’s shuttle from severe damage. The hostile vessels were destroyed in short order.”
+Senator Denton Patreus labelled the attack ‘as outrageous as it was foolish’ and proposed an increase in the Emperor’s security presence for public appearances. He stopped short of blaming any specific entity for the attack, but claimed that ‘the Empire’s traditional foes have nurtured their true ambitions in the shadow of the Thargoid conflict.’ Denton also stated that further aggressions would ‘invite a reminder that the power and resources of the Imperial Fleet can eradicate human threats just as efficiently as xeno ones.’
+Princess Aisling, who regularly uses Cubeo as a headquarters for her many state programs, condemned the incident as ‘a regrettable act by the lost or desperate,’ and spoke of her relief at her aunt’s survival. At the time of the attack the Princess was in Duamta as part of her collaboration with the Aegis initiative.</story>
   </article>
 </GalnetArchive>
