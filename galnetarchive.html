@@ -12,12 +12,12 @@
                 </div>
             </div>
         </div>
-        <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+        <nav class="navbar navbar-expand-lg navbar-dark bg-dark sticky-top">
             <div class="container-fluid">
-                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
                     <span class="navbar-toggler-icon"></span>
                 </button>
-                <div class="collapse navbar-collapse" id="navbarSupportContent">
+                <div class="collapse navbar-collapse" id="navbarCollapse">
                     <ul class="navbar-nav me-auto mb-2 mb-lg-0">
                         <li class="nav-item">
                             <a class="nav-link" id="indexLink" href="#">Index</a>
@@ -26,28 +26,64 @@
                             <a class="nav-link" id="allArticlesLink" href="#">All Articles</a>
                         </li>
                     </ul>
+                    <form id="searchForm" class="d-flex">
+                        <div class="input-group">
+                            <input class="form-control" type="text" name="searchString" id="searchString" placeholder="Search" required />
+                            <button type="submit" class="btn btn-secondary" id="submitBtn">Search</button>
+                        </div>
+                    </form>
                 </div>
             </div>
         </nav>
         <div class="container-fluid">
             <div class="row">
-                <div class="col" id="articles">
+                <div class="col p-2" id="articles">
+                    <small>Loading...</small>&#160;<span class="spinner-border"></span>
+                </div>
             </div>
-        </div>
         </div>
         <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
         <script>
-            (async function(){
-                document.getElementById("indexLink").addEventListener("click", listIndex);
-                document.getElementById("allArticlesLink").addEventListener("click",allArticles);
-                window.xmlDOM = await getArchiveXmlDOM();
-                listIndex(null);
-            })();
+            document.getElementById("indexLink").addEventListener("click", listIndex);
+            document.getElementById("allArticlesLink").addEventListener("click",allArticles);
+            document.getElementById("searchForm").addEventListener("submit", searchArticles);
+            listIndex(null);
             
-
-            function allArticles(event) {
+            async function searchArticles(event) {
+                event.preventDefault();
+                let output = "";
+                let search = document.getElementById("searchString");
+                let regex = new RegExp(search.value,"i");
+                let btn = document.getElementById("submitBtn");
                 let articleSpace = document.getElementById("articles");
-                let articles = xmlDOM;
+                btn.setAttribute("disabled","");
+                btn.innerHTML = "<span class=\"spinner-border spinner-border-sm\"></span>";
+                let articles = await getArchiveXmlDOM();                
+                for(let i = 0; i < articles.length; i++) {
+                    let title = articles[i].getElementsByTagName("title")[0].childNodes[0].nodeValue;
+                    let story = articles[i].getElementsByTagName("story")[0].childNodes[0].nodeValue;
+                    if (regex.test(title) || regex.test(story)) {
+                        console.log(title);
+                        output +=
+                        '<div class="card m-2">'+
+                            '<div class="card-body">'+
+                                '<h3 class="card-title bg-dark text-light rounded">'+ title +'</h3>'+
+                                '<h6 class="card-subtitle m-1"><i>'+ articles[i].getElementsByTagName("date")[0].childNodes[0].nodeValue+'</i></h6>'+
+                                '<p class="card-text">'+ story +'</p>'+
+                            '</div>'+
+                        '</div>'
+                    }
+                }
+                btn.removeAttribute("disabled");
+                btn.innerHTML = "Search";
+                search.value = "";
+                articleSpace.innerHTML = output;
+            }
+
+            async function allArticles(event) {
+                let articleSpace = document.getElementById("articles");
+                articleSpace.innerHTML = "<span class=\"spinner-border\"></span>";
+                let articles = await getArchiveXmlDOM();
                 let output = "";
                 for(let i = (articles.length - 1); i >= 0; i--) {
                     output +=
@@ -62,10 +98,11 @@
                 articleSpace.innerHTML = output;
             };
 
-            function listIndex(event) {
+            async function listIndex(event) {
                 let output = '<ul class="list-group">';
                 let articleSpace = document.getElementById("articles");
-                let articles = xmlDOM;
+                articleSpace.innerHTML = "<span class=\"spinner-border\"></span>";
+                let articles = await getArchiveXmlDOM();
                 for(i=(articles.length-1);i>=0;i--) {
                     output+=
                     '<li class="list-group-item">'+
@@ -79,23 +116,23 @@
                 articleSpace.innerHTML = output;
             }
 
-            function getArticle(id) {
-                let articleSpace = document.getElementById("articles");
-                let articles = xmlDOM
-                for(i=0;i<articles.length;i++) {
-                    if (articles[i].getElementsByTagName("id")[0].childNodes[0].nodeValue == id) {
-                        articleSpace.innerHTML = 
-                        '<div class="card m-2">'+
-                            '<div class="card-body">'+
-                                '<h3 class="card-title bg-dark text-light rounded">'+articles[i].getElementsByTagName("title")[0].childNodes[0].nodeValue+'</h3>'+
-                                '<h6 class="card-subtitle m-1"><i>'+articles[i].getElementsByTagName("date")[0].childNodes[0].nodeValue+'</i></h6>'+
-                                '<p class="card-text">'+articles[i].getElementsByTagName("story")[0].childNodes[0].nodeValue+'</p>'+
-                            '</div>'+
-                        '</div>';
-                        break;
-                    }
-                }
-            }
+            // function getArticle(id) {
+            //     let articleSpace = document.getElementById("articles");
+            //     let articles = xmlDOM
+            //     for(i=0;i<articles.length;i++) {
+            //         if (articles[i].getElementsByTagName("id")[0].childNodes[0].nodeValue == id) {
+            //             articleSpace.innerHTML = 
+            //             '<div class="card m-2">'+
+            //                 '<div class="card-body">'+
+            //                     '<h3 class="card-title bg-dark text-light rounded">'+articles[i].getElementsByTagName("title")[0].childNodes[0].nodeValue+'</h3>'+
+            //                     '<h6 class="card-subtitle m-1"><i>'+articles[i].getElementsByTagName("date")[0].childNodes[0].nodeValue+'</i></h6>'+
+            //                     '<p class="card-text">'+articles[i].getElementsByTagName("story")[0].childNodes[0].nodeValue+'</p>'+
+            //                 '</div>'+
+            //             '</div>';
+            //             break;
+            //         }
+            //     }
+            // }
 
             async function getArchiveXmlDOM() {
                 /////////////////////////////////////////////////////////////
