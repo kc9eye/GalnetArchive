@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <GalnetArchive>
-  <version>1.234</version>
+  <version>1.235</version>
   <article>
     <id>5ff5b9b37a37e</id>
     <link>
@@ -35302,5 +35302,57 @@ Ivano Colombera, the Imperial research lead for the Aegis project, has speculate
 Aden Tanner, anti-xeno strategist for Aegis, provided a brief statement:
 “My heart still soars to hear that another Titan has been taken down. Until very recently, these colossal constructs were seen as indestructible. Aegis was even drawing up long-term strategies based around them being permanently present in human space. The Guardian nanite torpedo, and the hard work of so many pilots, has made that academic.”
 “Anti-xeno pilots are already travelling to the systems surrounding Col 285 Sector BA-P c6-18, to repeat the process one last time on Titan Cocijo. With such a concentrated effort, it is not expected to last long. However, I must repeat my earlier call for caution and preparedness. We cannot tell how the Thargoids will respond to the loss of their last mothership, and we may face unknown weaponry or tactics.”</story>
+  </article>
+  <article>
+    <id>ea93ad68-eeee-41a6-ab9d-bf807a4d3f66</id>
+    <link>/galnet/uid/6720c298fd4c387e360c4148</link>
+    <title> Famed Treasure Hunter Herman Colt Missing</title>
+    <date>29 OCT 3310</date>
+    <story>A prominent figure in the treasure hunting community has gone missing, prompting speculation as to his fate.
+Herman Colt, known for recovering several notable historical artefacts across the core systems, departed the Frenis system three weeks ago along with several other pilots. It is believed Colt’s latest expedition sought the final treasure hoard of Captain Morrigan, a fearsome pirate active in the mid-3200's.
+Rewired spoke to a colleague of Colt’s, Natasha Moore, for an insight into Colt’s whereabouts:
+“It’s unlike Colt to maintain radio silence during an expedition. In fact, it's fair to say he loves the attention. Each new expedition generates buzz among the exploration community, with dozens of pilots begging to be taken along for the adventure.”
+“Colt has a soft spot for Captain Morrigan – I think he’s already got some bits and pieces from her life on display at his home. I know he was excited about this trip, and the chance to find Morrigan’s final treasure stash. But typically Colt would have sent me an update by now. Hopefully he’s just having too much fun on his latest voyage.”
+Captain Morrigan was known for a series of daring raids between 3253-3261, with her gang often overpowering significantly larger forces to steal cargo from trade convoys in and around Frenis. Her most significant rivals belonged to the Candira gang, and firefights between the two groups were common. Morrigan was last sighted in 3265, and it is believed she died in action around this time.</story>
+  </article>
+  <article>
+    <id>e5c30dba-8a0e-433b-827f-95739bffbcd3</id>
+    <link>/galnet/uid/672359b051e81f1f0a04b773</link>
+    <title> Mandalay Released: Zorgon Peterson’s SCO-Friendly Explorer Ships Out</title>
+    <date>31 OCT 3310</date>
+    <story>The first run of Mandalay ships has been delivered to shipyards across the core systems and are now available for purchase.
+Zorgon Peterson’s Mandalay is the third new vessel to be optimised for Achilles Aerospace’s SCO frame shift drive – following the Python Mk. II and the Type-8 - and aims to become the premier medium-sized exploration craft.
+Chief Marketing Officer Devin Kaneda sent a press statement to all shipyard outlets:
+“The Mandalay allows pilots to achieve a considerable jump range while maintaining the manoeuverability of its size class, expanding the range of future exploration voyages of its size class. Our technicians have ensured that the ship’s handling in atmospheric conditions is exceptional, easing the travel down to undiscovered worlds.”
+“A rethink of structural stress resistance, in cooperation with Achilles engineers, has resulted in the Mandalay taking full advantage of the SCO frame shift drive. We believe this vessel is an exceptional package for pilots who wish to explore the galaxy efficiently, comfortably and in style.”
+Notable at the Mandalay’s release party was the lack of a representative of Sirius Corporation. Rumours of an ongoing disagreement between representatives and Zorgon Peterson management over Achilles’ design input have grown in volume in recent weeks.</story>
+  </article>
+  <article>
+    <id>8c77d4fa-55e3-4a56-a423-6f10f017b6f4</id>
+    <link>/galnet/uid/6723599650a8d2e7a403836b</link>
+    <title> President Winters Assumes Office</title>
+    <date>31 OCT 3310</date>
+    <story>The inauguration ceremony has taken place to formally swear in Felicia Winters as the president of the Federation.
+President Winters made a public address from the White House in Olympus Village on Mars:
+“I pledge to work for the benefit of each and every individual within our Federation. My administration will redirect funding away from corporations toward improving health, public services and quality of life. Together, we will launch a new era of optimism and opportunity!”
+“My first act is to order the Federal Intelligence Agency to shut down the Proactive Detection Bureau. The illegal surveillance of all communication ends now. We will propose to Congress that the Domestic Counter-Terrorism Act of 3307 is revoked, allowing our Federal Accord to uphold each citizen’s constitutional right to privacy.”
+The presidential election was held in October 3309, when Felicia Winters eclipsed her rival Jerome Archer by four per cent of the vote. Her inauguration was delayed for a number of reasons, including the personal tragedy affecting the Winters family after disastrous earthquakes on Rhea 3.
+President Winters is supported by Vice President Isolde Rochester, matriarch of the famous Rochester family. The Liberal Party will now form a new Federal government, led by a hand-picked Cabinet. This includes Congressmen Kristine Lasky as Secretary of State, Conn Montgomery as Secretary for Defence, Bai Zheng as Secretary for Security, and Pierre-Marc Pelletier as Grand Attorney.
+Former President Zachary Hudson has officially vacated the office, having served since 3301. His successor, Shadow President Jerome Archer, will now lead the Republican Party as the opposition.</story>
+  </article>
+  <article>
+    <id>0188e685-ed52-4762-b177-0c754a87d503</id>
+    <link>/galnet/uid/672a56ee0d07c5592101e0e2</link>
+    <title> A New Dawn for Humanity?</title>
+    <date>07 NOV 3310</date>
+    <story>With the Thargoid invasion force seemingly on the edge of defeat, political analysts have presented several arguments for what follows.
+The potential balance of power across the core systems will be heavily influenced by the ambitions of its primary players – perhaps crucially in the Federation, claims Jean-Daniel Moulin:
+“President Winters has finally taken up residence in the White House, ready to face a multitude of challenges. A depressed war economy, mass citizen displacement and a series of late-term policies implemented by the outgoing Zachary Hudson will keep her schedule full for months. Jeremy Archer stands opposite her in Congress, ready to pounce on any signs of weakness and eager to fully emerge from the long shadow of Hudson as the true leader of the Republican party.”
+On the Imperial front, Cassia Carvalho of the Imperial Herald has provided a summary of those most likely to benefit post-invasion:
+“Emperor Arissa remains the figurehead of Imperial authority, and the successful navigation of military, migrant and domestic challenges has only enhanced her popularity. Likewise for Senator Denton Patreus, whose tactical leadership during the Thargoid war reinforced his power as Admiral of the Fleet. Princess Aisling enjoys glowing praise from Aegis figures as part of the Imperial delegation to the anti-xeno initiative, particularly her focus on humanitarian operations. And Senator Zemina Torval seems poised to assume the position of Chancellor in the near future. What comes next for the continued glory of the Empire?”
+In the Alliance, Prime Minister Mahon faces his strongest opposition for some time in the Alliance, according to Vanya Driscoll of the Alliance Tribune:
+“There have been some accusations towards the Prime Minister of a lack of decisive leadership during the Thargoid invasion. His reliance on a military pact with Sirius Corporation to enhance the Alliance Defence Force’s AX capabilities awoke key dissenters to Mahon's otherwise popular rule – most notably from Councillor Nakato Kaine, whose anti-corporate stance and strong devotion to the Alliance’s founding ideals have won her plenty of support.”
+Various newsfeeds discussed other figures: Sirius Corporation’s continued influence over many aspects of the corporate landscape gives CEO Li Yong-Rui considerable power. Pranav Antal, Simguru of the Utopia, leads a far smaller but vital community of devotees convinced of their guide’s future-tech vision.
+Yuri Grom remains a prominent independent fleet commander – viewed as a principled liberator to some, and a ruthless dictator to others. Finally, the Pirate King Archon Delaine’s recent targeted attacks on Emperor Arissa and Shadow President Archer suggests he sees an opportunity to expand his criminal influence in the early post-Invasion era.</story>
   </article>
 </GalnetArchive>
