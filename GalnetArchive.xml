@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <GalnetArchive>
-  <version>1.236</version>
+  <version>1.238</version>
   <article>
     <id>5ff5b9b37a37e</id>
     <link>
@@ -35453,5 +35453,33 @@ Aden Tanner, special military advisor to Aegis, provided the following update vi
 “This is our chance to put an end to the Thargoid invasion once and for all. After two years of struggle, sacrifice and bravery, our pilots have risked their lives once more to protect humanity from the greatest threat our people have ever known.”
 “We have many pilots still out there – many of which have fought from the very first Titan’s arrival. If you’re able, they could use your support. Ships equipped with Thargoid Pulse Neutraliser, Caustic Sink Launchers, and a Guardian Nanite Torpedo Pylon will be capable of navigating the Maelstrom around Cocijo to strike the Titan’s Heat Vents, ultimately forcing a meltdown state.”
 Pilots looking to join the fight against Titan Cocijo should outfit their ships accordingly and join the Battle for Sol. Aegis scanners will record any damage inflicted on Cocijo by individual ships, so pilots will not need to register at a port prior to participation.</story>
+  </article>
+  <article>
+    <id>24051ba7-243f-4fc4-a105-918355332541</id>
+    <link>/galnet/uid/6761bcd5e15c2584700ec739</link>
+    <title> Titan Cocijo Destroyed, Sol Liberated</title>
+    <date>18 DEC 3310</date>
+    <story>The last remaining Thargoid Titan has been destroyed in the Sol system, following weeks of fierce fighting between Thargoid and human AX pilots.
+Titan Cocijo entered a meltdown state 24 hours ago, after pilots were able to jam its heat vents to trigger an overload of heat within the giant mothership. Shortly before detonation, the last remaining Thargoid vessels were seen entering portals to leave the system. No Thargoid ships remain in Sol.
+President Felicia Winters, speaking from Feynman in Eta Cassiopeiae, announced victory in the Battle for Sol via all newsfeeds:
+“This is a historic moment in human history. We have fought together against an alien invader who sought to dominate us. In this moment, today, we have triumphed. The heart of the Federation was the Thargoid’s final target, and with Aegis’ support the Federation stood firm. Now we look to rebuild, refocus and move forward.”
+Professor Alba Tesreau also provided a statement on behalf of Aegis:
+“It is important to recognise the significance of our victory. When coming together as one, working side-by-side regardless of identity or allegiance, we have proven that humanity can withstand significant challenges and move forward, arm in arm, towards the future. But in such moments, we remember those who have been taken from us – the selfless, the heroic and the loved. It will take time to heal. We thank the efforts of all those who defended us against the Thargoids, due to which so many of us remain to mourn the lost.”
+Words of support from Allied and Imperial figures have been exchanged, though some Federal ICE-Casters have drawn attention to the lack of military support from the other superpowers during Cocijo’s assault on Sol.
+The repair of all offline ports in Sol has been highlighted as the next priority. Shipments of materials needed to complete the restoration of these locations are needed in Sol and neighbouring systems which experienced Thargoid invasion.
+Refugees numbering in the billions remain homeless, still living in temporary shelters assigned by Rescue Megaship processing teams. Many of these refugees are reluctant to return to their home systems and are looking for new opportunities among the stars.
+Participants in the assault on Titan Cocijo can now collect their rewards from Rescue Ship Hutner in the Luyten’s Star system.</story>
+  </article>
+  <article>
+    <id>ce08b00f-366c-45a2-a8c4-3ae1c933bf25</id>
+    <link>/galnet/uid/67642c17b8e4286da507c5a3</link>
+    <title> Sandra’s Workshop Asks for Festive Gift Couriers</title>
+    <date>20 DEC 3310</date>
+    <story>The CEO of leading children’s toy manufacturer Sandra’s Workshop has requested help with parcel deliveries.
+Sandra Corrs, the much-loved philanthropist who provides gifts to children across the core systems each year, made a similar request two years ago. Then, with the Thargoid invasion just beginning, her courier fleet was loaned out to help refugee evacuation efforts.
+This year a different problem has emerged just as the Thargoid Invasion appears to be over, as Sandra explained to Vox Galactica:
+“Our Dolph’s Routes transport fleet has been upgraded and fitted to increase delivery capacity. Or, as we like to say in the workshop: ‘ferry even more joy’, haha! But we’ve discovered a rather irksome snag: with so many little boys and girls displaced by the nasty alien invasion, it’s going to be a challenge finding them all!”
+“Even our fleet won’t be able to deliver all our presents on time, given the extra work needed to track down their proper delivery points. We’ll need to rely on kind-hearted pilots to volunteer their time and ensure we can brighten the smiles on every child on our list.”
+Pilots willing to help Sandra’s Workshop can collect festive gifts from the Frost Dock outpost in the Njambalba system. The outpost can only provide landing pads for small- and medium-sized vessels. A beacon outside Frost Dock holds delivery information which can be acquired via scan.</story>
   </article>
 </GalnetArchive>
