@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <GalnetArchive>
-  <version>1.239</version>
+  <version>1.240</version>
   <article>
     <id>5ff5b9b37a37e</id>
     <link>
@@ -35495,5 +35495,15 @@ Sofia Trevino wrote a summary for the Federal Times:
 “Shadow-President Jerome Archer has stamped down on this flourishing popularity and was described as ‘outraged’ by the notion of Imperial influence in the heart of the Federation. Republican media outlets, counteragents and even the Proactive Detection Bureau were deployed to quell the initial unrest.”
 Princess Aisling has denied any involvement in the growth of Imperial support, but did imply that Federal populations ‘should not be spurned for the consideration of new ideas’.
 It has been noted that a core of Aisling’s supporters remain active in Barnard’s Star, which no doubt concerns the Federal government.</story>
+  </article>
+  <article>
+    <id>da11f254-86e2-4e85-8c93-efa3fb51a4e4</id>
+    <link>/galnet/uid/677eb2c6205f99a10e09bdc4</link>
+    <title> Anti-Xeno Blockade Contains HIP 22460</title>
+    <date>10 JAN 3311</date>
+    <story>A squadron of AX pilots have planned to sustain pressure on the lingering Thargoid presence in the HIP 22460 system.
+Led by the respected AXI and XSF combat fleets, the blockade seeks to push Thargoid craft from the area from January 12th.
+HIP 22460 was the staging ground for Salvation’s Proteus Wave weapon, which sought to end the Second Thargoid War in August 3308 but resulted in disaster. Prior to this it is believed to have hosted several clandestine research operations hosted by Azimuth Biochemicals and protected by the notorious Black Flight.
+More updates will be provided as the story develops.</story>
   </article>
 </GalnetArchive>
