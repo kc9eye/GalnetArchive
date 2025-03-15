@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <GalnetArchive>
-  <version>1.246</version>
+  <version>1.247</version>
   <article>
     <id>5ff5b9b37a37e</id>
     <link>
@@ -35620,5 +35620,33 @@ CEO Madelyn Teague shared her enthusiasm at a gala event in Minerva, covered by 
 “The sheer potential of this process is staggering. I’m delighted that the move towards widespread, community-led expansion was so eagerly endorsed by all three superpowers. System colonisation contacts will be available on starports to facilitate the initial work on a claimed system.”
 “This is an exciting time, and I can't wait to see how the next few months unfold. Particularly when the latest additions to Brewer Corporation’s Trailblazer fleet are finished next week. That initiative is still ongoing at Starlace Station, by the way!”
 Those looking to begin a new colony are advised to purchase and prepare a suitable transport vessel, as considerable resources are needed to establish a new port in a claimed system.</story>
+  </article>
+  <article>
+    <id>63c44960-b3b3-41a4-b145-a55d4fee6769</id>
+    <link>/galnet/uid/67c9b553f617e6113c0c5d24</link>
+    <title> Brewer Corporation Trailblazer Fleet Upgraded</title>
+    <date>06 MAR 3311</date>
+    <story>The campaign to update Brewer Corporation’s Trailblazer fleet has concluded in the Minerva system.
+Thanks to the efforts of independent pilots ferrying shipments to Minerva, a total of 5 additional Trailblazer megaships will be placed in strategic locations on the fringes of the core systems, providing a hub of tradable materials and services for early colonies.
+Brewer COO Mark Rennik remarked on the campaign’s success:
+“Once again, we have received widespread support and confirmation of our efforts, which is both humbling and inspiring. It is obvious that there is great appetite for breaching the latest frontier to establish new colonies, further expanding humanity’s sphere of influence in our section of the galaxy.”
+The Trailblazer megaships are expected to be deployed in the coming weeks. 
+Participants can now collect their rewards from the initiative.</story>
+  </article>
+  <article>
+    <id>0ac8c849-4826-4b60-8427-9c696cea8dbc</id>
+    <link>/galnet/uid/67d1cb963e704d1aaa0e2ef9</link>
+    <title> New Era of System Colonisation Hailed a Success</title>
+    <date>13 MAR 3311</date>
+    <story>The first wave of newly colonised star systems has been labelled a ‘remarkable success’ by observers from across the core systems.
+Harlow Nassry of the Federal Times wrote that “the raw potential of these new ports and settlements has inspired migration, with a notable number of displaced refugees from Sol boarding colony ships to start fresh.”
+Colm Tornquist of the Imperial Herald noted the “considerable opportunity offered by Brewer Corporation’s support system for independent system colonisation,” remarking that “these fledgling populations are potential candidates to accept the Empire’s benevolence.”
+Meanwhile, Irfan Karim of the Alliance Tribune suggested the “commercial enterprise offered by these system architects is truly impressive. One wonders just how far this new frontier will expand, given the industrial potency of these trailblazing communities.”
+Brewer Corporation has released the official figures on the initial colonisation rush:
+26,684 Claims have been made
+13,165 Systems have been colonised
+24,037 New starports and outposts have been built
+14,216 Surface installations have been established
+983,599,593 Units of cargo have been delivered to construction sites</story>
   </article>
 </GalnetArchive>
