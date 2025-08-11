@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <GalnetArchive>
-  <version>1.248</version>
+  <version>1.249</version>
   <article>
     <id>5ff5b9b37a37e</id>
     <link>
@@ -35998,5 +35998,15 @@ A spokesperson for Zorgon Peterson stated:
 “We’re proud to see the Panther Clipper launched on schedule. The response from the pilot community has been overwhelming, and instrumental, in making this happen. Early sales have been promising, and we’re looking forward to seeing the Panther’s impact on interstellar trade.”
 Pilots are now being asked to deliver aluminium, steel, titanium, and CMM composites to replenish Trailblazer megaship stock reserves as they supply humanity’s newest frontier regions. The considerable success of independent colonisation efforts has placed pressure on Brewer Corporation’s stocks of these materials.
 Brewer Corporation’s primary distribution silo at Starlace Station in Minerva is hosting shipments, with a modified cargo rack listed among the rewards.</story>
+  </article>
+  <article>
+    <id>618ef26d-9651-4ce6-b0a6-fd5ff13459d3</id>
+    <link>/galnet/uid/68946b3342457572260f675a</link>
+    <title> Pirate Raids Threaten Colonisation Convoys</title>
+    <date>07 AUG 3311</date>
+    <story>Brewer Corporation has issued an urgent call for assistance following a wave of pirate attacks targeting the Minerva based resupply efforts for the Trailblazer fleet.
+The convoys, which are transporting historically large volumes of aluminium, steel, titanium and CMM composites, have become high-priority targets for opportunistic raids. Security analysts have noted the coordinated nature of the attacks, prompting speculation that elements within a superpower may be providing clandestine support for the attacks.
+A Brewer Corporation spokesperson commented: “The Trailblazer fleet remains a key element in supplying humanity’s expansion into the stars and exploiting the opportunities this affords. It’s disappointing, if not surprising, that some forces would prefer to see that vision of independence fail.”
+Pilots are asked to defend shipping lanes by registering for the initiative at Starlace Station in Minerva and destroying hostile pirate forces found throughout the Minerva system.</story>
   </article>
 </GalnetArchive>
