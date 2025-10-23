@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <GalnetArchive>
-  <version>1.253</version>
+  <version>1.254</version>
   <article>
     <id>5ff5b9b37a37e</id>
     <link>
@@ -36139,5 +36139,15 @@ While the corporation confirmed that the priority was immediate, it declined to 
 The megacorp’s CEO, Madelyn Teague, explained:
 “Brewer Corporation adheres to the strictest standards of client confidentiality and therefore cannot reveal the origin of this order. What I can assure shareholders is that the sheer scale and limited timeframe of the order is considerable. While this has stressed our reserves of certain stocks, we are taking steps to ensure the order is fulfilled with the level of service Brewer Corporation is famed for.”
 Brewer Corporation has nominated the Trailblazer Dream in the HIP 90578 system as the staging point for this order, and independent pilots are requested to deliver Bromellite or Cobalt to its commodity market. These materials will be sent directly to construction yards and support networks building the modular starport sections.</story>
+  </article>
+  <article>
+    <id>0af5191c-78ca-4e1f-b466-74c9448393d5</id>
+    <link>/galnet/uid/68f9e2957598ae4a1b0763e1</link>
+    <title> Megaship Movements Spark HIP 87621 Speculation</title>
+    <date>23 OCT 3311</date>
+    <story>Independent observers have reported unusual activity in systems surrounding HIP 87621, intensifying rumours of covert operations in the region.
+Multiple reports indicate that megaships have been spotted operating near the permit-locked system over the past week. Though no Power has formally acknowledged involvement, analysts believe this early mobilisation suggests a push for influence around HIP 87621.
+Access to the system itself remains under permit lock. All independent colonisation requests for the surrounding area continue to be denied with no reasons cited. Conrad Sterling, a political correspondent for Vox Galactica, noted:
+“Typically, when you see megaships mobilising on this scale it usually precedes territorial stakes being claimed. None of the Powers have formally announced such plans but pilots continue to report receiving private messages from their pledged Power representatives indicating each have a vested interest in whatever HIP 87621 is hiding.”</story>
   </article>
 </GalnetArchive>
