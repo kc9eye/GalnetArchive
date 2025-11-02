@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <GalnetArchive>
-  <version>1.254</version>
+  <version>1.255</version>
   <article>
     <id>5ff5b9b37a37e</id>
     <link>
@@ -36149,5 +36149,29 @@ Brewer Corporation has nominated the Trailblazer Dream in the HIP 90578 system a
 Multiple reports indicate that megaships have been spotted operating near the permit-locked system over the past week. Though no Power has formally acknowledged involvement, analysts believe this early mobilisation suggests a push for influence around HIP 87621.
 Access to the system itself remains under permit lock. All independent colonisation requests for the surrounding area continue to be denied with no reasons cited. Conrad Sterling, a political correspondent for Vox Galactica, noted:
 “Typically, when you see megaships mobilising on this scale it usually precedes territorial stakes being claimed. None of the Powers have formally announced such plans but pilots continue to report receiving private messages from their pledged Power representatives indicating each have a vested interest in whatever HIP 87621 is hiding.”</story>
+  </article>
+  <article>
+    <id>c5f5b596-5dd9-41f6-bc55-da347f10e816</id>
+    <link>/galnet/uid/68ff5bd078e04e14b606c84b</link>
+    <title> Brewer Construction Campaign Achieves Targets</title>
+    <date>28 OCT 3311</date>
+    <story>Brewer Corporation has confirmed the success of its recent campaign to acquire construction materials, with independent pilots delivering vast quantities of resources to meet its clients’ order.
+CEO Madelyn Teague released a statement from Brewer’s Minerva headquarters:
+“Our sincere thanks go to the many pilots who supported this campaign. The required stocks have been secured in record time, enabling us to meet the terms of this urgent order.”
+Independent observers believe that the concentration of megaship traffic and the secrecy surrounding the order, together with the reported direct messages to pilots pledged to one of the twelve Powers, are strong indicators of an intention to rapidly construct a science and security enclave around HIP 87621.
+Analysts have concluded that given the sheer scale of Brewer Corporation’s logistical operations deployed for this project, the enclave could be completed within just a few days.
+Lexi October has remained tight-lipped following the news, with many now speculating whether she will bow to pressure from the Superpowers to remove the permit lock.</story>
+  </article>
+  <article>
+    <id>2441c313-9005-4116-81c7-34e13adefc13</id>
+    <link>/galnet/uid/69024c861188005a37088767</link>
+    <title> Panther Clipper Enters Full Production</title>
+    <date>30 OCT 3311</date>
+    <story>Zorgon Peterson has confirmed that the Panther Clipper has entered full production, with deliveries now commencing to shipyards across the core systems.
+Previously available through limited release, the Panther Clipper is widely regarded as the largest and most capable civilian freighter in history and has already become a fixture of the galaxy’s expanding trade and colonisation efforts.
+A Zorgon Peterson spokesperson remarked:
+“The Panther Clipper represents the pinnacle of large-scale transport engineering, meeting the demanding standards of long-range hauliers, corporate logistics and colonisation.”
+“The vessel’s hallmark feature remains its immense cargo capacity, exceeding 1,200 tonnes when fully optimised, along with compatibility with the advanced Mk II cargo rack system. We’re delighted to make the Panther Clipper available to all.”
+The Panther Clipper is now available for purchase at shipyards throughout the core systems.</story>
   </article>
 </GalnetArchive>
