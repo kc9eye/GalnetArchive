@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <GalnetArchive>
-  <version>1.261</version>
+  <version>1.263</version>
   <article>
     <id>5ff5b9b37a37e</id>
     <link>
@@ -36557,5 +36557,41 @@ Hermine Delarue, Operations Executive for Deep Space Surveys, has issued an appe
 “Rainbow’s End is designed to act as a remote research hub for explorers far beyond established survey routes. To maximise its effectiveness, we need fresh stellar cartographic data to seed the station’s modelling systems. We have already picked up many fascinating scans and more data will help us clarify what we are dealing with.”
 Pilots are invited to sign up for the initiative and deliver exploration data to Rainbow’s End in Roefoo ZE-H d10-0. All qualifying contributions will be rewarded.
 The initiative will remain open until Friday 27th of March.</story>
+  </article>
+  <article>
+    <id>c68421ca-87ec-4ced-9ce9-170b8aaeae88</id>
+    <link>/galnet/uid/69c10e7491969d66dd0d9613</link>
+    <title> Caspian Explorer Enters Full Production</title>
+    <date>23 MAR 3312</date>
+    <story>The Caspian Explorer has received the green light for full distribution, having previously been available via limited release only.
+As shipments of Zorgon Peterson’s latest design arrive at markets, an accompanying press states the Caspian Explorer has been developed as a highly capable, dedicated exploration ship.
+A Zorgon Peterson spokesperson remarked:
+“The Caspian was intended to explore the furthest reaches of the galaxy with its extended jump range, optimised orbital glides, and a remarkable FSD supercharge capacity.”
+“With plenty of room for internal outfitting and integration with newer Mk II modules, there really is no other exploration vessel like it.”
+The Caspian Explorer is now available for purchase at shipyards throughout the core systems.</story>
+  </article>
+  <article>
+    <id>765713d2-5b63-40b4-aef6-c839d88251e0</id>
+    <link>/galnet/uid/69c673ee988645f3130ed9ce</link>
+    <title> Exploration Data Initiative for Rainbow’s End Concludes Successfully</title>
+    <date>27 MAR 3312</date>
+    <story>The exploration initiative supporting the new Rainbow’s End deep-space port has concluded, with commanders delivering a substantial volume of exploration data to the facility.
+Organisers confirmed that the target for stellar survey submissions was exceeded well ahead of expectations, allowing scientific teams to begin large-scale modelling of galactic regions around the starport’s home system of Roefoo ZE-H d10-0.
+Deep Space Surveys Operations Executive Hermine Delarue released a statement following the conclusion of the initiative:
+“The response from the exploration community has been exceptional. Databanks at Rainbow’s End are now filled with quality survey data gathered from some of the most remote areas of the galaxy. Our modelling teams can begin analysing the information to produce new stellar maps of this region. We will issue further mission priorities to our explorers via our internal communications channels once analysis is completed.”
+Delarue expressed her thanks to all participating commanders on behalf of the Distant Worlds 3 expedition command team and wished the new port luck as a hub for deep-space research.
+Rainbow’s End is now fully operational and open to pilots exploring the Mare Somnium frontier.</story>
+  </article>
+  <article>
+    <id>b3117bfa-94c6-4e8b-ba62-183d8c437bd2</id>
+    <link>/galnet/uid/69ce25ba0e274468b0021505</link>
+    <title> Radicoida Unica Begins Blooming as New Research Initiative Announced</title>
+    <date>02 APR 3312</date>
+    <story>October Consortium has confirmed that Radicoida unica, an enigmatic flora found exclusively within HIP 87621, has entered an active reproductive phase.
+According to their scientific teams, the plant’s dormant cycle has ended, triggering the growth of hardened ‘seed pods’ across its upper platforms. These pods hold rare biological material believed to be the main source of the species highly valued physiological effects.
+Researchers say that this activation validates early theories about the plant’s sensitivity to nearby life signatures, with its bloom phase perceived as a direct response to recent studies by Commanders of the Pilots’ Federation. Sceptics noted that some Radicoida sites are yet to bloom, however.
+Military and corporate restrictions are still in effect while oversight of the enclave is coordinated in line with the recent October Accords. October Consortium has therefore called upon Commanders to support a new phase of exobiological harvesting. The collected seed pods will undergo detailed analysis and biochemical synthesis to better understand their unique properties.
+Exogene Sciences in HIP 87621 has been authorised as the central collection point for incoming samples, with October Consortium overseeing transfer and storage. Scientists hope this phase of data acquisition will unlock further leaps in the pharmacological applications of Radicoida unica.
+Commanders are encouraged to exercise caution, as the plant continues to thrive on worlds with hazardous temperatures and volatile surface conditions. </story>
   </article>
 </GalnetArchive>
