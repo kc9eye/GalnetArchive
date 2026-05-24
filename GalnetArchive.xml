@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <GalnetArchive>
-  <version>1.267</version>
+  <version>1.268</version>
   <article>
     <id>5ff5b9b37a37e</id>
     <link>
@@ -36779,5 +36779,16 @@ Jaques, the cyborg bartender and owner of the starport, recalled that event with
 “Ten years later and Jaques Station is still open, still serving drinks and still selling my famous Jaques Quinentian Still to potent potable enthusiasts. Most importantly, Colonia is thriving. It’s high time we celebrated this, I’d say!”
 When pressed for more information Jaques simply replied “Soon” with a cybernetic wink, and hinted that the intended celebrations to mark Colonia’s tenth anniversary would have a lasting impact should plan go well.
 Vox Galactica will be in regular contact with Jaques and the Colonia Council and provide updates ahead of this auspicious occasion.</story>
+  </article>
+  <article>
+    <id>beb0d7bb-4d45-486d-8d18-da56c7664a51</id>
+    <link>/galnet/uid/6a04820477b3d8810201b3c7</link>
+    <title> Lhou Mans Starports Return to Full Operation</title>
+    <date>21 MAY 3312</date>
+    <story>Starports damaged in recent attacks across the Lhou Mans system have been successfully repaired.
+The stations bore the brunt of a recent rise in extreme and organised criminal activity allegedly led by the notorious pirate figure known only as Lady Zi.
+A joint exercise between system security forces and independent pilots drove hostile forces from Lhou Mans and allowed for the safe evacuation of passengers stranded on the damaged stations before repair efforts could begin.
+Following the successful delivery of commodities needed to complete the repairs, system authorities have now confirmed that Dashiell Port, Sabine Gateway, Ryman Enterprise and Webb City are fully operational, with normal services now resuming.
+No further sightings of Lady Zi’s pirate fleet have been reported in the system and surrounding areas leaving many to question where they could strike next.</story>
   </article>
 </GalnetArchive>
